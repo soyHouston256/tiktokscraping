@@ -118,47 +118,45 @@ El script `analizar_comentarios.py` genera automáticamente:
 
 ## 🔧 Solución de Problemas
 
-### Solo extrae 20 comentarios
-**Solución:** Usa `extractor_api_tiktokapi.py` o `extractor_api_tiktokapipy.py` en lugar del método básico de Playwright.
-
-### Error: "No se pudo abrir el panel de comentarios"
-- El video puede tener comentarios deshabilitados
-- Intenta con un video diferente
-- Verifica que la URL sea correcta
-
 ### Error: "ModuleNotFoundError: No module named 'TikTokApi'"
 ```bash
 pip install TikTokApi
-# o
-pip install tiktokapipy
-```
-
-### Error: "Playwright not installed"
-```bash
 playwright install chromium
 ```
 
-### El navegador no se abre (headless=True)
-Cambia `headless=False` a `headless=True` en el código si quieres ver el navegador.
+### Error: "No se pudo abrir el panel de comentarios"
+- El video puede tener comentarios deshabilitados
+- Verifica que la URL sea correcta
+- Intenta con otro video público
 
 ### TikTok bloquea la extracción
-- Espera unos minutos entre extracciones
-- Usa diferentes videos
-- Las APIs no oficiales pueden ser bloqueadas temporalmente
+- Espera unos minutos entre extracciones masivas
+- La API no oficial puede ser bloqueada temporalmente
+- Intenta con diferentes videos
 
-## 📁 Archivos del Proyecto
+### No extrae todos los comentarios
+- Algunos videos muy populares pueden tener limitaciones
+- TikTok puede restringir el acceso a comentarios antiguos
+- Verifica que el video tenga comentarios públicos
+
+## 📁 Estructura del Proyecto
 
 ```
 trollDetector/
-├── detector.py                      # Script original (fixed)
-├── extractor.py                     # Script básico mejorado
-├── extractor_all_comments.py        # Método 1: Playwright con scroll
-├── extractor_api_tiktokapi.py       # Método 2: TikTokApi (Recomendado) ⭐
-├── extractor_api_tiktokapipy.py     # Método 3: tiktokapipy (Simple) 🚀
-├── README.md                        # Este archivo
-├── comentarios_*.json               # Comentarios extraídos (JSON)
-├── comentarios_*.csv                # Comentarios extraídos (CSV)
-└── debug_screenshot_*.png           # Screenshots de debug
+├── 🐍 Scripts
+│   ├── extractor_api_tiktokapi.py      # Extractor principal
+│   ├── analizar_comentarios.py         # Análisis automático
+│   └── comandos_utiles.sh              # Comandos útiles
+│
+├── 📊 Datos
+│   ├── comentarios_limpios.json        # Comentarios únicos
+│   ├── comentarios_por_categoria.json  # Categorizados
+│   └── reporte_analisis.txt            # Reporte completo
+│
+└── 📚 Documentación
+    ├── README.md                       # Este archivo
+    ├── GUIA_RAPIDA.md                  # Guía rápida
+    └── RESUMEN_FINAL.md                # Resumen ejecutivo
 ```
 
 ## 🎯 Casos de Uso
@@ -179,15 +177,15 @@ Usa los comentarios extraídos con herramientas de NLP para detectar:
 - Identificar usuarios spam
 - Analizar patrones de comportamiento
 
-## 🚀 Próximas Mejoras
+## 🚀 Mejoras Futuras
 
-- [ ] Detección automática de trolls/spam usando ML
-- [ ] Análisis de sentimientos integrado
-- [ ] Soporte para múltiples videos (batch)
-- [ ] Interfaz web con dashboard
+- [ ] Detección automática de trolls/spam con ML
+- [ ] Análisis de sentimientos más avanzado (modelos NLP)
+- [ ] Procesamiento batch de múltiples videos
+- [ ] Dashboard web con visualizaciones
+- [ ] Exportar a Excel/CSV con gráficos
 - [ ] Extracción de respuestas a comentarios
-- [ ] Exportar a Excel con gráficos
-- [ ] Detección de bots
+- [ ] Detección de bots y usuarios sospechosos
 
 ## Advertencia Legal
 
