@@ -1,0 +1,691 @@
+id,text,bot_classification,bot_score,is_anomaly_iforest,is_anomaly_dbscan,max_similarity,is_duplicate,text_length
+1,"seamos más críticos al momento de elegir un candidato, pensemos en el Perú como una gran empresa, y démosle el puesto de gerencia al que este más capacitado, al que tiene mejor hoja de vida, que en este caso es Rafael 💪, no dejemos ese puesto a cualquier asnillo porfavor 🙃",Alta sospecha (ambos),2,1,1,0.3845165876999143,0,273
+2,"Creo que para ser un gran líder y amar a tu prójimo por igual, buscando el bienestar de todos, el Celibato es un requisito, no tendrías a una familia que anteponer a los demás y tus hijos y hermanos son el PUEBLO. Grande Rafael. Ojalá llegues a ser presidente del Perú y demuestres al prójimo el gran corazón que tienes.",Sospecha media (uno),1,1,0,0.3217374686275276,0,320
+3,Para mí es el mejor apuesto por el por su conocimiento su trayectoria internacional y su capacidad de resolver investigue la obras que realizado con su plata porque el estado le cerró la puerta Peruanos apoyenlo por el momento es el mejor 🇵🇪💫,Sospecha media (uno),1,0,1,0.42423871529477175,0,242
+4,moliendo azúcar 12000 mil dólares.. 🤣😂😂.. voy a comprar mi molino.. porque si trabajo para alguien con 1000 soles de sueldo .. tendría que trabajar 4 años y eso sin ningún gasto..,Normal,0,0,0,0.4958630626259355,0,179
+5,Te admiro mucho señor Rafael usted es un ejemplo para el perú merece ser presidente,Normal,0,0,0,0.44859493872055,0,83
+6,"Es maravilloso escuchar el relato de su trayectoria, desde que por primera vez se presentó supe que es lo que necesita el Perú, confío que por fin empiece a mejorar nuestro País.",Normal,0,0,0,0.35878755752068886,0,178
+7,"La Udep es una universidad grande, profesores con otro tipo de visión. Es un oasis en el Perú donde te concentras en ser mejor. Cero política. Tu mayor preocupación son los exámenes y la fiesta para celebrar fin de ciclo.",Normal,0,0,0,0.48522289903153093,0,221
+8,Su historia tiene muchos vacíos 🤨,Normal,0,0,0,0.549919534742727,0,33
+9,"totalmente CIERTO sin perseverancia no logras NADA 😐 el HAMBRE Y LA NECESIDAD es un gran impulso para irte por el BUEN CAMINO O MAL CAMINO, 💪🏼👍🏼",Alta sospecha (ambos),2,1,1,0.4072893645032674,0,144
+10,te creo?,Normal,0,0,0,0.3135020046619191,0,8
+11,"La envidia, la maldad, el egoísmo existe.
+Pero usted tranquilo señor Rafael López Aliaga, mientras usted sea transparente, cuenta con el respaldo de Dios, ya que a ÉL le agrada la honestidad y la justicia. Y yo sé que usted con la ayuda de Dios gobernará muy bien el país 🇵🇪
+Que Dios lo bendiga siempre 🙏 🙌",Alta sospecha (ambos),2,1,1,0.3800181418728334,0,306
+12,Después de desear que el dólar suba para ver cómo desangra la gente humilde jamás votaría x este señor .,Normal,0,0,0,0.40672567963228795,0,104
+13,"Es un hombre brillante. En Perú esto no representa al pueblo, el pueblo se siente representado en el “prosor” Castillo. Me gustaría verlo de presidente, pero mejor siga de alcalde en Lima. Porque este país no merece gente inteligente en el gobierno.",Normal,0,0,0,0.3485479513452776,0,249
+14,"Ho, una persona inteligente, hábil y con ganas de ser el primero siempre, eso le llevó al éxito",Normal,0,0,0,0.4231479839621128,0,95
+15,"RAFAEL ESTÁS PTEPARADO PARA SER PRESIDENTE EN EL PERÚ.
+ESTAS MIY CAPACITADO.
+TIENES EXPERIENCIA EN LOGÍSTICA.
+ERES CULTO, AMABLE, MUY PREPARADO. NO ERES CORRUPTO, ERES PERSRVERANTE Y MUY ESTUDIOSO.
+TE ELIJO COMO MI PRESIDENTE.
+RAFAEL LOPEZ ALIAGA. TODAS LAS BENDIVIONES PARA TI",Alta sospecha (ambos),2,1,1,0.3690914400344125,0,277
+16,"Ejemplo de vida de muchos peruanos que tienen limitaciones económicas para estudiar, y sigues adelante con trabajo y perseverancia",Normal,0,0,0,0.45522539758181463,0,130
+17,La UDEP Piura una gran universidad en esa epoca ingresar a ella era dificil y mantenerse tenias q esforzarte mucho. Mis hermanos son egresados.,Normal,0,0,0,0.37569973374677607,0,143
+18,"Me conmueve. Lo mejor que nos puede pasar a los peruanos, es tener a Porky como nuestro presidente",Normal,0,0,0,0.3397884263807165,0,98
+19,ALGUIEN QUE LOGRA ....LO QUE SE PROPONE!!....RAFAEL LOPEZ ALIAGA PRESIDENTE DEL PERÚ 2026!!....XQ EL PERÚ LO MERECE Y LO EXIGE!!...,Alta sospecha (ambos),2,1,1,0.4427728451879862,0,131
+20,así es cuándo menos das a los hijos. el que desea conseguir lo que quiere lo logra. lo digo por experiencia por mí hijo ahora convertido en empresario. por eso padres no les den plato servidos a sus hijos él que quiere celeste que le cuesta,Normal,0,0,0,0.4037410442941547,0,240
+21,"EL AMOR A DIOS Y OA PERSEVERANCIA.
+BIEN RAFAEL LÓPEZ ALIAGA PRESIDENTE 2026 🇵🇪🇵🇪❤️🩵",Normal,0,0,0,0.6904458844715543,0,83
+22,mi madre decía mientras tengas una carrera todo se puede hacer ( soy de ist me hice sola) 10 hermanos todos profesionales. Mientras quieras lo puedes hacer. No hay pretextos.,Normal,0,0,0,0.35624407724900675,0,174
+23,HISTORIA DE VIDA REAL! SABE COMOSALIR ADELANTE CON PERSEVERANCIA!!PORKI PRESIDENTE!,Alta sospecha (ambos),2,1,1,0.4881075038238369,0,83
+24,"Nadie sabe que fue regidor de Castañeda, robo ufff millones",Normal,0,0,0,0.3970095438994335,0,59
+25,Merece ser presidente .,Normal,0,0,0,0.4420229364963707,0,23
+26,grande talento peruano ... un ejemplo de superación es nuestro presidente 2026 Rafael López Aliaga... porky mi voto es tuyo todo v el Perú te pide.,Normal,0,0,0,0.3970107969220855,0,147
+27,"coincido... el hambre no solo de alimento, si no de querer surgir...progresar y no quedar en el mismo lugar.... el hambre y necesidad van de la mano.. y forjan a grandes personas pero también las pueden destruir..",Normal,0,0,0,0.4480464186621604,0,213
+28,UN GRANDE RAFAEL ..... no cocina mucho de ti en las elecciones pasadas hoy en día me saco el sombrero eres el PRESIDENTE QUE NECESITAMOS,Normal,0,0,0,0.4365189395627484,0,136
+29,Porky presidente,Normal,0,0,0,1.0,1,16
+30,Tengo entendido que se se muele la caña para hacer el azúcar,Normal,0,0,0,0.5015271634786383,0,60
+31,Rafael López Aliaga será el mejor presidente del Perú🇵🇪🇵🇪🇵🇪🩵🩵,Normal,0,0,0,0.7524220980362689,0,61
+32,Mi porki será presidente quiero apostar a qué la hace,Normal,0,0,0,0.28036182195905357,0,53
+33,es verdad soy de colegio nacional universidad nacional y tengo mi propio negocio a punta de esfuerzo trasnochadas amanecidas pero lo logré,Normal,0,0,0,0.30656472366941384,0,138
+34,"toda tu bancada apoyó a Keiko(Dina), traicionaste mi voto en 1era vuelta.
+nunca Más",Normal,0,0,0,0.48062528104687496,0,83
+35,López Aliaga no es un apellido de alcurnia? gente de mucho dinero,Normal,0,0,0,0.35299216933942273,0,65
+36,me convenció votaré por el Alcalde de Lima Ing Rafael López Aliaga presidente del Perú 🇵🇪💙💙💙💙,Normal,0,0,0,0.6873256244051782,0,93
+37,el que dijo que en el 2026 no va a postular y que su palabra vale oro. Quiere que ahora le crean.plop,Normal,0,0,0,0.3755014124332757,0,101
+38,"Castillo ganó gritando
+PEBLO PEBLO PEBLO!!!
+A PORKY la gente lo ningunea por ser profesional.
+Nos damos cuenta del problema",Sospecha media (uno),1,0,1,0.29651550916078595,0,123
+39,"al igual que usted muchos que hemos querido salir adelante nos ha costado,, la vida no es fácil para nadie, Pero si quieres surgir te esfuerzas y logras avanzar",Normal,0,0,0,0.2808345912889594,0,160
+40,Gente que sabe el valor del esfuerzo y el valor del dinero con sacrificio...y así ser un mejor humano...esa gente vale...nadie es perfecto...pero este señor si se merece ser Presidente del Perú,Normal,0,0,0,0.37754494743162853,0,193
+41,"Perú con RLA: Meritocracia motivadora para jóvenes y mayores, así como criterio Gerencial para nuestro país . Eso sí, con fé cristiana y sensibilidad por nuestros prójimos.
+A elegir bien con Hambre por un Perú Mejor !!!",Alta sospecha (ambos),2,1,1,0.3361632394855191,0,219
+42,"ejemplo a seguir para los jóvenes, perseverancia y búsqueda de una educación real con universidades desligadas del marxismo y el comunismo.",Normal,0,0,0,0.4062495196206664,0,139
+43,Mi futuro Presidente! 🫡,Normal,0,0,0,1.0000000000000002,0,23
+44,"El éxitoso es gracias a su esfuerzo, disciplina y trabajo. El que quiere salir de ahí sale.",Normal,0,0,0,0.493650662779243,0,91
+45,Este hombre va hacer crecer el país y lo V estabilizar la más de lo que a hecho julioVelarde Rafael López Aliaga Presidente del Perú 😁,Normal,0,0,0,0.5209533313910103,0,134
+46,Grande Rafael ejemplo de perseverancia te admiramos !! Por eso serás el presidente,Normal,0,0,0,0.5187527996540422,0,82
+47,"comprendo lo que dice rafael López Aliaga , cuando me mandaron a una universidad nacional me cambió mi chip y me hizo madurar bastante",Normal,0,0,0,0.4897024313945319,0,134
+48,No cualquiera se hace millonario si no todos los peruanos fueras millonarios solo lo q se esfuerzan y quieren salir adelante … doy mi voto,Normal,0,0,0,0.34503135285252534,0,138
+49,Cuenta con mi voto este srñor,Normal,0,0,0,0.7152280000774537,0,29
+50,"Inspirador, empezó de abajo y lo hizo solo.👏👏👏👏",Normal,0,0,0,0.7174679944936402,0,47
+51,"siempre fue primer puesto
+se hizo millonario por esfuerzo
+eso se hace trabajar duro",Normal,0,0,0,0.4771920779629628,0,83
+52,"cualquier cosa que diga Porky los rojos van ha denigrar, incluso su trabajo en Lima, será nuestro presidente en primera vuelta",Normal,0,0,0,0.5151580738196516,0,126
+53,"Con dos carreras profesionales, y mucho esfuerzo!!! hoy es un empresario exitoso y ahora dedicar su tiempo y trabajo a mejorar el Perú!!!",Alta sospecha (ambos),2,1,1,0.34421300075291317,0,137
+54,No hay mejor candidato que Ud. digno representante para nuestro amado Perú 🇵🇪,Normal,0,0,0,0.44242306603759973,0,77
+55,"Otro acuña q decía q dormían en una sola cama, jajjj",Normal,0,0,0,0.43978218648885187,0,52
+56,"en serio,solo se lo crera la gran milagros",Normal,0,0,0,0.32139264065106443,0,42
+57,mis respetos para ud siendo primer puesto en la universidad,Normal,0,0,0,0.4943733526510614,0,59
+58,Es el mejor candidato que tenemos👏 espero la gente se de cuenta que es el único que puede ayudar al país a salir del hoyo,Normal,0,0,0,0.5149887476907906,0,121
+59,"💖eres el mejor en todo Rafael , Dios te siga bendiciendo en todo momento de tu vida 💙",Sospecha media (uno),1,0,1,0.3456955275932987,0,85
+60,"EXACTO,EL.HAMBRE..RCDO 5 AÑOS NO CENE,LA VELA CAYÓ SOPA,MAMÁ BOTO EL AGUADITO,MEDIO PAN CON TÉ,ESO FUÉ MI MOTIVACION,EL RESTO LO CONSTRUÍ CON DEDICA..",Normal,0,0,0,0.4480464186621604,0,150
+61,"yo tambien sacaba primer puesto , pero no hubo perseverancia . Soy titulada en Farmacia .",Normal,0,0,0,0.4019019809345397,0,89
+62,"Cierto l o tina dinero, desde que fujimorileegall la concepción de los trenes u el espacio para el hotel en machupicchu ahí recién se volvió millonario por eso siempre extra agradeció con Fiji y Vladimiro",Normal,0,0,0,0.40085142748288627,0,204
+63,"Surrealista Rafael, un gran personaje con conocimiento diverso en administración, condiciones le sobran.....😎",Normal,0,0,0,0.4245802404961437,0,109
+64,DIOS YA TE ESTABA ABRIENDO PUERTAS...🙏,Normal,0,0,0,0.34680007936789276,0,38
+65,Presidente si o si,Normal,0,0,0,1.0000000000000002,0,18
+66,Vamos cuchiiiiiii ! La esperanza del 🇵🇪,Normal,0,0,0,0.7122262314601238,0,39
+67,Porky presidente 2026 sí o sí no hay otro con sus cualidades y capacidades,Normal,0,0,0,0.466115250441492,0,74
+68,Lopez Aliaga presidente 2026👍,Normal,0,0,0,0.7006122437594267,0,29
+69,Exacto es inteligente y habil y perseverante exacto y lo que se propone lo cumple,Normal,0,0,0,0.398426840567746,0,81
+70,"@PERÚ:Mi primera votación será para Rafael López Aliaga, VAMOS PORKY 💙🇵🇪🌊 !",Alta sospecha (ambos),2,1,1,0.6468559886599786,0,75
+71,Sin lugar a dudas un gran ejemplo este hombre 😍,Normal,0,0,0,0.4969983890496539,0,47
+72,Rafael un gran ser humano que ama su patria y su gente. Bendiciones,Normal,0,0,0,0.7195649653484179,0,67
+73,"Qué te digo, luchador. Más floroooo",Normal,0,0,0,0.3571230007410497,0,35
+74,es cierto. en la udep en el baño siempre encuentras papel higiene y nadie se lo lleva,Normal,0,0,0,0.36310342662086686,0,85
+75,Aliaga presidente,Normal,0,0,0,1.0,0,17
+76,"perseverancia, disciplina, esfuerzo, se puede lograr mucho , Dios quiera que seas nuestro próximo presidente ❤️🙏",Normal,0,0,0,0.3124039592915282,0,112
+77,🥰EL EXITO SOLO SE CONSIGUE CON EL PROPIO ESFUERZO. 🥰,Normal,0,0,0,0.4527725960006296,0,52
+78,mi futuro Presidente del Perú!!!,Normal,0,0,0,0.9698488188747741,0,32
+79,"Una inspiración total, interesante testimonio...",Normal,0,0,0,0.437107878223804,0,48
+80,Porki presidente de Perú en primera vuelta vamos Perú,Normal,0,0,0,0.6275483267415028,0,53
+81,QUE MARAVILLA TENERTE EN NUESTRO PRESENTE Y FUTURO. GRACIAS POR TU GENEROSIDAD. DIOS NOS SIGA BENDICIENDO,Normal,0,0,0,0.3456955275932987,0,105
+82,escuchemos bien PERSEVERANCIA...una persona muy preparada,Normal,0,0,0,0.5713440560898185,0,57
+83,el esfuerzo el sacrificio la perseverancia etc son premiad con el éxito,Normal,0,0,0,0.4527725960006296,0,71
+84,es muy bueno que se hizo empresario con su propio trabajo y esfuerzo ejemplo para jóvenes,Normal,0,0,0,0.31147211608310316,0,89
+85,VAMOS PORKYY,Sospecha media (uno),1,1,0,0.7122262314601238,0,12
+86,lo que me sorprende de este alcalde de lima es su velocidad para hacer obras....nunca ví algo así en ninguna otra autoridad,Normal,0,0,0,0.3326984020380947,0,123
+87,"Ojalá sea Presidente del Perú, sería nuestra salvacion",Normal,0,0,0,0.4584554226245319,0,54
+88,mi voto es para Porky,Normal,0,0,0,0.6366353332499076,0,21
+89,excente un presidente de lujo,Normal,0,0,0,0.42867536956698654,0,29
+90,ESE ES MI CANDIDATO,Normal,0,0,0,0.541487096664335,0,19
+91,RLA Presidente del Perú 2026 🇵🇪,Normal,0,0,0,0.725671776906807,0,31
+92,presidente si o si 🇵🇪🙏🇵🇪🙏,Normal,0,0,0,1.0000000000000002,0,25
+93,dónde está milagro Leiva lo extraño para ver sus noticias porfa,Normal,0,0,0,0.2624760704399064,0,63
+94,asi hay .unos que trabajas y estudian. todo depende de lo quieras. el esfuerzo y sacrificio se ven en el futuro. en la vida nada es gratis ni fácil.,Normal,0,0,0,0.46673619498835167,0,148
+95,Rafael López Aliaga Presidente 🇵🇪,Normal,0,0,0,1.0000000000000002,0,33
+96,"Porki hace 40 años ya era viejo, esto es alucinante.",Normal,0,0,0,0.3752044143409856,0,52
+97,Que buen ejemplo para lis que quieren que todo les dé el estado,Normal,0,0,0,0.33266043322515065,0,63
+98,siempre fuiste un éxito ! grande presidente,Normal,0,0,0,0.32564517823706,0,43
+99,ES UN EJEMPLO TERRENAL👏,Normal,0,0,0,0.569013113139071,0,23
+100,"El peruano que triunfa es envidiado también por otros peruanos. Solo los que tienen existo en su vida profesional y de negocios saben todo el esfuerzo, lágrimas y sacrificio q hay en el camino.",Normal,0,0,0,0.46673619498835167,0,193
+101,"siempre dijo: los hombres exitosos son los que se forjaron desde abajo,a base de esfuerzo y perseverancia.",Normal,0,0,0,0.5069043126211934,0,106
+102,"Para mi el mejor candidato para presidente del Perú, en Lima en solo 3 años nunca hubo alcalde con tal cantidad de obras q la prensa mermelera no cubre",Normal,0,0,0,0.41195222208898014,0,151
+103,"Este caballero inteligente, tenaz necesita el Perú. Dios permita que Usted sea mi Presidente 🙏🥰",Normal,0,0,0,0.4233139298339827,0,95
+104,"todos piensan que es suerte cuando estas en la sima, pero nadie vio el esfuerzo y sacrificio para lograr eso",Normal,0,0,0,0.3310833729452763,0,108
+105,es millonario por su esfuerzo PORKI presidente,Normal,0,0,0,0.5178837017466997,0,46
+106,Porki te voy a dar mi voto esperó que no me decepciones presidente,Normal,0,0,0,0.4952671014315618,0,66
+107,porki es clave,Normal,0,0,0,0.6157439554002343,0,14
+108,lo admiro mucho porki,Normal,0,0,0,0.6410044270367168,0,21
+109,porky es un genio. sería un lujo tenerlo de presidente.,Normal,0,0,0,0.5422085809832988,0,55
+110,bendiciones 🦋❤❤ alcalde mi corazón confía en usted ❤❤ será un buen presidente b❤️‍🩹❤️‍🩹❤️‍🩹,Alta sospecha (ambos),2,1,1,0.39963416348266984,0,91
+111,Inspirador,Normal,0,0,0,0.0,0,10
+112,Es el mejor candidato que hay hasta el momento .,Normal,0,0,0,0.4826778246536825,0,48
+113,"asi.es Rafael, bien Pr3sodente",Normal,0,0,0,0.438573642131265,0,30
+114,Porky ejemplo de lider y superacion,Normal,0,0,0,0.5351734635171463,0,35
+115,RLA 2026 🇵🇪✔,Normal,0,0,0,0.7814766171001157,0,12
+116,yo para que mejore la economia notaria por El,Normal,0,0,0,0.3964459135523431,0,45
+117,...lo comparo con acuña y me pongo a llorar...,Normal,0,0,0,0.5154044299207918,0,46
+118,Rafael López Aliaga Presidente,Normal,0,0,0,1.0000000000000002,0,30
+119,la gente que critica es gente renegada de la vida. la perseverancia es el secreto,Normal,0,0,0,0.47341812870671907,0,81
+120,Rafael tienes mi voto y la de mi familia te apoyamos y seguiremos orando por usted,Normal,0,0,0,0.602732592878299,0,82
+121,Mi papa no tenia plata jajajakajajajajajajaj Siiiii JUANNN,Normal,0,0,0,0.7331343297337024,0,58
+122,"la perseverancia,trabajo en equipo y tener una meta clara,tener valores 👌 y sobre todo tener a Dios como guía lo es todo.",Normal,0,0,0,0.36207837900952905,0,121
+123,deben aprender los rojos,Normal,0,0,0,0.4078445939837512,0,24
+124,"Lo felicito RLA.
+Buena experiencia que lo ayudo a formarse.",Normal,0,0,0,0.41454122482969696,0,59
+125,"Gran ser Humano.
+RLA 2026",Normal,0,0,0,0.7889049716602151,0,25
+126,"🤔 me lo tomaré con calma, haré mi tarea y me pondré a estudiar a todos los candidatos.",Normal,0,0,0,0.5154044299207918,0,86
+127,porky es lo mejor,Normal,0,0,0,0.43064102317891956,0,17
+128,"eso se llama resiliencia, bravo Rafael eres admirable👏🏻👏🏻👏🏻🌻",Normal,0,0,0,0.3490600211735849,0,60
+129,"Capo Rafa, que orgullo siga adelante",Normal,0,0,0,0.4434246536297466,0,36
+130,El Perú tiene la oportunidad de tener un presidente de este nivel. Sería una gran oportunidad para todos los peruanos.,Normal,0,0,0,0.32867135169819983,0,118
+131,Perseverante💪🏻,Normal,0,0,0,0.8569183097424258,0,14
+132,Rafael Presidente,Normal,0,0,0,1.0,0,17
+133,grande Mi presidente,Normal,0,0,0,0.8290868492603628,0,20
+134,excelente mi presidente,Normal,0,0,0,0.8481943266610636,0,23
+135,porky es el único que puede sacar adelante a este pais,Normal,0,0,0,0.6070429756814836,0,54
+136,"Claro que si Se. Rafael mi respeto y admiración siempre, bendiciones 🙏🙏💕💕🌷🌷",Normal,0,0,0,0.3208796374420459,0,75
+137,florazo,Normal,0,0,0,0.8989224625031544,0,7
+138,Un gran ser humano❤️❤️❤,Normal,0,0,0,0.7889049716602151,0,23
+139,Profesores europeos en la de Piura 😳😳 x Dios esa universidad está más atrasada,Normal,0,0,0,0.5922906615295517,0,78
+140,otro castillo contando como y donde hacia sus necesiddes biológicas😅😅😏,Normal,0,0,0,0.3303032367069097,0,70
+141,"Es el más adecuado para ser presidente del Perú. capacidad, conocimiento, y vocación de servicio. Además se ha hecho solo y en condiciones difíciles",Normal,0,0,0,0.3730721254187418,0,148
+142,Algo nuevo no sabía que se muere la azúcar,Normal,0,0,0,0.4739926999297369,0,42
+143,Porky presidente 🩵🩵🩵🩵,Normal,0,0,0,1.0,0,21
+144,Chiclayo es clave😁,Normal,0,0,0,0.6157439554002343,0,18
+145,Ya siendo del opus es lo máximo ellos son súper ordenados y muy decididos mi voto para le de todas maneras ✌️bien Rafael tu si me representas 👍🏻 eres un hombre inteligente y honesto y estoy segura que saldremos de esto 👍🏻,Alta sospecha (ambos),2,1,1,0.30286487932430667,0,221
+146,Lo Admiro Rafael,Normal,0,0,0,0.6410044270367168,0,16
+147,"YA PERO EL BURRO NI DINA RENUNCIARIARON AL SUELDO , Y KEIKO CONTROLA EL UNIVERSO 🤣",Normal,0,0,0,0.3051419564704469,0,82
+148,el futuro Presidente del Perú,Normal,0,0,0,0.9651413350032974,0,29
+149,con ese corazon grande dios te ilumino y fuiste un hombre de bien muy sencillo y humano Diosito te siga bendiciendo,Normal,0,0,0,0.3344513183047649,0,115
+150,,Normal,0,0,0,0.0,1,0
+151,Perú será un gran país con Porky,Normal,0,0,0,0.4245802404961437,0,32
+152,Futuro Presidente del Perú RLA,Normal,0,0,0,0.8988172662731733,0,30
+153,"Ya, Porky antes q seas presidente te debo un cevichito frente a la Pedro, no te olvides de el terminal puerto Eten .",Normal,0,0,0,1.0000000000000002,1,116
+154,RAFAEL PRESIDENTE!!!,Alta sospecha (ambos),2,1,1,1.0,0,20
+155,Bien mi presidente,Normal,0,0,0,0.8481943266610636,0,18
+156,Es un buen ejemplo todo se puede en esta vida 👏👏👏,Normal,0,0,0,0.34982673911841894,0,49
+157,,Normal,0,0,0,0.0,1,0
+158,"vamos Porky no seas una falla,vas a salir",Normal,0,0,0,0.6229417884065818,0,41
+159,"QUE EJEMPLO DEL ""FLACO LÓPEZ"" EL HAMBRE ES MOTIVADOR...SOLO PARA LO QUE HEMOS PASADO",Normal,0,0,0,0.40107687614112425,0,84
+160,Mi hijo de 14 años tiene un pensamiento parecido que como es buen estudiante puede postular a la U más prestigiosa de Lima pero becado pues el cerebro te ayuda mucho ahora está x postular al COAR para forjar su futuro !!!,Alta sospecha (ambos),2,1,1,0.37680332990350596,0,221
+161,ES BUENA UNIVERSIDAD HAY MUCHOS EXTRANJERO QUE ESTUDIAN AHI,Normal,0,0,0,0.49437675821572347,0,59
+162,porki presidente 🤗,Normal,0,0,0,1.0,0,18
+163,"Wow, así deberían estar calificados los alcaldes y presidentes",Normal,0,0,0,0.8939550819955193,0,62
+164,Primera vez que lo escucho hablar que no sea de política y se le ve alguien con criterio y muy leído.,Normal,0,0,0,0.29079032168926844,0,101
+165,"Bien Rafael, ya está mostrando su compromiso SIN COBRAR SUELDO está en la alcaldia",Normal,0,0,0,0.44783826820557143,0,82
+166,"Quiero ser parte, cuando seas presidente
+Un eslabón, amén!",Normal,0,0,0,0.28383236511592763,0,58
+167,Si Ud es una persona muy trabajadora esperamos reciba nuestra invitación,Normal,0,0,0,0.5713440560898185,0,72
+168,Porky ❤,Normal,0,0,0,1.0,0,7
+169,"estoy contigo Lopes Aliaga, con perseverancia se logra todo 👏👏💪💪🙏",Normal,0,0,0,0.23136705229140903,0,65
+170,yo lo terminé en 4 años y 10 meses,Normal,0,0,0,0.27115393411876987,0,34
+171,cómo que Porky es de la Pedro :v,Normal,0,0,0,0.4024064619550395,0,32
+172,Gente compartan los videos. es necesario👍,Normal,0,0,0,0.5611789493732378,0,41
+173,presidente pork,Normal,0,0,0,0.856857703017331,0,15
+174,Vamos porky mi voto es por ti,Normal,0,0,0,0.6366353332499076,0,29
+175,Rafael López Aliaga presidente del Perú en primera vuelta,Normal,0,0,0,0.8711346418962261,0,57
+176,Piura siempre adelante,Normal,0,0,0,0.37186586728027615,0,22
+177,yyy los caviares??,Alta sospecha (ambos),2,1,1,0.8101949268074616,0,18
+178,"si no ha hecho nada en Lima, lo hará para Perú",Normal,0,0,0,0.3730721254187418,0,46
+179,Yo también usé gámalate es muy buena.,Normal,0,0,0,0.4973295508344346,0,37
+180,Tocando fibras de sensibilidad pero el OPUS TE DA MUCHA SIBERBIA Y CREN EN SU PODER HUMANO PERO NO EN EL PODER DE DIOS Y EN LA HUMILDAD,Normal,0,0,0,0.3953246347973858,0,135
+181,tiene mi voto !!!,Sospecha media (uno),1,0,1,0.8568325703245789,0,17
+182,La clásica hay que convencer.,Normal,0,0,0,0.7640685031214588,0,29
+183,"Señor López Aliaga es un ejemplo de perseverancia, de fe y que con estudio y talento se puede lograr muchas cosas buenas en la vida. Dios lo bendiga",Normal,0,0,0,0.4201619209079916,0,148
+184,bien Rafael,Normal,0,0,0,1.0,0,11
+185,Por fin tenemos el candidato que siempre esperamos . Dios lo guíe Rafael,Normal,0,0,0,0.3276063946222482,0,72
+186,Lopes Aliaga presidente,Normal,0,0,0,1.0,0,23
+187,un gran hombre sus argumentos fluidos el desenvolvimiento es elocuente sinónimo de un hombre .uy inteligente y probó ok 🫱,Normal,0,0,0,0.5665281732488214,0,121
+188,Perseverante y con equipo💪💪,Normal,0,0,0,0.8569183097424258,0,27
+189,Porky la mejor opción,Normal,0,0,0,1.0,1,21
+190,Felizmente que no fuiste a la Catolica !!!,Normal,0,0,0,0.42371842659188835,0,42
+191,en 1ra vuelta presidente del Perú,Normal,0,0,0,0.6694706884341646,0,33
+192,este es un gran tipo,Normal,0,0,0,0.5428388597967141,0,20
+193,mejor di si mi abuelita estaría viva,Normal,0,0,0,0.36013682960345395,0,36
+194,"Jorge Luna, te veo en todas.",Normal,0,0,0,0.32000811235813503,0,28
+195,"desde abajo, osea desde el infierno",Normal,0,0,0,0.9238745748875967,0,35
+196,como hay gente que lee cree,Normal,0,0,0,0.47259875124597833,0,27
+197,Somos Porky,Normal,0,0,0,0.780467427696117,0,11
+198,POR QUE M BLINDARON A DINA...,Normal,0,0,0,0.3122702415022167,0,29
+199,"Rafa ,,Que Buena MOTIVACION Para Este Seguidor Tuyo , y Ojalá Lo Tomen Muchas JUVENTUDES !!!...Yesssss....",Alta sospecha (ambos),2,1,1,1.0,1,106
+200,"No estaba segura de votar por Rafael Aliaga, pero analicemos, el tiene estudios, capacidad de gestión, experiencia y esto es lo más importante y creo que piensa hacer lo mejor por el Perú. Y también paso por necesidad y entiende y sabe lo que se siente pasar por necesidad. Creo que es la mejor opción hasta el momento. Pensemos en el Perú. Persona perfecta no hay, todos tenemos defectos. Y creo que la mejor opción hasta el momento el Rafael Aliaga. Vamos Rafael Presidente.",Alta sospecha (ambos),2,1,1,0.42363979752732606,0,476
+201,"...@........HERJSIL es una startup que democratiza el acceso a oportunidades, visibilizando a empresas compradoras y MIPYMES proveedoras en todo el país.
+Eliminamos la intermediación y el direccionamiento, erradicamos la corrupción de los procesos comerciales, apostamos por la transparencia, trazabilidad e integridad como pilares de desarrollo sostenible.
+Con HERJSIL, los negocios son ágiles, confiables y competitivos, junto a nuestros clientes y aliados estratégicos estamos creando un ecosistema empresarial que genera confianza, atrae inversión y fortalece la base productiva del Perú y Latam.
+¡Es momento de transformar juntos la manera de hacer empresa!",Alta sospecha (ambos),2,1,1,0.38689851065696873,0,662
+202,"admirable su deseo de salir adelante y lo logro honradamente,el mejor candidato para el Perú 🩵",Normal,0,0,0,0.38068462333159875,0,94
+203,potencia mundial jejeje😂😂😂,Normal,0,0,0,1.0,0,26
+204,vino desde abajo con MONTESINOS,Normal,0,0,0,1.0,1,31
+205,"****Mi futuro Presidente, si lo tocan la población se va levantar como unos lobos***",Normal,0,0,0,1.0,1,84
+206,Que tal libreto y como la prensa vendida lo auspicia toda se la saben corrupción nada más,Normal,0,0,0,1.0,1,89
+207,cómo hago para hablar con Rafael a dónde tengo que ir,Normal,0,0,0,1.0000000000000002,1,53
+208,que carrera estudio en la universidad Pedro ruiz gallo de lambayeque..?,Normal,0,0,0,0.4943733526510614,0,71
+209,"Es el único que sabe, es el único que sabe como. 💪",Normal,0,0,0,1.0000000000000002,1,50
+210,capo!,Sospecha media (uno),1,1,0,1.0,1,5
+211,ver violencia? hoy hay mas violencia y no haces nada,Sospecha media (uno),1,1,0,1.0,1,52
+212,"Vamos porky, se como es tu historia y serias lo mejor para el Perú",Normal,0,0,0,1.0000000000000002,1,66
+213,Arriba Piura _ chiclayo- Perú👏 💪,Sospecha media (uno),1,0,1,0.44787667650863555,0,32
+214,La Udep la mejor 🥰🥰🥰,Normal,0,0,0,0.448068810069437,0,20
+215,Bravooooooo!!!Rafael presidente!!,Alta sospecha (ambos),2,1,1,1.0,0,33
+216,PORKY PRESIDENTE,Alta sospecha (ambos),2,1,1,1.0,1,16
+217,ejemplo de ser humano 💪💙💪💙,Normal,0,0,0,0.5351734635171463,0,26
+218,me cae exelente este señor votaré por el,Normal,0,0,0,0.451691103271452,0,40
+219,molia azúcar? era dueño de alguna fabrica o alquilaba,Sospecha media (uno),1,1,0,1.0,1,53
+220,Alguien de pueblo y univ estatal q se esforzo como muchos jovenes siguen lichando ahora. Asi q no nos equivoquemos al votar otra vez 😎,Sospecha media (uno),1,1,0,1.0000000000000002,1,134
+221,"👌👌💕lo máximo, mi futuro presidente 🥰🥰🙏🙏",Alta sospecha (ambos),2,1,1,1.0,1,39
+222,así se hacen grandes con esfuerzo,Normal,0,0,0,1.0000000000000002,1,33
+223,Grande Rafael!,Normal,0,0,0,1.0000000000000002,1,14
+224,Ejemlo a seguir,Normal,0,0,0,1.0,1,15
+225,Quien se hizo millonario trabajando ese cuento de RLA,Normal,0,0,0,1.0000000000000002,1,53
+226,yo vine a vender en un mercado y a estivar para poder tener pasaje e ir a una Nacional tambien.,Normal,0,0,0,1.0,1,95
+227,el Papa no lo recibió ... punto,Normal,0,0,0,1.0000000000000002,1,31
+228,y lo que te regaló Fujimori?,Normal,0,0,0,1.0,1,28
+229,que me den la concesión de los ferrocarriles y me vuelvo empresario,Normal,0,0,0,1.0000000000000002,1,67
+230,"jiji, cualquiera le cree",Normal,0,0,0,1.0000000000000002,1,24
+231,Los chiclayanos lo recordamos así.,Normal,0,0,0,1.0000000000000002,1,34
+232,desde abajo 😂,Normal,0,0,0,0.9238745748875967,0,13
+233,Casi lloro 😏,Normal,0,0,0,0.0,0,12
+234,Porky presidente,Normal,0,0,0,1.0,1,16
+235,porkyyy unicooooo,Normal,0,0,0,0.0,0,17
+236,Excelente 🫶,Normal,0,0,0,0.0,0,11
+237,Rafael presidente en primera vuelta ♥♥,Normal,0,0,0,0.7769423571239653,0,38
+238,Porky presidente 2026,Normal,0,0,0,1.0000000000000002,0,21
+239,"Eres un crack!
+No cualquiera sale de la UDEP en 4 años.",Normal,0,0,0,1.0000000000000004,1,55
+240,quieras o no rafael sera nuestro presidente 2026,Normal,0,0,0,1.0,1,48
+241,Ni pizca de lo que dices que era en antaño. Corruptos al mango la unp,Normal,0,0,0,0.439702112048856,0,69
+242,...y serás el mejor presidente del Perú y en primera vuelta 👍,Normal,0,0,0,1.0,1,61
+243,porque le faltBs puntos para ser becado,Normal,0,0,0,1.0000000000000002,1,39
+244,algun detractor?,Alta sospecha (ambos),2,1,1,0.0,1,16
+245,"Vamos Rafael, sería un lujo tenerte de Presidente del Perú 🇵🇪",Normal,0,0,0,0.5422085809832988,0,61
+246,vamos sr. presidente López Aliaga,Normal,0,0,0,1.0000000000000002,1,33
+247,Porky presidente 🇵🇪💪,Normal,0,0,0,1.0,0,20
+248,Rafael presidente,Normal,0,0,0,1.0,1,17
+249,López ALIAGA PRESIDENTE 🇵🇪🇵🇪🇵🇪🇵🇪🇵🇪🇵🇪,Normal,0,0,0,0.8531531071421588,0,36
+250,quien le cree,Normal,0,0,0,1.0000000000000002,1,13
+251,Porky 2026,Normal,0,0,0,1.0,1,10
+252,grande rafael,Normal,0,0,0,1.0000000000000002,0,13
+253,Porky es clave,Normal,0,0,0,0.6027604764056209,0,14
+254,Porki Presidente,Normal,0,0,0,1.0,0,16
+255,Rafael lopez aliaga presidente,Normal,0,0,0,1.0000000000000002,0,30
+256,libertad latamm,Normal,0,0,0,0.0,0,15
+257,Porky presidente,Normal,0,0,0,1.0,1,16
+258,Rafael presidente,Normal,0,0,0,1.0,1,17
+259,"Y cuando se trepó al gobierno corrupto de Fujimori, para que tenga la fortuna corrupta?",Sospecha media (uno),1,1,0,1.0,1,87
+260,La UNPRG no es de chiclayo pues Rafael... es de LAMBAYEQUE...,Normal,0,0,0,0.4024064619550395,0,61
+261,Rafael Presidente...,Normal,0,0,0,1.0,1,20
+262,12 mil $ moliendo azúcar … le creen …? Jajaja,Normal,0,0,0,0.6920156442610254,0,45
+263,PORKY PRESIDENTE,Alta sospecha (ambos),2,1,1,1.0,1,16
+264,presidente presidente Rafael,Normal,0,0,0,0.856857703017331,0,28
+265,Grande Rafael mi próximo PRESI,Normal,0,0,0,0.7477606746201952,0,30
+266,Porky 2026 ❤️🇵🇪♥️🩵🩵,Normal,0,0,0,1.0,1,19
+267,Mi futuro Presidente 🇵🇪🇵🇪🇵🇪,Normal,0,0,0,1.0000000000000002,0,27
+268,EMPRESARIO JAJAJJAJAJAJ,Sospecha media (uno),1,1,0,0.6674096271160591,0,23
+269,UN CRACK 😎,Normal,0,0,0,0.47156291045821097,0,10
+270,Futuro presidente del Perú.,Normal,0,0,0,0.9651413350032974,0,27
+271,RAFAEL PRESIDENTE,Sospecha media (uno),1,1,0,1.0,0,17
+272,Hahaha😂😂😂😂,Sospecha media (uno),1,1,0,0.0,1,10
+273,Porky presidente,Normal,0,0,0,1.0,1,16
+274,RLA Presidente!,Normal,0,0,0,0.8972467753290048,0,15
+275,😈😈,Normal,0,0,0,0.0,1,2
+276,PORKI presidente 💯,Normal,0,0,0,1.0,0,18
+277,"este tío ha sido de plata, es blanco y tiene buen apellido, sino que quiere pegarla de que salió de la pobreza",Normal,0,0,0,0.42850561625529476,0,110
+278,Porky 2026,Normal,0,0,0,1.0,1,10
+279,Rafita fue profe de la UNI,Normal,0,0,0,0.41990999629882164,0,26
+280,¡ PORKY PRESIDENTE !,Alta sospecha (ambos),2,1,1,1.0,0,20
+281,Rafael presidente un hombre con valores,Normal,0,0,0,1.0,1,39
+282,No pasa Nada,Normal,0,0,0,0.6953142805484323,0,12
+283,está elección voto x ti Porky,Normal,0,0,0,0.508371357443069,0,29
+284,Rafael López Aliaga presidente del Perú,Normal,0,0,0,1.0,0,39
+285,el que quiere salir adelante se esfuerza se sacrifica para luego ver los buenos resultados,Normal,0,0,0,0.493650662779243,0,90
+286,"Se hizo millonario comprando chatarra alquilando playas artificiales, etc...",Normal,0,0,0,0.7173908100795737,0,76
+287,"Rafael es un hombre ejemplar., Presidente 2026.🇵🇪",Normal,0,0,0,0.5266351443551897,0,49
+288,"no estoy en contra de el no veo ninguna obra que haya hecho para lima menos que haya cumplido sus promesas, y de gestión publica cero",Normal,0,0,0,0.3841836376209086,0,133
+289,"nunca votaria por prky, por que si como alcalde no hiso nada como presidente tampoco hara nada😂😂",Normal,0,0,0,0.4354574771406383,0,96
+290,porky presidente🥰🥰,Normal,0,0,0,1.0,0,18
+291,"Enserio existe gente que aun cree en el, pese a que se sabe lo corrupto que es. ¿Qué les pasa?",Normal,0,0,0,0.45504405416295957,0,94
+292,el 12 de eoctubre se confirma el gran fracazo de porky oficial. Potencia brutal....,Normal,0,0,0,0.4971312530426702,0,83
+293,Rafael López Aliaga eres un hombre sabio y lo principal tienes a dios en el corazón ❤️presidente 2026,Normal,0,0,0,0.5345994279997127,0,101
+294,Rafael López Aliaga sería un Presidente de lujo. Si revisan la lista de candidatos y sus hojas de vida no hay uno que se acerque por lo menos al 20% de los conocimientos y experiencia laboral que tiene. Llama la atención su gran capacidad de gestión. Los que desmienten sus obras se oponen al desarrollo sin comprender que es indispensable el bienestar familiar.,Sospecha media (uno),1,1,0,0.3887435000413732,0,362
+295,la verdad yo desdé argentina tiene apoyo,Normal,0,0,0,0.3705887331296816,0,40
+296,👏👏👍🥰🥰🥰🥰 bien ..viva Rafael López Aliaga... presidente del Perú ♥️♥,Sospecha media (uno),1,0,1,0.8480925691886472,0,66
+297,LIMA POTENCIA BRUTAL 😂,Sospecha media (uno),1,1,0,0.7575179168746132,0,22
+298,hermosa historia 🥰🥰🥰🥰🥰🥰,Normal,0,0,0,0.5537706697544942,0,23
+299,PORKY PRESIDENTE,Alta sospecha (ambos),2,1,1,1.0,1,16
+300,Doble discurso 😂,Normal,0,0,0,0.0,0,16
+301,Ningun candidato tiene estos méritos …más aún está haciendo política por el Perú ..y por el amor a Dios,Normal,0,0,0,0.394565299305773,0,103
+302,Bien Rafael,Normal,0,0,0,1.0,0,11
+303,Bien Porki 👏👏,Normal,0,0,0,0.443962588144807,0,13
+304,🤣🤣🤣🤣🤣🤣 Hay pobrecitoo,Normal,0,0,0,0.7640685031214588,0,21
+305,🇵🇪 🇵🇪 🇵🇪 SOMOS LOS MEJORES 🇵🇪 🇵🇪 🇵🇪,Alta sospecha (ambos),2,1,1,0.780467427696117,0,35
+306,nunca más,Normal,0,0,0,0.45345182788542,0,9
+307,vamos porki 💙 no hay más 💙,Sospecha media (uno),1,0,1,0.4140541858363234,0,26
+308,RAFAEL PRESIDENTE 2026 💙💙💙,Alta sospecha (ambos),2,1,1,1.0,1,26
+309,aku di mana,Normal,0,0,0,0.0,0,11
+310,Rafael López Aliaga presidente del Perú 2026,Normal,0,0,0,0.8781880200196681,0,44
+311,voy a votar por ti,Normal,0,0,0,0.31031468411997637,0,18
+312,"Ser perseverante no es igual a ser inteligente, aunque muchos no distingan bien la diferencia, por eso dicen que su gestión municipal es buena, a pesar de haber comprado alimentos en mal estado y chatarras, haciendo piscinas insalubres y obras a medio construir.
+Confunden a lo que se le podria llamar eficacia, a lo mucho, con eficiencia, pero como buen empresario que vende humo, ataranta a muchos diciendo que es un genio para solucionar problemas, pero de qué manera?",Alta sospecha (ambos),2,1,1,1.0,1,471
+313,LA HISTORIA Q SE CONOCE ES Q CIPRIANI PAGO SU UNIVERSIDAD .,Normal,0,0,0,0.5537706697544942,0,59
+314,Rafael López Aliaga próximo presidente del Perú 2026,Normal,0,0,0,0.9084270358233812,0,52
+315,Amén 🙏🙌 Dios lo Bendiga Siempre Ing Rafael López Aliaga 🤝👏👏👏 Un Valiente Peruano 🇵🇪💪 💪 Trabajador y Perseverante 💪🇵🇪🙌🙏 Bendiciones 🙏🙌,Alta sospecha (ambos),2,1,1,0.5057802543836036,0,133
+316,tendrás mi voto,Normal,0,0,0,0.8568325703245789,0,15
+317,universidad de Piura es la voz,Normal,0,0,0,0.5922906615295517,0,30
+318,Rafael López Aliaga será presidente!!!,Normal,0,0,0,0.7973446060674828,0,38
+319,"Profe Rafael, cuentan mis viejos profesores que se enseñaron en la UDEP de Piura no llegabas a clases?",Sospecha media (uno),1,1,0,1.0,1,102
+320,"VOTO RESPONSABLE, VOTO SÓLIDO",Sospecha media (uno),1,1,0,0.6100303235526199,0,29
+321,🇵🇪 RAFAEL LOPEZ ALIAGA PRESIDENTE DEL PERU EN PRIMERA VUELTA 🇵🇪,Alta sospecha (ambos),2,1,1,0.6181915684434567,0,63
+322,Rafael López Aliaga futuro presidente del Perú 🇵🇪 2026,Normal,0,0,0,0.8399170102861248,0,54
+323,Por qué dicen que Porky es un buen alcalde si todo Lima parece un mercado lleno de informalidad el parque cívico Abancay un caos de triciclos cn megáfonos y así más ! De seguridad ni hablar,Normal,0,0,0,0.39793099951998434,0,189
+324,la gente tampoco tiene plata para pagar papaeletas de velocidad esa plata es para pagar los estudios de sus hijos,Normal,0,0,0,0.3171847012981765,0,113
+325,"no entiendo como alguna gente prefiere a castillo q a rafael un hombre muy destacado en todo lo que hizo, el otro apenas puede hablar con esfuerzo.",Normal,0,0,0,0.2785184152970405,0,147
+326,PORKY PRESIDENTE 😁,Alta sospecha (ambos),2,1,1,1.0,0,18
+327,Porky 2026 es la clave,Normal,0,0,0,0.7279178877466694,0,22
+328,"La mejor motivación es el hambre. Me quedaré con esa frase, bien RLA.",Normal,0,0,0,0.40526101716656937,0,69
+329,"Votemos por Porky
+un Empresario a carta cabal",Normal,0,0,0,0.6674096271160591,0,45
+330,,Normal,0,0,0,0.0,1,0
+331,chanchito presidente del Perú 2026 =2031 el pais no deja de crecer,Normal,0,0,0,0.725671776906807,0,66
+332,Porky Presidente en primera vuelta.....¡¡¡Vamos Perú!!!,Normal,0,0,0,0.7769423571239653,0,55
+333,no se su palabra no es para creer a lo largo de sus campañas políticas el mismo se contradijo y se olvidó de sus actos,Normal,0,0,0,0.3984096292800395,0,118
+334,,Normal,0,0,0,0.0,1,0
+335,,Normal,0,0,0,0.0,1,0
+336,No votes por ninguno de estos partidos !!,Normal,0,0,0,0.5656604261720155,0,41
+337,Porky el terror de la mafia roja caviar izquierdista filo terrorista que dirige el delincuente comunista filo terruco Gustavo Gorriti compinche de la mafia de ODEBRECHT.,Normal,0,0,0,0.6363995131876985,0,169
+338,"lloren rojos, lloren. está vez no habrá Castillo que los salve!",Normal,0,0,0,0.4078445939837512,0,63
+339,Porky presidente el si trabaja😂😁😁,Normal,0,0,0,0.5740915090821359,0,33
+340,buena,Normal,0,0,0,0.4973295508344346,0,5
+341,,Normal,0,0,0,0.0,1,0
+342,Él es el cambio,Normal,0,0,0,0.4151537382591155,0,15
+343,Porky es un gran ejemplo a seguir,Normal,0,0,0,0.5428388597967141,0,33
+344,Rafael Presidente del Peru 🇵🇪💖✝,Normal,0,0,0,1.0000000000000002,1,31
+345,no aprendió nadae,Normal,0,0,0,1.0,1,17
+346,Porky Presidente Obras SI unidos lo Lograremos,Normal,0,0,0,1.0000000000000002,1,46
+347,Porky presidente,Normal,0,0,0,1.0,1,16
+348,"ya, ahora paga tu deuda con SUNAT",Normal,0,0,0,1.0000000000000002,1,33
+349,Grande nuestro Porky 😍🇵🇪💪👏🩵🥰,Normal,0,0,0,0.4072443825824958,0,28
+350,💜Rafael Lopez Aliaga Presidente 💕,Alta sospecha (ambos),2,1,1,1.0000000000000002,1,33
+351,Lo mejor que le pasó es no haber estado en la católica sino hubiéramos perdido a Rafael y lo hubieran adoctrinado,Normal,0,0,0,0.39854286669998773,0,113
+352,@Isaac dime uno como él bro...,Alta sospecha (ambos),2,1,1,0.4258865734471566,0,30
+353,@Richard Yarlaqué,Alta sospecha (ambos),2,1,1,0.0,0,17
+354,@st 🤣,Alta sospecha (ambos),2,1,1,0.0,0,5
+355,🥰🥰🥰,Normal,0,0,0,0.0,1,3
+356,😁😁😁,Normal,0,0,0,0.0,1,3
+357,💪💪💪,Normal,0,0,0,0.0,1,3
+358,🥰,Normal,0,0,0,0.0,1,1
+359,💯💯💯,Normal,0,0,0,0.0,1,3
+360,☺,Normal,0,0,0,0.0,0,1
+361,✨,Normal,0,0,0,0.0,0,1
+362,😳😳😳,Normal,0,0,0,0.0,1,3
+363,❤,Normal,0,0,0,0.0,0,1
+364,❤️,Normal,0,0,0,0.0,0,2
+365,🥰,Normal,0,0,0,0.0,1,1
+366,👏👏👏,Normal,0,0,0,0.0,1,3
+367,😂😂😂😂,Normal,0,0,0,0.0,0,4
+368,@Rafael López Aliaga,Alta sospecha (ambos),2,1,1,1.0000000000000002,0,20
+369,😂😂😂,Normal,0,0,0,0.0,1,3
+370,😂😂😂,Normal,0,0,0,0.0,1,3
+371,😂😂😂,Normal,0,0,0,0.0,1,3
+372,😳😳😳,Normal,0,0,0,0.0,1,3
+373,🥰,Normal,0,0,0,0.0,1,1
+374,😌😌😌,Normal,0,0,0,0.0,0,3
+375,😁😁😁,Normal,0,0,0,0.0,1,3
+376,😳😳😳,Normal,0,0,0,0.0,1,3
+377,😳,Normal,0,0,0,0.0,0,1
+378,🥰,Normal,0,0,0,0.0,1,1
+379,PORKY EL PUEBLO ESTA CONTIGO PRESIDENTE,Normal,0,0,0,0.4742848262381152,0,39
+380,vamos porky,Normal,0,0,0,1.0,1,11
+381,Rafael López Aliaga Presidente 2026,Normal,0,0,0,0.8290224008782463,0,35
+382,🥰,Normal,0,0,0,0.0,1,1
+383,@Rafael López Aliaga PRÓXIMO PRESIDENTE DEL PERÚ 🇵🇪,Alta sospecha (ambos),2,1,1,0.9084270358233812,0,51
+384,🥰🥰🥰,Normal,0,0,0,0.0,1,3
+385,😂,Normal,0,0,0,0.0,1,1
+386,🇵🇪💖,Normal,0,0,0,0.0,0,3
+387,💪,Normal,0,0,0,0.0,0,1
+388,🥰🥰🥰,Normal,0,0,0,0.0,1,3
+389,💯💯💯,Normal,0,0,0,0.0,1,3
+390,😂😂😂,Normal,0,0,0,0.0,1,3
+391,😂,Normal,0,0,0,0.0,1,1
+392,🥰🥰🥰,Normal,0,0,0,0.0,1,3
+393,😳😳😳,Normal,0,0,0,0.0,1,3
+394,😂,Normal,0,0,0,0.0,1,1
+395,💯💯💯,Normal,0,0,0,0.0,1,3
+396,👍👍👍👍👍👍🙏,Normal,0,0,0,0.0,1,7
+397,👍,Normal,0,0,0,0.0,1,1
+398,"@Rafael López Aliaga-Presidente2026
+@RegionLaLibertad-Presente",Alta sospecha (ambos),2,1,1,1.0000000000000002,1,62
+399,Rafael López Aliaga presidente!!,Normal,0,0,0,1.0000000000000002,0,32
+400,😁,Normal,0,0,0,0.0,1,1
+401,@RafaelPresidente_2026,Alta sospecha (ambos),2,1,1,0.0,1,22
+402,😳😳😳,Normal,0,0,0,0.0,1,3
+403,😂😂😂😂😂😂😂😂,Normal,0,0,0,0.0,1,8
+404,Por eso votaré por @Rafael López Aliaga 👏,Alta sospecha (ambos),2,1,1,1.0000000000000002,1,41
+405,🥰🥰🥰,Normal,0,0,0,0.0,1,3
+406,🥰🥰🥰,Normal,0,0,0,0.0,1,3
+407,👍👍👍,Normal,0,0,0,0.0,1,3
+408,👏👏👏,Normal,0,0,0,0.0,1,3
+409,💪💪💪,Normal,0,0,0,0.0,1,3
+410,🥰🥰🥰,Normal,0,0,0,0.0,1,3
+411,🤣🤣🤣🤣,Normal,0,0,0,0.0,1,4
+412,MAS OBRAS EN TODO EL PAIS🩵🩵POR MENOS MINISTERIOS Y HALLA DINERO PARA OBRAS 🩵🩵 RAFAEL LOPEZ ALIAGA. LA.MEJOR OPCION,Normal,0,0,0,0.3942636498387054,0,114
+413,Dios te bendiga grandemente Rafael López Aliaga Presidente del Peru,Normal,0,0,0,0.5684261030051643,0,67
+414,ERES EL MEJOR RAFAEL LÓPEZ ALIAGA PRESIDENTE DEL PERÚ 🇵🇪 2026,Sospecha media (uno),1,1,0,0.8423030378186442,0,61
+415,"En el Perú necesitamos Infraestructura, EDUCACION, Limpieza, y CORRUPCION ""0"". Leyes máximas para el Crimen y Corruptos!!! Y Rafael López Aliaga cómo PRESIDENTE. !!!!!",Alta sospecha (ambos),2,1,1,0.5181600777647596,0,167
+416,Rafael López Aliaga R Presidente del Perú 🇵🇪,Normal,0,0,0,1.0,0,44
+417,"Yo estoy votando por Porky, porque no quiero ver al fujimorismo en segunda vuelta 🗿🗿",Normal,0,0,0,0.2665361419706498,0,84
+418,"En 1ra vuelta 🇵🇪 2026
+A sumarse como personeros, a nivel nacional, inscribirse en el local del partido de cada localidad.👍",Sospecha media (uno),1,0,1,0.4287900465919287,0,122
+419,🩵 Presidente del Perú 2026 Rafael López Aliaga 🩵 gracias 🙏👏👏👏,Normal,0,0,0,0.8699507778740379,0,61
+420,keiko 2026 2050,Normal,0,0,0,0.3776661007686155,0,15
+421,"Dios por favor nuestro sufrido pais necesita un hombre inteligente ,con congestion y con fortaleza, por favor hagamos que llegue a la presidencia 🇵🇪🇵🇪🇵🇪🇵🇪🩵🩵🩵🩵",Normal,0,0,0,0.5300368264202279,0,158
+422,"Ojalá El Perú sea más consciente en quien votar ,Aliaga es hombre instruido,culto y ha sacado 270proyectos en menos de 3años como alcalde.",Normal,0,0,0,0.2571707100459145,0,138
+423,"ME CONVENCI AHORA YA SE POR QUIEN VOTAR
+PORKY PRESIDENTE 🙏🙏🙏🙏",Normal,0,0,0,0.4104165959049289,0,61
+424,xkremnto,Normal,0,0,0,0.0,1,8
+425,"Porky, el mesías de la libertad mental. No más pobres en un país rico, realidad o ilusión. 😎🇵🇪💙👍",Normal,0,0,0,0.6363995131876985,0,96
+426,RAFAEL LÓPEZ ALIAGA FUTURO PRESIDENTE DEL PERÚ DIGNO DE SEGUIR SUS PASOS NOS AYUDARÁ A LIMPIAR EL PAÍS DE TODA ESTA PORQUERÍA QUE HA SEMBRADO LA IZQUIERDA COMUNISTA TERRORISTA,Sospecha media (uno),1,1,0,0.48570875402254216,0,175
+427,"PORKI VOTARÉ PIR PORKI???
+PORKI NO ES RATERO!!!
+LEI TAMBIÉN SU ""HOJA DE VIDA"" Y AL COMPARARLA EMPECÉ A ""COMPARTIR"" SU TRABAJO COMO ALCALDE PARA Q ""TODOS"" LOS OCIOSOS SUPIERAN !!! LES SIGO LLEVANDO ""EL PLATO"" A SU CAMA !!!",Alta sospecha (ambos),2,1,1,0.368645581285457,0,221
+428,PORKY PRESIDENTE PRIMERA VUELTA,Normal,0,0,0,0.7081337713505005,0,31
+429,q buenooo. un. hombreeee que emlrzooo de abajo. un. hombre. q conoce vpobreza dice muchooo,Normal,0,0,0,0.5767096844686014,0,90
+430,Testaferro de Alberto fujimori. Xd palos que no saben,Normal,0,0,0,0.4675520168856804,0,53
+431,Porki a ti no te importa la gente pobre tampoco quieres hacer algo por ellos si la verdad te dan nauseas,Normal,0,0,0,0.3508965888956122,0,104
+432,"El cerdo tiene buenas propuestas, pero lamentablemente su palabra no vale nada, si no miren como dejó Lima, endeudado, caos, ambulantes por todos lados, inseguridad, dijo que Lima sería potencia mundial, pero dejo solo en potencia del caos e inseguridad. No sé dejen engañar por un charlatán y lo peor el y su gente te insultan si piensas diferente a ellos, ese tipo de presidente desean? Es tiempo de reflexionar.",Alta sospecha (ambos),2,1,1,0.4410916494681742,0,414
+433,este ladrón corrupto es testaferro de fujimori y Vladimiro Montesinos le dieron gratis el mejor hotel del cuzco y el tren gratis,Normal,0,0,0,0.26618108976623783,0,128
+434,"No necesita plata para robar viva Porky no es como,Acuña el enano que se quiere atragantar de dinero",Normal,0,0,0,0.35299216933942273,0,100
+435,"El cuento de Toledo que era lustrador de botas y ahora este mitómano con su narrativa, es un fanfarrón y la periodista también primer puesto de la Universidad de lima, pero se nota de lejos que son personas especiales que necesitán urgente un tratamiento psicológico.",Normal,0,0,0,0.4136661127436917,0,267
+436,AHORA LOS NECIOS Y TESTARUDOS DIRAN QUE PORKY ES UN RATERO .... ESTE SR. ES UN EJEMPLO DE ESFUERZO DE HUMILDAD Y ESFUERZO ...,Normal,0,0,0,0.569013113139071,0,125
+437,EL COMANDO DE LOS CERROS CON PORKY PRESIDENTE,Sospecha media (uno),1,1,0,0.5618733997485788,0,45
+438,Grupo romero??,Alta sospecha (ambos),2,1,1,0.0,0,14
+439,Porky Presidente 💕💕💕💕💕💕,Normal,0,0,0,1.0,0,23
+440,Porky Presidente !! 2026,Normal,0,0,0,1.0000000000000002,0,24
+441,tienen algún grupo de WhatsApp??,Sospecha media (uno),1,0,1,0.4205637515822729,0,32
+442,"yo pensé que lo que se milia, era la caña de azúcar..",Normal,0,0,0,0.5015271634786383,0,53
+443,"RAFAEL LÓPEZ por favor pasa x un FILTRO a la GENTE que te va acompañar en tu CAMPAÑA, RETIRA a PATRICIA CHIRINOS esa INDIVIDUA es de lo PEOR 😡😡",Sospecha media (uno),1,0,1,0.35523507376967367,0,143
+444,Por más que lo escucho no le creo nada🤗 no pasa nada el puerco,Normal,0,0,0,0.6953142805484323,0,62
+445,"Es mitomano, de seguro su viejo lo vio de vago y lo puso a chambear en su empresa de Piura",Normal,0,0,0,0.4380767764433507,0,90
+446,"¿Alguien le cree?
+¿Doce mil dólares moliendo azúcar?
+¿A quién pretende engañar?
+Seguro todos los peruanos recibimos una concesión del Estado, nos volvimos millonarios y por eso nos podemos sentir identificados con él.
+Ahora que se ha hecho millonario que pague sus impuestos, sinvergüenza",Alta sospecha (ambos),2,1,1,0.3511031611098476,0,288
+447,potencia brutal 🐀,Normal,0,0,0,1.0,0,17
+448,"claro o sea después decir, cómo deseo que el dólar suba para que los pobres sufran, eso es el enfermo",Normal,0,0,0,0.40672567963228795,0,101
+449,porky presidente,Normal,0,0,0,1.0,1,16
+450,Cuando fujimori era presidente le regaló los trenes de machu pichu y el hotel del cuzco que ya se vencio la fecha para devolverlos pero se escuda en sus abogados con leguyadas para no entregarlos asi cualquiera se hace millonario,Normal,0,0,0,0.40085142748288627,0,229
+451,No te basta todas las mentiras que dijo antes de ser alcalde dónde está lima la ciudad del primer mundo ?,Normal,0,0,0,0.3645787724998329,0,105
+452,"ESTE INEPTO COMO VA SER EMPRESARIO EXITOSO SI LIMA LO DEJO UNA DESCRACIA TAMBIEN MUNICIPALIDAD DE LIMA ES EMPRESA NO ERES EMORESARIO ERES TESTAFERRO DE LA KEIKO MENTIROSO MAFIOSO NO DAR NI UN VOTO A ESTE SEÑOR QUE ENGAÑA AL PUEBLO SOLO LO HACE CON DINERO PAGANDO
+CUANDO NO ESTE TIPA OPERADOR POLITICO LEIVA SICARIO DE LA INFORMACION .",Alta sospecha (ambos),2,1,1,0.3365663420550658,0,334
+453,"Falso vengan averiguar al distrito de Pomalca, provincia de Chiclayo, su padre era hombre de confianza de los hacendados de la Azucarera Pomalca (Los Piedras)",Normal,0,0,0,0.5974239319900828,0,158
+454,Mi futuro presidente del Perú! Porky!,Normal,0,0,0,0.9698488188747741,0,37
+455,Horror! tal para cuál,Normal,0,0,0,0.37408659459684485,0,21
+456,deja obras inconclusas.....trae trenes solo para almacenarlos y luego no van a servir para nada...mientras que chile ya tiene su primer tren bala y eléctrico y este corrupto nos trae pura chatarra...a ran los ojos..pulpines,Normal,0,0,0,0.26422979150301223,0,223
+457,de abajo señores salio de abajo como muchosnperuanos,Normal,0,0,0,0.7174679944936402,0,52
+458,te vinculan con keiko que tienes que decir?😡😡,Sospecha media (uno),1,0,1,0.5055418328489972,0,45
+459,"VIVA LOS RIOS DE AMOR!! PORKY PROXIMO PRESIDENTE DEL PERÚ 2026 !!🩵🩵🩵🩵🩵🩵🩵🩵🩵🩵🩵🩵🩵🩵🩵🩵🩵💯
+La gente despertó del letargo y se dio cuenta que con  la izquierda  y los rojos ...no se avanza.
+Las obras de Porky hablan por sí solas.
+Vamos a cuidar los votos de RENOVACION POPULAR ya que un congreso dividido sin contar con mayoría entorpece la gestión de Presidente.
+Tenemos que ganar con una diferencia arrolladora.",Alta sospecha (ambos),2,1,1,1.0,1,405
+460,"El PERU🇵🇪 AVANZA
+PORKY PRESIDENTE DEL 🇵🇪 del 2026 AL 2036",Alta sospecha (ambos),2,1,1,1.0,1,57
+461,Ing Rafael López Aliaga presidente del Perú 🇵🇪🌊🌊🌊,Normal,0,0,0,0.8251064868594421,0,49
+462,rafo elimina la excesiva burocracia del estado y seguro te la llevas en una,Normal,0,0,0,0.398708638916324,0,75
+463,"Mi presi que sí hace obras, él sí irá a verificar que se hagan las obras en provincia ya que ya que el suele ir a supervisar las obras que están en proceso ya que es necesario ir porque los alcaldes regionales usan a su conveniencia lo que se destina a estas obras",Normal,0,0,0,0.37103375906427327,0,264
+464,esta confesando el origen de su síndrome,Normal,0,0,0,0.4742848262381152,0,40
+465,porki presidente,Normal,0,0,0,1.0,1,16
+466,"MI BOTO ES PARA USTD
+Y MANO DURO CON LOS MALANDROS
+Y LA PENCION PARA LOS VIEJITOS DE LA TERSERA EDAD A TODOS",Normal,0,0,0,0.43069918626446596,0,108
+467,es un chiste este personaje todo lo que ase para no ir a la carcel,Normal,0,0,0,0.3617170801271817,0,66
+468,como puede ser potencia el peru si trajo trenes viejos y los amontono en el parque de la muralla,Normal,0,0,0,0.37450296791154597,0,96
+469,EL PORKY EZ NUESTRO COMPATRIOT que quiere que PERU SEA UN PAIS MODERNO . POR ESO ASE MUCHAS OBRAS NO NECESITA ROBAR PORQUE EL ES MILLONARIO JUBILADO EN EEUU.,Normal,0,0,0,0.4037410442941547,0,157
+470,Gordito tan lindo.Contando su historia..Dios lo bendiga,Normal,0,0,0,0.7718348501409019,0,55
+471,habla somceras,Normal,0,0,0,0.0,0,14
+472,Gamelate,Normal,0,0,0,0.0,0,8
+473,su viejo era acendado xd con esto no desmerito es esfuerzo pero tampoco puede decir que viene de abajo,Normal,0,0,0,0.4322042102535302,0,102
+474,recontra fujimorista ese porky,Normal,0,0,0,0.541487096664335,0,30
+475,por el eso los zurdos odian a los emprendedores a los q de verdad vienen abajo.... como son tan bru. tos para crear riqueza envidian a del otro q si lo logro,Normal,0,0,0,0.5085483173771291,0,157
+476,Un hombre inteligente empeñado es un ejemplo como a salido adelante es millonario Ingeniero Empresario Banquero Bisionari profesor de la UNI Teólogo etc etc toda su vida a trabajado el mejor de todos no hay otro como Porky todos mis amigos y familia votará por Porky,Normal,0,0,0,0.35008862371860555,0,266
+477,Porky presidente del Perú,Normal,0,0,0,0.6694706884341646,0,25
+478,:ING. RAFAEL LOPEZ ALIAGA ES CAMBIO TOTAL EN NUESTRO PAIS VAMOS PORKY.🇵🇪🇵🇪🇵🇪🇵🇪🇵🇪🇵🇪🇵🇪,Alta sospecha (ambos),2,1,1,1.0000000000000002,1,84
+479,esto debería de consumir la generación Z y no dejarse guiar como corderos para hacer realidad lo que quieren los zurdos,Normal,0,0,0,0.41702941943817035,0,119
+480,😍,Normal,0,0,0,0.0,0,1
+481,"CLARO...Y UNO SIEMPRE ASPIRA A LO MEJOR....RLA NO LA VIO FACIL X ESO MADURO RÁPIDAMENTE Y PARA BIEN....QUÉ TAL PERFIL, LOS 1ROS. PUESTOS.",Normal,0,0,0,0.37408659459684485,0,137
+482,"HERNÁN QUEZADA, Arequipa y el Perú merecen lo mejor RAFAEL LOPEZ ALIAGA CAZORLA, tendrá en sus filas los mejores profesionales limpios sin denuncias de ningún tipo y expertos en gestión empresarial , con valores y decencia, con 4 dedos de frente, sin pelos en la lengua y sin rabo de paja!!!!!",Alta sospecha (ambos),2,1,1,0.30227749651353236,0,293
+483,cuentazo...,Normal,0,0,0,0.0,0,11
+484,porky presidente,Normal,0,0,0,1.0,1,16
+485,"Falso, es un cuentaso,…",Normal,0,0,0,0.4582586685649967,0,23
+486,cuidado con este hombre escuchen sus principios de la abundancia de su ❤️hablara su boca,Normal,0,0,0,0.4351366206064568,0,88
+487,En Perú Raíl hay maquinistas y jefes de maquina (trenes qué transportan. Minerales de las babas y otras minas al puerto de matarani) muertos en accidentes y sus familias olvidadas. Su humanidad está muy por debajo de sus intereses económicos,Normal,0,0,0,0.5098385098184399,0,241
+488,porki presidente,Normal,0,0,0,1.0,1,16
+489,Ilustran os por favor. ¿Cuáles son sus actos de corrupción?,Normal,0,0,0,0.5300368264202279,0,59
+490,florazo porky,Normal,0,0,0,1.0,1,13
+491,"paga tus impuestos, terrorista has destruido las finanzas de la Municipalidad....",Normal,0,0,0,1.0000000000000002,1,81
+492,REPITENTE,Alta sospecha (ambos),2,1,1,0.0,1,9
+493,👏👏👏La gente inteligente y creérsela oídos sordos a los envidiosos sales adelante,Normal,0,0,0,1.0000000000000002,1,80
+494,El tractor chancho tiene lógica,Normal,0,0,0,1.0,1,31
+495,"que bueno que nunca se resintió con su padre porque no pudo darle sus estudios, más bien buscó la solución a su problema",Normal,0,0,0,1.0000000000000002,1,120
+496,gracias a fujimori se hizo millonario,Normal,0,0,0,1.0,1,37
+497,"Yo pienso al igual q López Aliaga y también se sufrió la violencia terrorista, q ahora los Zurdos no quieren q se les recuerde",Normal,0,0,0,1.0000000000000002,1,126
+498,"FUTURO PRESIDENTE 🇵🇪 .
+.PORKY ❤️👏👏👏👏",Sospecha media (uno),1,0,1,0.6751208755798267,0,36
+499,🥰🥰🥰,Normal,0,0,0,0.0,1,3
+500,"no la tuvo facíl , se esforzó y lo logró ..Dios lo bendiga",Normal,0,0,0,0.7718348501409019,0,58
+501,"VIVA LOS RIOS DE AMOR!! PORKY PROXIMO PRESIDENTE DEL PERÚ 2026 !!🩵🩵🩵🩵🩵🩵🩵🩵🩵🩵🩵🩵🩵🩵🩵🩵🩵💯
+La gente despertó del letargo y se dio cuenta que con  la izquierda  y los rojos ...no se avanza.
+Las obras de Porky hablan por sí solas.
+Vamos a cuidar los votos de RENOVACION POPULAR ya que un congreso dividido sin contar con mayoría entorpece la gestión de Presidente.
+Tenemos que ganar con una diferencia arrolladora.",Alta sospecha (ambos),2,1,1,1.0,1,405
+502,porque le faltBs puntos para ser becado,Normal,0,0,0,1.0000000000000002,1,39
+503,😈😈,Normal,0,0,0,0.0,1,2
+504,🥰🥰🥰,Normal,0,0,0,0.0,1,3
+505,"Un gran ejemploa seguir, si queremos ser grandes tenemos que seguir el ejemplo del futuro PRESIDENTE DE NUESTRA PATRIA. Vamos peruanos @SE PUEDE",Alta sospecha (ambos),2,1,1,0.4689743096320809,0,144
+506,👏👏👏,Normal,0,0,0,0.0,1,3
+507,💜Rafael Lopez Aliaga Presidente 💕,Alta sospecha (ambos),2,1,1,1.0000000000000002,1,33
+508,rafa eres uno de los nuestros emprendedores,Normal,0,0,0,0.41017540598419294,0,43
+509,Mas falso su viejo era ingeniero trabaja en las mejores compañía de esa epoca,Normal,0,0,0,0.39265165874713714,0,77
+510,:ING. RAFAEL LOPEZ ALIAGA ES CAMBIO TOTAL EN NUESTRO PAIS VAMOS PORKY.🇵🇪🇵🇪🇵🇪🇵🇪🇵🇪🇵🇪🇵🇪,Alta sospecha (ambos),2,1,1,1.0000000000000002,1,84
+511,"para moler caña en que momento si estudiaba en Piura, ojo chiclayo-piura hay 3 HRS de viaje y dice q molia caña todos los días.....!!!",Sospecha media (uno),1,0,1,0.4390219827134871,0,134
+512,"Porky Presidente.
+Comunismo nunca más porque destrozan un pais, ellos solo siembran hambre , miseria, destrucción y muerte.",Normal,0,0,0,0.45345182788542,0,123
+513,👍👍👍👍👍👍👍,Normal,0,0,0,0.0,0,7
+514,"ING RAFAÉL LÓPEZ ALIAGA PRESIDENTE DEL PERÚ EN PRIMERA VUELTA, GRAN GESTOR ,🇵🇪🇵🇪🇵🇪🇵🇪🇵🇪🇵🇪🇵🇪",Normal,0,0,0,0.8711346418962261,0,90
+515,LOS CAVIARES LLORAN DE MIEDO,Normal,0,0,0,0.8101949268074616,0,28
+516,👍👍👍,Normal,0,0,0,0.0,1,3
+517,👍👍👍,Normal,0,0,0,0.0,1,3
+518,¿El gerente general de la principal y cuasi única azucarera no podía pagar una universidad privada? ¡Aaah ya!,Normal,0,0,0,0.3831846222529685,0,109
+519,Porky es millonario Gracias al corrupto del chino. tremendo testaferro.💀💀💀💀,Normal,0,0,0,0.3830708087309702,0,75
+520,"con lo mit*mano que es, no se si creer esto?🤔",Normal,0,0,0,0.2897233172730642,0,45
+521,RLA 🩵🩵🩵🩵🩵,Normal,0,0,0,0.8972467753290048,0,9
+522,Quien se hizo millonario trabajando ese cuento de RLA,Normal,0,0,0,1.0000000000000002,1,53
+523,xkremnto,Normal,0,0,0,0.0,1,8
+524,😂😂😂😂😂😂😂😂,Normal,0,0,0,0.0,1,8
+525,👏👏👏La gente inteligente y creérsela oídos sordos a los envidiosos sales adelante,Normal,0,0,0,1.0000000000000002,1,80
+526,El tractor chancho tiene lógica,Normal,0,0,0,1.0,1,31
+527,"que bueno que nunca se resintió con su padre porque no pudo darle sus estudios, más bien buscó la solución a su problema",Normal,0,0,0,1.0000000000000002,1,120
+528,gracias a fujimori se hizo millonario,Normal,0,0,0,1.0,1,37
+529,RAFAEL PRESIDENTE 2026 💙💙💙,Alta sospecha (ambos),2,1,1,1.0,1,26
+530,y lo que te regaló Fujimori?,Normal,0,0,0,1.0,1,28
+531,"Yo pienso al igual q López Aliaga y también se sufrió la violencia terrorista, q ahora los Zurdos no quieren q se les recuerde",Normal,0,0,0,1.0000000000000002,1,126
+532,Grande Rafael!,Normal,0,0,0,1.0000000000000002,1,14
+533,Ejemlo a seguir,Normal,0,0,0,1.0,1,15
+534,chatarrero😂😂😂😂,Normal,0,0,0,0.0,0,14
+535,Por eso votaré por @Rafael López Aliaga 👏,Alta sospecha (ambos),2,1,1,1.0000000000000002,1,41
+536,molia azúcar? era dueño de alguna fabrica o alquilaba,Sospecha media (uno),1,1,0,1.0,1,53
+537,Alguien de pueblo y univ estatal q se esforzo como muchos jovenes siguen lichando ahora. Asi q no nos equivoquemos al votar otra vez 😎,Sospecha media (uno),1,1,0,1.0000000000000002,1,134
+538,🥰🥰🥰,Normal,0,0,0,0.0,1,3
+539,"jiji, cualquiera le cree",Normal,0,0,0,1.0000000000000002,1,24
+540,PORKY PRESIDENTE,Alta sospecha (ambos),2,1,1,1.0,1,16
+541,Los chiclayanos lo recordamos así.,Normal,0,0,0,1.0000000000000002,1,34
+542,yo vine a vender en un mercado y a estivar para poder tener pasaje e ir a una Nacional tambien.,Normal,0,0,0,1.0,1,95
+543,"te admiro gordito, quiero tener la mitad de la fé que tienes.",Normal,0,0,0,0.5055418328489972,0,61
+544,🥰🥰🥰,Normal,0,0,0,0.0,1,3
+545,RLA (Porky) presidente del Perú 2026 en primera vuelta.,Normal,0,0,0,0.6931792921609156,0,55
+546,quien le cree,Normal,0,0,0,1.0000000000000002,1,13
+547,👍👍👍,Normal,0,0,0,0.0,1,3
+548,👏👏👏,Normal,0,0,0,0.0,1,3
+549,"👌👌💕lo máximo, mi futuro presidente 🥰🥰🙏🙏",Alta sospecha (ambos),2,1,1,1.0,1,39
+550,"Ser perseverante no es igual a ser inteligente, aunque muchos no distingan bien la diferencia, por eso dicen que su gestión municipal es buena, a pesar de haber comprado alimentos en mal estado y chatarras, haciendo piscinas insalubres y obras a medio construir.
+Confunden a lo que se le podria llamar eficacia, a lo mucho, con eficiencia, pero como buen empresario que vende humo, ataranta a muchos diciendo que es un genio para solucionar problemas, pero de qué manera?",Alta sospecha (ambos),2,1,1,1.0,1,471
+551,que me den la concesión de los ferrocarriles y me vuelvo empresario,Normal,0,0,0,1.0000000000000002,1,67
+552,"****Mi futuro Presidente, si lo tocan la población se va levantar como unos lobos***",Normal,0,0,0,1.0,1,84
+553,cómo hago para hablar con Rafael a dónde tengo que ir,Normal,0,0,0,1.0000000000000002,1,53
+554,😂,Normal,0,0,0,0.0,1,1
+555,no aprendió nadae,Normal,0,0,0,1.0,1,17
+556,...y serás el mejor presidente del Perú y en primera vuelta 👍,Normal,0,0,0,1.0,1,61
+557,💯💯💯,Normal,0,0,0,0.0,1,3
+558,👍👍👍👍👍👍🙏,Normal,0,0,0,0.0,1,7
+559,"Es el único que sabe, es el único que sabe como. 💪",Normal,0,0,0,1.0000000000000002,1,50
+560,florazo porky,Normal,0,0,0,1.0,1,13
+561,"paga tus impuestos, terrorista has destruido las finanzas de la Municipalidad....",Normal,0,0,0,1.0000000000000002,1,81
+562,Hahaha😂😂😂😂,Sospecha media (uno),1,1,0,0.0,1,10
+563,Porky Presidente Obras SI unidos lo Lograremos,Normal,0,0,0,1.0000000000000002,1,46
+564,👍,Normal,0,0,0,0.0,1,1
+565,"Rafa ,,Que Buena MOTIVACION Para Este Seguidor Tuyo , y Ojalá Lo Tomen Muchas JUVENTUDES !!!...Yesssss....",Alta sospecha (ambos),2,1,1,1.0,1,106
+566,REPITENTE,Alta sospecha (ambos),2,1,1,0.0,1,9
+567,Habla como gobierna: pésimo,Normal,0,0,0,0.4258865734471566,0,27
+568,Porky 2026 ❤️🇵🇪♥️🩵🩵,Normal,0,0,0,1.0,1,19
+569,"@Rafael López Aliaga-Presidente2026
+@RegionLaLibertad-Presente",Alta sospecha (ambos),2,1,1,1.0000000000000002,1,62
+570,"Vamos porky, se como es tu historia y serias lo mejor para el Perú",Normal,0,0,0,1.0000000000000002,1,66
+571,😁,Normal,0,0,0,0.0,1,1
+572,así se hacen grandes con esfuerzo,Normal,0,0,0,1.0000000000000002,1,33
+573,@RafaelPresidente_2026,Alta sospecha (ambos),2,1,1,0.0,1,22
+574,Porky presidente,Normal,0,0,0,1.0,1,16
+575,ver violencia? hoy hay mas violencia y no haces nada,Sospecha media (uno),1,1,0,1.0,1,52
+576,capo!,Sospecha media (uno),1,1,0,1.0,1,5
+577,"ya, ahora paga tu deuda con SUNAT",Normal,0,0,0,1.0000000000000002,1,33
+578,vino desde abajo con MONTESINOS,Normal,0,0,0,1.0,1,31
+579,😳😳😳,Normal,0,0,0,0.0,1,3
+580,Que tal libreto y como la prensa vendida lo auspicia toda se la saben corrupción nada más,Normal,0,0,0,1.0,1,89
+581,como ellos no van a tener dinero ¿cree que nacimos ayer?,Normal,0,0,0,0.332070344513178,0,56
+582,👏👏👏👏,Normal,0,0,0,0.0,0,4
+583,❤️🩵💪🙏🇵🇪,Alta sospecha (ambos),2,1,1,0.0,0,7
+584,,Normal,0,0,0,0.0,1,0
+585,vamos porky,Normal,0,0,0,1.0,1,11
+586,"hay bastante comentarios de gente envidiosa 😂,Made in Perú",Normal,0,0,0,0.6010461642460537,0,58
+587,😳😳😳,Normal,0,0,0,0.0,1,3
+588,Lo q dice Rafa es verdad… la UDEP funciona así…es una universidad de otro nivel… con todo el respeto de otras universidades,Normal,0,0,0,0.48522289903153093,0,123
+589,"Profe Rafael, cuentan mis viejos profesores que se enseñaron en la UDEP de Piura no llegabas a clases?",Sospecha media (uno),1,1,0,1.0,1,102
+590,"Ya, Porky antes q seas presidente te debo un cevichito frente a la Pedro, no te olvides de el terminal puerto Eten .",Normal,0,0,0,1.0000000000000002,1,116
+591,,Normal,0,0,0,0.0,1,0
+592,Capo Rafael 👏👏👏 un mentor que me gustaría tener 👍,Sospecha media (uno),1,0,1,0.43159165531387506,0,49
+593,"nada más lindo que comparta de dónde vino!!!y para inspirar a qué todo se puede ,y que la necesidad a veces puede ser un motor para salir adelante y ser valiente ✨💪💪 felicidades!!!,los que critican,solo saben hacer eso , criticar!!!",Alta sospecha (ambos),2,1,1,0.33078314648335466,0,232
+594,un buen partido para ser presidente,Normal,0,0,0,0.4392910147875609,0,35
+595,Capo!❤,Sospecha media (uno),1,1,0,1.0,0,6
+596,😁😁😁,Normal,0,0,0,0.0,1,3
+597,ya nos vienen con sus cuentos,Normal,0,0,0,0.31430732497280756,0,29
+598,Porky la mejor opción,Normal,0,0,0,1.0,1,21
+599,👍👍👍,Normal,0,0,0,0.0,1,3
+600,"solo le faltó la hombría de querer formar un hogar,le hubiera permitido tener una diferente cosmovision de la vida
+una persona con una vision sólo enfocada en el trabajo y a titulo personal generar empresas sin tener vocacion de ser padre,esposo no creo pueda ser buen presidente como alcalde ha dejado cabos sueltos no por mencionar a Dios va ha tapar sus errores",Sospecha media (uno),1,1,0,0.4231479839621128,0,364
+601,"Dios ilumine a mi país, y este señor logre ser presidente",Normal,0,0,0,0.4077093653835911,0,57
+602,😂😂😂,Normal,0,0,0,0.0,1,3
+603,Si son cómplices,Normal,0,0,0,0.4950384555139849,0,16
+604,aún siguen creyendo en sus trenes voladores,Normal,0,0,0,0.5098385098184399,0,43
+605,😁😁😁,Normal,0,0,0,0.0,1,3
+606,"El PERU🇵🇪 AVANZA
+PORKY PRESIDENTE DEL 🇵🇪 del 2026 AL 2036",Alta sospecha (ambos),2,1,1,1.0,1,57
+607,"Y cuando se trepó al gobierno corrupto de Fujimori, para que tenga la fortuna corrupta?",Sospecha media (uno),1,1,0,1.0,1,87
+608,"Enserio Rafael López Aliaga conoció lo q es subir al ""Pedrito"" y a los ""Pablitos""????? 😲",Alta sospecha (ambos),2,1,1,0.7504081877599572,0,88
+609,Daleeeeee,Normal,0,0,0,0.0,0,9
+610,Aprendamos de el es un ejemplo para la juventud cuando uno se propone lo consigue a pesar q su padre no estaban en condiciones gracias a su perseverancia inteligencia y buen trabajador está donde está.,Normal,0,0,0,0.34203486174299375,0,201
+611,💪💪💪,Normal,0,0,0,0.0,1,3
+612,el Papa no lo recibió ... punto,Normal,0,0,0,1.0000000000000002,1,31
+613,Rafael presidente un hombre con valores,Normal,0,0,0,1.0,1,39
+614,testaferro 😁😁,Normal,0,0,0,0.4675520168856804,0,13
+615,🥰🥰🥰,Normal,0,0,0,0.0,1,3
+616,Chatarrero!!!!!!!!,Alta sospecha (ambos),2,1,1,0.0,0,18
+617,pero la gente prefiere escuchar la historia de un pollo,Normal,0,0,0,0.47341812870671907,0,55
+618,Moliendo azúcar ahorró 12000 dólares. En qué año?,Normal,0,0,0,0.6920156442610254,0,49
+619,quieras o no rafael sera nuestro presidente 2026,Normal,0,0,0,1.0,1,48
+620,El cerebro humano no sólo es capaz de ser lo que quieras pero el egoísmo y la envidia no te deja progresar. Es más fácil juzgar. Si todas las personas se enfocaran en el objetivo como Rafael lograrían muchísimas cosas. En conclusión estudien trabajen y dejen de culpar a los demás por las cosas.,Sospecha media (uno),1,1,0,0.3953246347973858,0,295
+621,Porky presidente,Normal,0,0,0,1.0,1,16
+622,🤣🤣🤣🤣,Normal,0,0,0,0.0,1,4
+623,Rafael Presidente...,Normal,0,0,0,1.0,1,20
+624,Pobre hombre :/,Normal,0,0,0,0.5665281732488214,0,15
+625,Rafael Presidente del Peru 🇵🇪💖✝,Normal,0,0,0,1.0000000000000002,1,31
+626,algun detractor?,Alta sospecha (ambos),2,1,1,0.0,1,16
+627,vamos sr. presidente López Aliaga,Normal,0,0,0,1.0000000000000002,1,33
+628,"Eres un crack!
+No cualquiera sale de la UDEP en 4 años.",Normal,0,0,0,1.0000000000000004,1,55
+629,su evasión de impuesto a la SUNAT como socio de varias empresas y dirección fiscal .. empresas de cusco donde hoy están mal por esas empresas privadas .. nunca te dice cómo solucionar .. les miente trabaja mucho a la psicología a las personas ..,Normal,0,0,0,0.29887933535725353,0,245
+630,la gente es fácil manipular somos copiones,Normal,0,0,0,0.48278369837700325,0,42
+631,👌,Normal,0,0,0,0.0,0,1
+632,🥰🥰🥰,Normal,0,0,0,0.0,1,3
+633,la verdad conocerte como alcalde me hizo dar cuenta q no eres mi candidato,Normal,0,0,0,0.35618319115176894,0,74
+634,ojala llegue hacer presidente,Normal,0,0,0,0.4243592730749887,0,29
+635,Porky presidenta,Normal,0,0,0,1.0,0,16
+636,profesores europeos jajajajajka,Normal,0,0,0,0.35722433297142897,0,31
+637,no finja,Normal,0,0,0,1.0,0,8
+638,UDEP 🥰,Normal,0,0,0,0.448068810069437,0,6
