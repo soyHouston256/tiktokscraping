@@ -143,24 +143,40 @@ class TikTokScraper(BaseScraper):
         print(f"📱 Extrayendo comentarios del video ID: {video_id}")
 
         async with async_playwright() as p:
-            # Launch browser with Chrome
-            browser = await p.chromium.launch(
-                headless=headless,
-                channel="chrome",
-                args=[
-                    "--disable-blink-features=AutomationControlled",
-                    "--disable-dev-shm-usage",
-                ]
-            )
+            # Try to connect to existing Chrome, or launch new one
+            browser = None
+            context = None
+            using_cdp = False
 
-            context = await browser.new_context(
-                viewport={"width": 1440, "height": 900},
-                user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
-                locale="es-PE",
-            )
+            # Option 1: Try CDP connection to running Chrome (port 9222)
+            try:
+                browser = await p.chromium.connect_over_cdp("http://localhost:9222")
+                context = browser.contexts[0] if browser.contexts else await browser.new_context()
+                print("✅ Conectado a Chrome existente via CDP")
+                using_cdp = True
+            except Exception:
+                pass
 
-            # Load cookies
-            await self._load_cookies(context)
+            # Option 2: Launch fresh Chrome with our settings
+            if not browser:
+                print("ℹ️ Iniciando nuevo navegador...")
+                browser = await p.chromium.launch(
+                    headless=headless,
+                    channel="chrome",
+                    args=[
+                        "--disable-blink-features=AutomationControlled",
+                        "--disable-dev-shm-usage",
+                    ]
+                )
+
+                context = await browser.new_context(
+                    viewport={"width": 1440, "height": 900},
+                    user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+                    locale="es-PE",
+                )
+
+                # Load cookies only for new browser
+                await self._load_cookies(context)
 
             page = await context.new_page()
             self.page = page
@@ -169,16 +185,43 @@ class TikTokScraper(BaseScraper):
             try:
                 print(f"🔗 Navegando a: {url}")
                 await page.goto(url, wait_until="domcontentloaded", timeout=60000)
-                await page.wait_for_timeout(3000)
+
+                # Wait longer for page to fully load
+                print("⏳ Esperando que la página cargue...")
+                await page.wait_for_timeout(5000)
 
                 # Close any popups
                 await self._close_popups(page)
+
+                # Check if cookies are valid - if not, prompt user
+                cookies_valid = await self._check_session_valid(page)
+                if not cookies_valid:
+                    print("\n" + "=" * 60)
+                    print("⚠️  SESIÓN NO VÁLIDA O EXPIRADA")
+                    print("=" * 60)
+                    print("Por favor:")
+                    print("  1. Inicia sesión en TikTok en el navegador abierto")
+                    print("  2. Completa cualquier captcha que aparezca")
+                    print("  3. El script detectará cuando estés listo")
+                    print("=" * 60 + "\n")
+
+                    # Wait for login and/or captcha to be completed
+                    if not await self._wait_for_login_and_captcha(page):
+                        result.error = "Login/captcha timeout"
+                        if not using_cdp:
+                            await browser.close()
+                        return result
+                else:
+                    print("   Continuando con sesión activa...")
 
                 # Wait for video to load
                 await self._wait_for_video(page)
 
                 # Extract post data
                 result.post = await self._extract_post_data(page=page, video_id=video_id, url=url)
+
+                # Open comments panel first
+                await self._open_comments_panel(page)
 
                 # Expand and extract comments
                 result.comments = await self._extract_comments(
@@ -196,7 +239,15 @@ class TikTokScraper(BaseScraper):
                 import traceback
                 traceback.print_exc()
 
-            await browser.close()
+            # Only close browser if we launched it (not CDP)
+            if not using_cdp:
+                await browser.close()
+            else:
+                # Just close the page we created, not the whole browser
+                try:
+                    await page.close()
+                except Exception:
+                    pass
 
         result.scrape_duration_seconds = time.time() - start_time
         return result
@@ -221,6 +272,142 @@ class TikTokScraper(BaseScraper):
         except Exception:
             pass
 
+    async def _check_session_valid(self, page: Page) -> bool:
+        """Check if current session is valid (user is logged in)."""
+        try:
+            is_logged_in = await page.evaluate('''() => {
+                // Check for clear indicators of being logged in
+                const profileIcon = document.querySelector('[data-e2e="profile-icon"]');
+                const uploadButton = document.querySelector('[data-e2e="upload-icon"]');
+                const avatarInHeader = document.querySelector('header [class*="Avatar"], header img[class*="avatar"]');
+
+                // Check for login buttons (indicates NOT logged in)
+                const loginButton = document.querySelector('[data-e2e="top-login-button"]');
+
+                // If we find profile/upload icons and no login button, we're logged in
+                if ((profileIcon || uploadButton || avatarInHeader) && !loginButton) {
+                    return true;
+                }
+
+                // If there's a login button visible, we're not logged in
+                if (loginButton) {
+                    return false;
+                }
+
+                // Uncertain - return false to be safe
+                return false;
+            }''')
+
+            if is_logged_in:
+                print("✅ Sesión válida detectada")
+                return True
+            else:
+                print("⚠️  No se detectó sesión válida")
+                return False
+
+        except Exception as e:
+            print(f"⚠️  Error verificando sesión: {e}")
+            return False
+
+    async def _wait_for_login_and_captcha(self, page: Page):
+        """Wait for user to login and complete any captcha challenges."""
+        print("\n" + "=" * 60)
+        print("🔐 ESPERANDO LOGIN Y/O CAPTCHA")
+        print("=" * 60)
+        print("1. Si aparece login, inicia sesión")
+        print("2. Si aparece captcha/verificación, complétalo")
+        print("3. El script esperará hasta que confirmes (Enter)")
+        print("=" * 60 + "\n")
+
+        max_wait = 300  # 5 minutos máximo
+        start = time.time()
+        last_status = ""
+        login_required = False
+        captcha_required = False
+
+        # First, check if we need login by looking for login prompts
+        await page.wait_for_timeout(3000)  # Wait for page to fully load
+
+        while time.time() - start < max_wait:
+            try:
+                status = await page.evaluate('''() => {
+                    // Check for captcha anywhere on page
+                    const captcha = document.querySelector('[class*="captcha"], [id*="captcha"], [class*="verify"], iframe[src*="captcha"], [class*="Captcha"]');
+                    if (captcha) return 'captcha';
+
+                    // Check for login modal
+                    const loginModal = document.querySelector('[data-e2e="login-modal"], [class*="LoginModal"], [class*="login-modal"]');
+                    if (loginModal) return 'login_modal';
+
+                    // Check for login page
+                    if (window.location.pathname.includes('/login')) return 'login_page';
+
+                    // Check for login prompt in comments section
+                    const commentArea = document.querySelector('[class*="CommentList"], [class*="comment"]');
+                    if (commentArea) {
+                        const loginPromptInComments = commentArea.querySelector('[class*="login"], button[class*="Login"]');
+                        if (loginPromptInComments) return 'login_in_comments';
+                    }
+
+                    // Check for generic login button that blocks content
+                    const loginButton = document.querySelector('[data-e2e="comment-login-button"], button:has-text("Log in to comment")');
+                    if (loginButton) return 'login_required';
+
+                    // Check if logged in - look for profile icon AND avatar in header
+                    const profileIcon = document.querySelector('[data-e2e="profile-icon"]');
+                    const avatarInHeader = document.querySelector('header [class*="Avatar"], header img[class*="avatar"]');
+                    const uploadButton = document.querySelector('[data-e2e="upload-icon"]');
+
+                    if (profileIcon || avatarInHeader || uploadButton) return 'logged_in';
+
+                    // Check if video is visible but we're not sure about login
+                    const video = document.querySelector('video, [data-e2e="browse-video"]');
+                    if (video) return 'video_loaded';
+
+                    return 'loading';
+                }''')
+
+                if status != last_status:
+                    if status == 'captcha':
+                        print("   ⚠️ Captcha detectado - Por favor complétalo...")
+                        captcha_required = True
+                    elif status in ['login_modal', 'login_page', 'login_in_comments', 'login_required']:
+                        print("   🔐 Login requerido - Por favor inicia sesión...")
+                        login_required = True
+                    elif status == 'logged_in':
+                        print("   ✅ Sesión detectada!")
+                        if not captcha_required:
+                            # Give user a moment to see the status
+                            await page.wait_for_timeout(2000)
+                            return True
+                    elif status == 'video_loaded':
+                        print("   📹 Video cargado, verificando sesión...")
+                    last_status = status
+
+                # Only proceed automatically if we detected login AND no captcha pending
+                if status == 'logged_in' and not captcha_required:
+                    await page.wait_for_timeout(2000)
+                    return True
+
+                # If captcha was required but now it's gone, check again
+                if captcha_required and status not in ['captcha']:
+                    print("   ✅ Captcha completado!")
+                    captcha_required = False
+                    # Continue to wait for login confirmation
+
+            except Exception as e:
+                pass
+
+            await page.wait_for_timeout(2000)
+
+            # Every 30 seconds, remind user
+            elapsed = int(time.time() - start)
+            if elapsed > 0 and elapsed % 30 == 0:
+                print(f"   ⏳ Esperando... ({elapsed}s)")
+
+        print("   ⚠️ Timeout esperando login/captcha")
+        return False
+
     async def _wait_for_video(self, page: Page):
         """Wait for video content to load."""
         print("⏳ Esperando que cargue el video...")
@@ -230,6 +417,36 @@ class TikTokScraper(BaseScraper):
             print("   ✅ Video cargado")
         except Exception:
             print("   ⚠️ Timeout esperando video")
+
+    async def _open_comments_panel(self, page: Page):
+        """Open the comments panel by clicking on comment icon."""
+        print("💬 Abriendo panel de comentarios...")
+        try:
+            # Click on comment icon to open comments panel
+            comment_btn = await page.query_selector('[data-e2e="comment-icon"], [data-e2e="browse-comment-icon"]')
+            if comment_btn:
+                await comment_btn.click()
+                await page.wait_for_timeout(2000)
+                print("   ✅ Panel de comentarios abierto")
+            else:
+                # Try clicking on comment count
+                comment_count = await page.query_selector('[data-e2e="comment-count"], [data-e2e="browse-comment-count"]')
+                if comment_count:
+                    await comment_count.click()
+                    await page.wait_for_timeout(2000)
+                    print("   ✅ Panel de comentarios abierto (via count)")
+
+            # Wait for comments to load
+            await page.wait_for_timeout(3000)
+
+            # Check if comments loaded
+            loaded = await page.evaluate('''() => {
+                return document.querySelectorAll('a[href*="/@"]').length;
+            }''')
+            print(f"   📊 Links de usuario encontrados: {loaded}")
+
+        except Exception as e:
+            print(f"   ⚠️ Error abriendo comentarios: {e}")
 
     async def _extract_post_data(self, page: Page = None, video_id: str = "", url: str = "", **kwargs) -> Post:
         """Extract video metadata using Playwright."""
@@ -294,67 +511,72 @@ class TikTokScraper(BaseScraper):
         except Exception:
             return 0
 
-    async def _expand_comments(self, page: Page, max_iterations: int = 100):
+    async def _expand_comments(self, page: Page, max_iterations: int = 300):
         """Expand comments by scrolling the comment section."""
         print("📜 Expandiendo comentarios...")
 
-        # First, find the comment section
         await page.wait_for_timeout(2000)
 
         last_count = 0
         no_change_count = 0
 
         for iteration in range(max_iterations):
-            # Scroll the page to load more comments
+            # Scroll the comment container
             try:
                 await page.evaluate('''() => {
-                    // Try multiple selectors for comment section
-                    const selectors = [
-                        '[data-e2e="comment-list"]',
-                        '[class*="DivCommentListContainer"]',
-                        '[class*="comment-list"]',
-                        'div[class*="CommentList"]'
-                    ];
+                    // Find the scrollable comment container
+                    const commentList = document.querySelector('[class*="DivCommentListContainer"]');
+                    if (commentList) {
+                        // Scroll the container itself
+                        commentList.scrollTop = commentList.scrollHeight;
 
-                    for (const sel of selectors) {
-                        const el = document.querySelector(sel);
-                        if (el) {
-                            el.scrollTop = el.scrollHeight;
-                            return;
+                        // Also try scrolling parent containers
+                        let parent = commentList.parentElement;
+                        for (let i = 0; i < 3 && parent; i++) {
+                            if (parent.scrollHeight > parent.clientHeight + 50) {
+                                parent.scrollTop = parent.scrollHeight;
+                            }
+                            parent = parent.parentElement;
                         }
                     }
 
-                    // Fallback: scroll the page
-                    window.scrollBy(0, 800);
+                    // Also try the main content area
+                    const contentArea = document.querySelector('[class*="DivContentContainer"], [class*="DivBrowserModeContainer"]');
+                    if (contentArea && contentArea.scrollHeight > contentArea.clientHeight) {
+                        contentArea.scrollTop = contentArea.scrollHeight;
+                    }
                 }''')
             except Exception:
                 pass
 
             await page.wait_for_timeout(800)
 
-            # Count comments using multiple selectors
+            # Click "View more comments" buttons
+            try:
+                await page.evaluate('''() => {
+                    const moreButtons = document.querySelectorAll('[class*="ViewMore"], [class*="view-more"], [class*="PViewMoreButton"]');
+                    moreButtons.forEach(btn => {
+                        if (btn.offsetParent !== null) {
+                            btn.click();
+                        }
+                    });
+                }''')
+            except Exception:
+                pass
+
+            # Count current comments (main + replies)
             try:
                 current = await page.evaluate('''() => {
-                    const selectors = [
-                        '[data-e2e="comment-item"]',
-                        '[class*="DivCommentItemContainer"]',
-                        '[class*="CommentItem"]',
-                        'div[class*="comment-item"]'
-                    ];
-
-                    for (const sel of selectors) {
-                        const items = document.querySelectorAll(sel);
-                        if (items.length > 0) return items.length;
+                    const commentList = document.querySelector('[class*="DivCommentListContainer"]');
+                    if (commentList) {
+                        return commentList.querySelectorAll('[class*="DivCommentItemWrapper"]').length;
                     }
-
-                    // Try to find by structure
-                    const usernames = document.querySelectorAll('a[href*="/@"][class*="Link"]');
-                    return usernames.length;
+                    return 0;
                 }''')
             except Exception:
                 current = last_count
 
-            if iteration % 10 == 0:
+            if iteration % 20 == 0:
                 print(f"   🔄 Iteración {iteration}: {current} comentarios")
 
             if current == last_count:
@@ -364,11 +586,67 @@ class TikTokScraper(BaseScraper):
 
             last_count = current
 
-            if no_change_count >= 5 and iteration > 5:
+            # Need more iterations without change before stopping
+            if no_change_count >= 10 and iteration > 15:
                 break
 
         print(f"✅ Expansión completada: {last_count} comentarios visibles")
+
+        # Now expand replies
+        await self._expand_replies(page)
+
         return last_count
+
+    async def _expand_replies(self, page: Page):
+        """Click on 'View X replies' buttons to load reply threads."""
+        print("📂 Expandiendo respuestas...")
+
+        total_expanded = 0
+        max_rounds = 10
+
+        for round in range(max_rounds):
+            # Find and click "View X replies" buttons
+            try:
+                clicked = await page.evaluate('''() => {
+                    let clickCount = 0;
+
+                    // Find all "View replies" buttons that haven't been clicked
+                    const replyButtons = document.querySelectorAll(
+                        '[class*="DivViewMoreRepliesWrapper"], ' +
+                        '[class*="DivViewRepliesContainer"], ' +
+                        '[class*="ViewReplies"]'
+                    );
+
+                    replyButtons.forEach(btn => {
+                        // Check if it's visible and contains "View" or "Ver" text
+                        if (btn.offsetParent !== null && !btn.dataset.expanded) {
+                            const text = btn.textContent.toLowerCase();
+                            if ((text.includes('view') && text.includes('repl')) ||
+                                (text.includes('ver') && text.includes('respuesta'))) {
+                                btn.click();
+                                btn.dataset.expanded = 'true';
+                                clickCount++;
+                            }
+                        }
+                    });
+
+                    return clickCount;
+                }''')
+
+                if clicked > 0:
+                    total_expanded += clicked
+                    await page.wait_for_timeout(1500)  # Wait for replies to load
+                else:
+                    # No more buttons to click
+                    break
+
+            except Exception:
+                break
+
+        if total_expanded > 0:
+            print(f"   ✅ Expandidas {total_expanded} secciones de respuestas")
+        else:
+            print("   ℹ️ No hay respuestas para expandir")
 
     async def _extract_comments(
         self,
@@ -377,7 +655,7 @@ class TikTokScraper(BaseScraper):
         include_replies: bool = True,
         **kwargs
     ) -> List[Comment]:
-        """Extract comments using Playwright."""
+        """Extract comments using Playwright - DOM-based extraction."""
         comments = []
 
         print("\n💬 Extrayendo comentarios...")
@@ -385,83 +663,133 @@ class TikTokScraper(BaseScraper):
         # First expand comments
         await self._expand_comments(page)
 
-        # Extract comments using JavaScript for better DOM access
+        # Extract comments from DOM elements
         try:
             raw_comments = await page.evaluate('''() => {
                 const comments = [];
 
-                // Find all links to user profiles that are likely comment authors
-                const userLinks = document.querySelectorAll('a[href*="/@"]');
+                // Find comment list container first
+                const commentList = document.querySelector('[class*="DivCommentListContainer"]');
+                if (!commentList) return comments;
 
-                userLinks.forEach((link, idx) => {
+                // Find all comment items inside the list (use ItemWrapper not ObjectWrapper to avoid duplicates)
+                const wrappers = commentList.querySelectorAll('[class*="DivCommentItemWrapper"]');
+
+                wrappers.forEach((wrapper, index) => {
                     try {
-                        const username = link.textContent.trim().replace('@', '');
-                        if (!username || username.length < 2) return;
+                        // Get username - look for the username element with data-e2e
+                        const usernameEl = wrapper.querySelector('[data-e2e*="comment-username"] a, [data-e2e*="comment-username"] p');
+                        let username = '';
+                        let userId = '';
 
-                        // Find the parent comment container (go up until we find a reasonable container)
-                        let container = link.parentElement;
-                        for (let i = 0; i < 5 && container; i++) {
-                            // Check if this looks like a comment container
-                            if (container.className && (
-                                container.className.includes('Comment') ||
-                                container.className.includes('comment') ||
-                                container.getAttribute('data-e2e')?.includes('comment')
-                            )) {
-                                break;
+                        if (usernameEl) {
+                            username = usernameEl.textContent.trim();
+                            const link = usernameEl.closest('a') || usernameEl.querySelector('a');
+                            if (link) {
+                                const href = link.getAttribute('href') || '';
+                                userId = href.replace('/@', '').split('?')[0];
                             }
-                            container = container.parentElement;
                         }
 
-                        if (!container) return;
+                        // Fallback: get first link in avatar/header area
+                        if (!username) {
+                            const avatarLink = wrapper.querySelector('a[href*="/@"]');
+                            if (avatarLink) {
+                                const href = avatarLink.getAttribute('href') || '';
+                                userId = href.replace('/@', '').split('?')[0];
+                                // Get display name from the header
+                                const nameEl = wrapper.querySelector('p[class*="StyledTUXText"], [class*="UsernameContent"] p');
+                                username = nameEl ? nameEl.textContent.trim() : userId;
+                            }
+                        }
 
-                        // Find comment text - all text in container except username and UI elements
-                        const allText = container.textContent || '';
-                        let text = allText
-                            .replace(username, '')
-                            .replace(/@\\w+/g, '')
-                            .replace(/\\d+[KkMm]?\\s*(likes?|Reply|respuesta|Responder|Ver)/gi, '')
-                            .replace(/hace \\d+.*/gi, '')
-                            .replace(/\\d+[hmd]\\s*/gi, '')
+                        if (!username && !userId) return;
+                        if (!username) username = userId;
+                        if (!userId) userId = username;
+
+                        // Get comment text from data-e2e="comment-level-1"
+                        let text = '';
+                        const textEl = wrapper.querySelector('[data-e2e*="comment-level"]');
+                        if (textEl) {
+                            text = textEl.textContent.trim();
+                        }
+
+                        // Fallback: look for content wrapper
+                        if (!text) {
+                            const contentWrapper = wrapper.querySelector('[class*="DivCommentContentWrapper"]');
+                            if (contentWrapper) {
+                                // Get all paragraph/span elements except username
+                                const textEls = contentWrapper.querySelectorAll('p, span');
+                                const textParts = [];
+                                textEls.forEach(el => {
+                                    const t = el.textContent.trim();
+                                    if (t === username) return;
+                                    if (/^\\d+[hmdwsW]( ago)?$/.test(t)) return;
+                                    if (/^\\d+[KkMm]?$/.test(t)) return;
+                                    if (/^(Reply|Responder|View|Ver|Hide|Ocultar|Creator)/i.test(t)) return;
+                                    if (t.length > 1 && !textParts.includes(t)) {
+                                        textParts.push(t);
+                                    }
+                                });
+                                text = textParts.slice(1).join(' '); // Skip first which is usually username
+                            }
+                        }
+
+                        // Clean up text
+                        text = text
+                            .replace(/\\s+/g, ' ')
+                            .replace(new RegExp('^' + username.replace(/[.*+?^${}()|[\\]\\\\]/g, '\\\\$&') + '\\\\s*'), '')
+                            .replace(/^[\\s·-]+|[\\s·-]+$/g, '')
                             .trim();
 
-                        // Clean up the text
-                        text = text.split('\\n')[0].trim();  // Take first line
+                        if (!text || text.length < 1) return;
 
-                        if (!text || text.length < 2) return;
-
-                        // Find likes
+                        // Get likes count
                         let likes = 0;
-                        const likesMatch = allText.match(/(\\d+[KkMm]?)\\s*(likes?|me gusta)/i);
-                        if (likesMatch) {
-                            const likesText = likesMatch[1];
-                            if (likesText.toUpperCase().includes('K')) {
-                                likes = Math.floor(parseFloat(likesText) * 1000);
-                            } else if (likesText.toUpperCase().includes('M')) {
-                                likes = Math.floor(parseFloat(likesText) * 1000000);
-                            } else {
-                                likes = parseInt(likesText) || 0;
+                        const likeEl = wrapper.querySelector('[data-e2e*="like-count"], [class*="LikeCount"]');
+                        if (likeEl) {
+                            const likeText = likeEl.textContent.trim();
+                            if (/^\\d+[KkMm]?$/.test(likeText)) {
+                                if (likeText.toUpperCase().includes('K')) {
+                                    likes = parseFloat(likeText) * 1000;
+                                } else if (likeText.toUpperCase().includes('M')) {
+                                    likes = parseFloat(likeText) * 1000000;
+                                } else {
+                                    likes = parseInt(likeText) || 0;
+                                }
                             }
                         }
 
-                        // Avoid duplicates
-                        const existing = comments.find(c => c.username === username && c.text === text);
-                        if (existing) return;
+                        // Get timestamp
+                        let timestamp = '';
+                        const timeMatch = wrapper.textContent.match(/(\\d+[hmdwsW])( ago)?/);
+                        if (timeMatch) {
+                            timestamp = timeMatch[1];
+                        }
+
+                        // Check if this is a reply (inside DivReplyContainer or DivReplyScrollBasis)
+                        const isReply = wrapper.closest('[class*="DivReplyContainer"]') !== null ||
+                                       wrapper.closest('[class*="DivReplyScrollBasis"]') !== null ||
+                                       wrapper.closest('[class*="ReplyContainer"]') !== null;
 
                         comments.push({
                             username: username,
+                            userId: userId,
                             text: text.substring(0, 1000),
-                            likes: likes,
-                            isReply: false
+                            likes: Math.floor(likes),
+                            timestamp: timestamp,
+                            isReply: isReply
                         });
+
                     } catch (e) {
-                        // Skip errored
+                        // Skip this comment on error
                     }
                 });
 
                 return comments;
             }''')
 
-            print(f"   🔍 Procesando {len(raw_comments)} comentarios encontrados...")
+            print(f"   🔍 Encontrados {len(raw_comments)} comentarios en DOM")
 
             for idx, raw in enumerate(raw_comments):
                 if max_comments and idx >= max_comments:
@@ -469,7 +797,7 @@ class TikTokScraper(BaseScraper):
 
                 try:
                     user = self.create_user(
-                        user_id=raw['username'],
+                        user_id=raw.get('userId', raw['username']),
                         username=raw['username'],
                         display_name=raw['username']
                     )
@@ -479,8 +807,8 @@ class TikTokScraper(BaseScraper):
                         comment_id=str(idx + 1),
                         text=raw['text'],
                         user=user,
-                        likes=raw['likes'],
-                        is_reply=raw['isReply'],
+                        likes=raw.get('likes', 0),
+                        is_reply=raw.get('isReply', False),
                         created_at=int(time.time())
                     )
 
