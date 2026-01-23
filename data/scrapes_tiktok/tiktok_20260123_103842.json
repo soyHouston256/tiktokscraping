@@ -1,0 +1,28 @@
+{
+  "platform": "tiktok",
+  "source_url": "https://www.tiktok.com/@rafael_lopez_aliaga/video/7598177433807834388",
+  "extracted_at": "2026-01-23T10:38:22.285385",
+  "post": {
+    "post_id": "7598177433807834388",
+    "text": "",
+    "author": {
+      "id": "",
+      "name": "",
+      "username": "",
+      "profile_url": "",
+      "profile_picture": "",
+      "verified": false
+    },
+    "likes": 5581,
+    "comments_total": 335,
+    "shares": 166,
+    "views": 0,
+    "created_at": 0,
+    "attachments": [],
+    "extra_metrics": {}
+  },
+  "comments": [],
+  "comments_count": 0,
+  "scrape_duration_seconds": 19.933202028274536,
+  "error": null
+}

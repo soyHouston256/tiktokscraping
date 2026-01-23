@@ -1,0 +1,80 @@
+{
+  "platform": "tiktok",
+  "source_url": "https://www.tiktok.com/@rafael_lopez_aliaga/video/7598177433807834388",
+  "extracted_at": "2026-01-23T10:40:58.669705",
+  "post": {
+    "post_id": "7598177433807834388",
+    "text": "",
+    "author": {
+      "id": "",
+      "name": "",
+      "username": "",
+      "profile_url": "",
+      "profile_picture": "",
+      "verified": false
+    },
+    "likes": 5582,
+    "comments_total": 336,
+    "shares": 166,
+    "views": 0,
+    "created_at": 0,
+    "attachments": [],
+    "extra_metrics": {}
+  },
+  "comments": [
+    {
+      "index": 1,
+      "comment_id": "1",
+      "text": "TikTokSearchFor YouExploreFollowingLIVEUploadMoreLog inCompanyProgramTerms & Policies© 2026 TikTokrafael_lopez_aliaga · ago 00:15 / 00:335582336180166rafael_lopez_aliaga · ago sonido original - Pepper Potts✨00:00 / 00:0014.5K751440451CommentsYou may likerafael_lopez_aliaga14.5K·ago  Bunny #badbunny #debitirarmasfotos #benito #conejomalo rafael_lopez_aliaga12.2K·ago  Bunny rafael_lopez_aliaga15.4K·ago rafael_lopez_aliaga3336·ago 👀rafael_lopez_aliaga122.1K·ago rafael_lopez_aliaga5258·ago rafael_lopez_aliaga16.2K·1w ago Haré un streaming con el creador que tenga más likes. A subir sus videos y etiquetarme.rafael_lopez_aliaga27.3K·1-14rafael_lopez_aliaga5598·1-14rafael_lopez_aliaga13K·1-12rafael_lopez_aliaga34.2K·1-11rafael_lopez_aliaga31.4K·1-11rafael_lopez_aliaga18.1K·1-11rafael_lopez_aliaga10.1K·1-10rafael_lopez_aliaga13.1K·1-10Gracias por tus palabras  Vidal rafael_lopez_aliaga26K·1-9Log inLog inIntroducing keyboard shortcuts!Go to previous videoGo to next videoLike video Mute / unmut",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769182880,
+      "user": {
+        "id": "Profile",
+        "username": "Profile",
+        "display_name": "Profile",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 2,
+      "comment_id": "2",
+      "text": "· ago 00:15 / 00:33",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769182880,
+      "user": {
+        "id": "rafael_lopez_aliaga",
+        "username": "rafael_lopez_aliaga",
+        "display_name": "rafael_lopez_aliaga",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 3,
+      "comment_id": "3",
+      "text": "· ago sonido original - Pepper Potts✨00:00 / 00:00",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769182880,
+      "user": {
+        "id": "rafael_lopez_aliaga",
+        "username": "rafael_lopez_aliaga",
+        "display_name": "rafael_lopez_aliaga",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    }
+  ],
+  "comments_count": 3,
+  "scrape_duration_seconds": 46.55657124519348,
+  "error": null
+}

@@ -1,0 +1,40 @@
+python -m scripts.facebook.scraper "https://www.facebook.com/share/p/1Dv7dfHgkG/"
+
+Rafael López:
+- tiktok
+    - https://www.tiktok.com/@rafael_lopez_aliaga/video/7598177433807834388
+    - https://www.tiktok.com/@rafael_lopez_aliaga/video/7597979596444749077
+    - https://www.tiktok.com/@rafael_lopez_aliaga/video/7597210961434414356
+    - https://www.tiktok.com/@rafael_lopez_aliaga/video/7597032740772416789
+    - https://www.tiktok.com/@rafael_lopez_aliaga/video/7596863876218555669
+    - https://www.tiktok.com/@rafael_lopez_aliaga/video/7596815197193522453
+    - https://www.tiktok.com/@rafael_lopez_aliaga/video/7596577944181460245
+    - https://www.tiktok.com/@rafael_lopez_aliaga/video/7596550177373146389
+    - https://www.tiktok.com/@rafael_lopez_aliaga/video/7596542876092271893
+    - https://www.tiktok.com/@rafael_lopez_aliaga/video/7596397149210840340
+- facebook
+    - https://www.facebook.com/share/p/1NVJEeap9Y/
+    - https://www.facebook.com/share/p/1asZ1WTM4U/
+    - https://www.facebook.com/share/v/1HCBhz3T8i/
+    - https://www.facebook.com/share/r/18KcMq2iEK/
+    - https://www.facebook.com/share/v/1DhesC38ME/
+    - https://www.facebook.com/share/p/17q7Bbh98R/
+    - https://www.facebook.com/share/p/1Dv7dfHgkG/
+    - https://www.facebook.com/share/p/1a9hpGFDNt/
+    - https://www.facebook.com/share/r/1QEQDctUn3/
+    - https://www.facebook.com/share/v/17vkLqAGp9/
+
+Keiko Fujimori:
+- tiktok
+- facebook
+
+Mario Vizcarra:
+- tiktok
+- facebook
+
+Carlos Álvarez: 
+- tiktok
+- facebook
+
+https://www.ipsos.com/sites/default/files/ct/news/documents/2025-12/ANEXO%201%20Publicaci%C3%B3n%20de%20resultados%2021Dic25.pdf
+

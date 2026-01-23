@@ -19,17 +19,25 @@ pip install TikTokApi
 playwright install chromium
 ```
 
+Recomiendo crear un entorno virtual antes de instalar:
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt  # si creas este archivo
+```
+
 ## ⚡ Inicio Rápido
 
 ```bash
 # 1. Extraer comentarios de un video
-python extractor_api_tiktokapi.py "https://www.tiktok.com/@usuario/video/ID"
+python scripts/tiktok/tk_scraper.py "https://www.tiktok.com/@usuario/video/ID"
 
 # 2. Analizar comentarios extraídos
-python analizar_comentarios.py
+python scripts/tiktok/tk_scraper.py  # ya guarda y muestra análisis básico
 
 # 3. Ver estadísticas rápidas
-./comandos_utiles.sh stats
+python -c "import json; d=json.load(open('data/results/comentarios_limpios.json')); print(f'Total: {len(d)} comentarios')"
 ```
 
 ## 💻 Uso Detallado
@@ -140,32 +148,46 @@ playwright install chromium
 - Verifica que el video tenga comentarios públicos
 
 ## 📁 Estructura del Proyecto
-
 ```
 trollDetector/
-├── 🐍 Scripts
-│   ├── extractor_api_tiktokapi.py      # Extractor principal
-│   ├── analizar_comentarios.py         # Análisis automático
-│   └── comandos_utiles.sh              # Comandos útiles
-│
-├── 📊 Datos
-│   ├── comentarios_limpios.json        # Comentarios únicos
-│   ├── comentarios_por_categoria.json  # Categorizados
-│   └── reporte_analisis.txt            # Reporte completo
-│
-└── 📚 Documentación
-    ├── README.md                       # Este archivo
-    ├── GUIA_RAPIDA.md                  # Guía rápida
-    └── RESUMEN_FINAL.md                # Resumen ejecutivo
+├── scripts/
+│   ├── facebook/              # [scripts/facebook/fb_scraper.py](scripts/facebook/fb_scraper.py)
+│   ├── tiktok/                # [scripts/tiktok/tk_scraper.py](scripts/tiktok/tk_scraper.py)
+│   └── common/                # helpers y utilidades compartidas
+
+├── data/
+│   ├── fb_scrapes/            # scrapes de Facebook (JSON)
+│   ├── tk_scrapes/            # scrapes de TikTok (JSON)
+│   └── results/               # resultados / CSV / análisis
+
+├── docs/                      # Documentación y guías ([docs/GUIA_RAPIDA.md](docs/GUIA_RAPIDA.md))
+├── notebooks/                 # Notebooks (p. ej. [notebooks/botsDetector.ipynb](notebooks/botsDetector.ipynb))
+└── README.md
 ```
 
 ## 🎯 Casos de Uso
 
-### Análisis de Sentimientos
-Usa los comentarios extraídos con herramientas de NLP para detectar:
-- Sentimientos positivos/negativos
-- Trolls y spam
-- Temas principales de discusión
+
+### Ejecutar el scraper de Facebook
+
+1. Asegúrate de que `scripts/facebook/fb-cookies.json` exista si quieres ejecutar en modo `headless`.
+2. Ejecuta:
+
+```bash
+python scripts/facebook/fb_scraper.py
+```
+
+Nota: el script abre un navegador Playwright. Si necesitas login, seguirá el flujo interactivo y guardará cookies en `scripts/facebook/fb-cookies.json`.
+
+### Ejecutar el extractor de TikTok (API)
+
+Extrae comentarios y guarda un JSON de salida en el directorio actual:
+
+```bash
+python scripts/tiktok/tk_scraper.py "https://www.tiktok.com/@adri.zip/video/7429707963905887520"
+```
+
+El script mostrará un resumen y guardará un archivo `comentarios_api_TIMESTAMP.json`.
 
 ### Marketing e Investigación
 - Analizar engagement de campañas
@@ -186,6 +208,21 @@ Usa los comentarios extraídos con herramientas de NLP para detectar:
 - [ ] Exportar a Excel/CSV con gráficos
 - [ ] Extracción de respuestas a comentarios
 - [ ] Detección de bots y usuarios sospechosos
+
+Ideas a corto plazo:
+- Añadir `requirements.txt` y `scripts/run.sh` para facilitar ejecución
+- Crear un `scripts/cli.py` que unifique las llamadas a los scrapers
+- Normalizar salida en `data/results/` con timestamps y metadatos
+
+---
+
+## ⚠️ Notas importantes
+
+- `scripts/facebook/fb-cookies.json` contiene cookies de sesión: protégelas si el repositorio es público.
+- Playwright requiere instalación de navegadores (`playwright install chromium`).
+- Las APIs no oficiales pueden ser bloqueadas por TikTok; usar con moderación y respetar TOS.
+
+Si quieres, implemento un `scripts/cli.py` y un `requirements.txt` y hago un commit.
 
 ## Advertencia Legal
 
