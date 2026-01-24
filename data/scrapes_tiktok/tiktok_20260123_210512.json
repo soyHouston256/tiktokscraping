@@ -1,0 +1,4177 @@
+{
+  "platform": "tiktok",
+  "source_url": "https://www.tiktok.com/@rafael_lopez_aliaga/video/7596397149210840340",
+  "extracted_at": "2026-01-23T21:04:33.081840",
+  "post": {
+    "post_id": "7596397149210840340",
+    "text": "Congresista Flor Pablo a Jeri: Nos miente y se victimiza. Tras las excusas que dio por el caso Chifagate \n\n#shorts\n\n \n\n#viral\n\n ",
+    "author": {
+      "id": "",
+      "name": "",
+      "username": "",
+      "profile_url": "",
+      "profile_picture": "",
+      "verified": false
+    },
+    "likes": 5670,
+    "comments_total": 329,
+    "shares": 246,
+    "views": 0,
+    "created_at": 0,
+    "attachments": [],
+    "extra_metrics": {}
+  },
+  "comments": [
+    {
+      "index": 1,
+      "comment_id": "1",
+      "text": "Un visionario, ese mi Porky, tu si sabes.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "patvalmez",
+        "username": "PatValz",
+        "display_name": "PatValz",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 2,
+      "comment_id": "2",
+      "text": "Sabemos cómo llevar hacia el desarrollo al Perú.🇵🇪",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220312,
+      "user": {
+        "id": "rafael_lopez_aliaga",
+        "username": "Rafael López Aliaga",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 3,
+      "comment_id": "3",
+      "text": "Nuestro futuro presi 🥰🥰🥰",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220312,
+      "user": {
+        "id": "flavia15.15",
+        "username": "Flavia Muñoz",
+        "display_name": "Flavia Muñoz",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 4,
+      "comment_id": "4",
+      "text": "s lo wue todos esperan",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220312,
+      "user": {
+        "id": "dani.torres190",
+        "username": "Dani yucra",
+        "display_name": "Dani yucra",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 5,
+      "comment_id": "5",
+      "text": "https://youtu.be/c9g_TrroOok?si=E16H_os1-Nu668nO. esa es tu realidad",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220312,
+      "user": {
+        "id": "luisvillar1256",
+        "username": "Luis",
+        "display_name": "Luis",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 6,
+      "comment_id": "6",
+      "text": "Gestión con VISIÓN 👏👏👏",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "mentalidad.retro",
+        "username": "mentalidad.retro",
+        "display_name": "mentalidad.retro",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 7,
+      "comment_id": "7",
+      "text": "🤣🤣🤣🤣",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220312,
+      "user": {
+        "id": "ton618_bh",
+        "username": "ton618",
+        "display_name": "ton618",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 8,
+      "comment_id": "8",
+      "text": "[sticker]",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220312,
+      "user": {
+        "id": "gosth8.12",
+        "username": "ghost 🥷🏻",
+        "display_name": "ghost 🥷🏻",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 9,
+      "comment_id": "9",
+      "text": "que te cche",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220312,
+      "user": {
+        "id": "jupiter.saturno_25",
+        "username": "stiven",
+        "display_name": "stiven",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 10,
+      "comment_id": "10",
+      "text": "Mi Cuchisito me sorprende sabe cada cosa lo Amo",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "karident20",
+        "username": "LadyO'Connor",
+        "display_name": "LadyO'Connor",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 11,
+      "comment_id": "11",
+      "text": "todo es promesa así como prometió de pozos pozos no hay ni un pozo",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "aron19863",
+        "username": "Aron",
+        "display_name": "Aron",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 12,
+      "comment_id": "12",
+      "text": "Y el pollo estaba vivo o muerto?",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220312,
+      "user": {
+        "id": "jansmoraless892",
+        "username": "Jans Morales",
+        "display_name": "Jans Morales",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 13,
+      "comment_id": "13",
+      "text": "😂😂 lo mataste",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220312,
+      "user": {
+        "id": "bettyalvarez88",
+        "username": "Betty Alvarez",
+        "display_name": "Betty Alvarez",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 14,
+      "comment_id": "14",
+      "text": "preguntale ala abuelita de TARZAN sobre los pozos 😂😂😂.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220312,
+      "user": {
+        "id": "luisalbertoaricav",
+        "username": "luisalbertoaricav",
+        "display_name": "luisalbertoaricav",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 15,
+      "comment_id": "15",
+      "text": "hombre de poca fe, Señor Rafael va lograr hacer obras, espero q cuando lo haga solo agradezcas",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220312,
+      "user": {
+        "id": "evfiorellita",
+        "username": "EvFiore",
+        "display_name": "EvFiore",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 16,
+      "comment_id": "16",
+      "text": "Presi lo vi hoy en el aeropuerto 💕 nos tomamos fotitos! Muy amable usted con mi tía y mi esposo “anemia cero” 🤭",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "raysamilagros",
+        "username": "Raysa Milagros ✨",
+        "display_name": "Raysa Milagros ✨",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 17,
+      "comment_id": "17",
+      "text": "Gracias por el apoyo.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220312,
+      "user": {
+        "id": "rafael_lopez_aliaga",
+        "username": "Rafael López Aliaga",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 18,
+      "comment_id": "18",
+      "text": "https://vt.tiktok.com/ZSad3MKpa/",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220312,
+      "user": {
+        "id": "percyccahuana8",
+        "username": "percyccahuana8",
+        "display_name": "percyccahuana8",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 19,
+      "comment_id": "19",
+      "text": "Impulsaremos*",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220312,
+      "user": {
+        "id": "pocahontas_2430",
+        "username": "pocahontas_2430",
+        "display_name": "pocahontas_2430",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 20,
+      "comment_id": "20",
+      "text": "🤣🤣🤣",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220312,
+      "user": {
+        "id": "ton618_bh",
+        "username": "ton618",
+        "display_name": "ton618",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 21,
+      "comment_id": "21",
+      "text": "Con Absalon Vasquez es posible",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "nandoduenasmujica",
+        "username": "Nando Dueñas Mujica",
+        "display_name": "Nando Dueñas Mujica",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 22,
+      "comment_id": "22",
+      "text": "ahora recien ea del pueblo despues de descriminar asi son los politicos y sus chupamedias aplauden esta informacion no es nueva.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "juanmartinezasto",
+        "username": "Juan Martinez asto",
+        "display_name": "Juan Martinez asto",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 23,
+      "comment_id": "23",
+      "text": "No dijo ninguna mentira, trato de ignorantes a esas personas que votaron por castillo y me tira no es. Eso no es discriminación.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220312,
+      "user": {
+        "id": "bruccewayne8",
+        "username": "Bruce Wayne",
+        "display_name": "Bruce Wayne",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 24,
+      "comment_id": "24",
+      "text": "mano Porky no nació en cuna de oro busca su biografía el es de pueblo .",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220312,
+      "user": {
+        "id": "jkpablov",
+        "username": "K~Pablo",
+        "display_name": "K~Pablo",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 25,
+      "comment_id": "25",
+      "text": "ya resentido",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220312,
+      "user": {
+        "id": "yagamiyagami4",
+        "username": "🌽⚔️LIGHT YAGAMI⚔️🌽",
+        "display_name": "🌽⚔️LIGHT YAGAMI⚔️🌽",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 26,
+      "comment_id": "26",
+      "text": "adelantarse a los resultados y Decir la verdad sobre el dólar y el sol... era facil de comprender, Pero aun así la izquierda lo tomo mal xq no piensan igual que ellos",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220312,
+      "user": {
+        "id": "saludablegh01",
+        "username": "sgx01",
+        "display_name": "sgx01",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 27,
+      "comment_id": "27",
+      "text": "charlatán",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "percyccahuana8",
+        "username": "percyccahuana8",
+        "display_name": "percyccahuana8",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 28,
+      "comment_id": "28",
+      "text": "porki presidente 🥵",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220312,
+      "user": {
+        "id": "josee0109",
+        "username": "Jose Efraín",
+        "display_name": "Jose Efraín",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 29,
+      "comment_id": "29",
+      "text": "quieres el cuento del pollo o el tamborcito...??",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220312,
+      "user": {
+        "id": "el.micky883",
+        "username": "El micky",
+        "display_name": "El micky",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 30,
+      "comment_id": "30",
+      "text": "tú",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220312,
+      "user": {
+        "id": "rafaelpresidente0",
+        "username": "PERÚ",
+        "display_name": "PERÚ",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 31,
+      "comment_id": "31",
+      "text": "Ese es Castillo te estás confundiendo",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220312,
+      "user": {
+        "id": "angelmartinez2809",
+        "username": "Angel Martinez ✌🏻",
+        "display_name": "Angel Martinez ✌🏻",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 32,
+      "comment_id": "32",
+      "text": "Y el pollo?",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220312,
+      "user": {
+        "id": "jansmoraless892",
+        "username": "Jans Morales",
+        "display_name": "Jans Morales",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 33,
+      "comment_id": "33",
+      "text": "llora Opa llora",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220312,
+      "user": {
+        "id": "dannyyassermalpar",
+        "username": "Danny",
+        "display_name": "Danny",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 34,
+      "comment_id": "34",
+      "text": "un visionario,pueden odiarlo los caviares pero nunca compiten en ideas . por eso y mucho más Porky presidente",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "garcia123.54",
+        "username": "Teo guerrero 🪖",
+        "display_name": "Teo guerrero 🪖",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 35,
+      "comment_id": "35",
+      "text": "Tenemos las fijas para hacer crecer el Perú. 🇵🇪",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220312,
+      "user": {
+        "id": "rafael_lopez_aliaga",
+        "username": "Rafael López Aliaga",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 36,
+      "comment_id": "36",
+      "text": "Señor Rafael no te olvides de La Oroya por favor,esta abandonada hace muchos años,en algún momento fuimos la capital metalúrgica del PERÚ y Sudámerica.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220312,
+      "user": {
+        "id": "jonathan28810",
+        "username": "carloncho2810",
+        "display_name": "carloncho2810",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 37,
+      "comment_id": "37",
+      "text": "ya no sabe que decir",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "gloria.maria704",
+        "username": "@Gloria Maria",
+        "display_name": "@Gloria Maria",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 38,
+      "comment_id": "38",
+      "text": "llora pues🤣",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220312,
+      "user": {
+        "id": "david_huerta16_10_22",
+        "username": "Davidhuerta_16",
+        "display_name": "Davidhuerta_16",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 39,
+      "comment_id": "39",
+      "text": "Yo hasta ahora no sé si el pollo estaba vivo o muerto",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220312,
+      "user": {
+        "id": "jansmoraless892",
+        "username": "Jans Morales",
+        "display_name": "Jans Morales",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 40,
+      "comment_id": "40",
+      "text": "es un alimento nutritivo",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "margarita.vergara26",
+        "username": "Margarita Vergara",
+        "display_name": "Margarita Vergara",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 41,
+      "comment_id": "41",
+      "text": "Claro que sí, un super food 100% peruano.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220312,
+      "user": {
+        "id": "rafael_lopez_aliaga",
+        "username": "Rafael López Aliaga",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 42,
+      "comment_id": "42",
+      "text": "presidente presidente gracias gracias",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "lilianasnchez988",
+        "username": "lilianasan",
+        "display_name": "lilianasan",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 43,
+      "comment_id": "43",
+      "text": "Gracias a todos ustedes por unirse a nuestra gran ola renovadora.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220312,
+      "user": {
+        "id": "rafael_lopez_aliaga",
+        "username": "Rafael López Aliaga",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 44,
+      "comment_id": "44",
+      "text": "quiero ser yo y mis hijas personería como podemos hacer",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220312,
+      "user": {
+        "id": "lilianasnchez988",
+        "username": "lilianasan",
+        "display_name": "lilianasan",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 45,
+      "comment_id": "45",
+      "text": "PRESIDENTE y ALCALDE en funciones.. [sticker]",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220312,
+      "user": {
+        "id": "usert8n4vl806r",
+        "username": "usert8n4vl806r",
+        "display_name": "usert8n4vl806r",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 46,
+      "comment_id": "46",
+      "text": "[sticker]",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "enderson6.9",
+        "username": "Enderson:(",
+        "display_name": "Enderson:(",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 47,
+      "comment_id": "47",
+      "text": "[sticker]",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "bryan_glu",
+        "username": "Bryan",
+        "display_name": "Bryan",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 48,
+      "comment_id": "48",
+      "text": "Saludos mi presidente 😎👌",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "jason.jotacb",
+        "username": "Data Architect senior",
+        "display_name": "Data Architect senior",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 49,
+      "comment_id": "49",
+      "text": "Porky eres el mejor",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "chetez30",
+        "username": "chetez",
+        "display_name": "chetez",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 50,
+      "comment_id": "50",
+      "text": "será que Porky me sigue?",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "rr_c49",
+        "username": "I",
+        "display_name": "I",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 51,
+      "comment_id": "51",
+      "text": "Será q porky me sigue",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "contenido_peruano",
+        "username": "contenido peruano",
+        "display_name": "contenido peruano",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 52,
+      "comment_id": "52",
+      "text": "Porky estás en la cima",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "zahiryf_25",
+        "username": "Yaoiyi",
+        "display_name": "Yaoiyi",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 53,
+      "comment_id": "53",
+      "text": "MI PRESI SIEMPRE DELANTE 😁",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "soylo.o",
+        "username": "Liam",
+        "display_name": "Liam",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 54,
+      "comment_id": "54",
+      "text": "vamos con todo mi futuro presidente Dios te bendiga",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "angelica_cachuan",
+        "username": "angelicacachuan8",
+        "display_name": "angelicacachuan8",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 55,
+      "comment_id": "55",
+      "text": "Mi futuro presidente Rafael Lopez Aliaga 💯💯💯💯",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "liliamarceline",
+        "username": "Lilia Choque",
+        "display_name": "Lilia Choque",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 56,
+      "comment_id": "56",
+      "text": "soy realmente una seguidora tuya, tengo tanta admiración por tiii, mi querido Rafael, eres la esperanza que nesecitábamos",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "jhulyespinoza3",
+        "username": "JHULY ESPINOZA",
+        "display_name": "JHULY ESPINOZA",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 57,
+      "comment_id": "57",
+      "text": "Maestrooooo es mi plato favorito crema de tarwi con lomito saltado y arroz 😁😁😁",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "deyvisdaza",
+        "username": "Deyvisdaza",
+        "display_name": "Deyvisdaza",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 58,
+      "comment_id": "58",
+      "text": "Uff, hermano tienes que probar un cevichocho o una cremita de huancaina pero a base de chocho.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220312,
+      "user": {
+        "id": "rafael_lopez_aliaga",
+        "username": "Rafael López Aliaga",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 59,
+      "comment_id": "59",
+      "text": "😮😮😮😮 Jamas se me había ocurrido pero si usted lo recomienda maestro toca probar 😁😁😁",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220312,
+      "user": {
+        "id": "deyvisdaza",
+        "username": "Deyvisdaza",
+        "display_name": "Deyvisdaza",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 60,
+      "comment_id": "60",
+      "text": "Graciasss por esas propuestas en mi tierra bonita: Huaraz 🫶",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "_dolvz",
+        "username": "D 🧚‍♀️",
+        "display_name": "D 🧚‍♀️",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 61,
+      "comment_id": "61",
+      "text": "Pozo pozo pozo... al final no hay ni un pozo. Ni Lima es potencia mundial.... Todo es demagogia",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "anflopa16",
+        "username": "Ángel S. Flores Paniagua",
+        "display_name": "Ángel S. Flores Paniagua",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 62,
+      "comment_id": "62",
+      "text": "potencia brutal",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220312,
+      "user": {
+        "id": "elemperadordelrequinto",
+        "username": "@emperador del requinto",
+        "display_name": "@emperador del requinto",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 63,
+      "comment_id": "63",
+      "text": "Señor le envíto a un asentamiento y q le diga a los 500 pobladores q tienen pozos",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220312,
+      "user": {
+        "id": "reina.pilar.ochoa",
+        "username": "Reina Pilar Ochoa Rayme",
+        "display_name": "Reina Pilar Ochoa Rayme",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 64,
+      "comment_id": "64",
+      "text": "en la amazonía existen muchos super alimentos",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "btsjajajajaja",
+        "username": "BTS",
+        "display_name": "BTS",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 65,
+      "comment_id": "65",
+      "text": "Y pondremos en vitrina a todos los super foods de cada región del Perú. Pensemos siempre en grande.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220312,
+      "user": {
+        "id": "rafael_lopez_aliaga",
+        "username": "Rafael López Aliaga",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 66,
+      "comment_id": "66",
+      "text": "hoy brasil es una potencia en bio negocios y porque no Perú si tenemos todo sólo falta darle valor agregado y quizá ser como Costa Rica",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220312,
+      "user": {
+        "id": "btsjajajajaja",
+        "username": "BTS",
+        "display_name": "BTS",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 67,
+      "comment_id": "67",
+      "text": "Saludame tío porky",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "jeffcalzada25",
+        "username": "Yeff 👑🦊",
+        "display_name": "Yeff 👑🦊",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 68,
+      "comment_id": "68",
+      "text": "Saludos, hermano.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220312,
+      "user": {
+        "id": "rafael_lopez_aliaga",
+        "username": "Rafael López Aliaga",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 69,
+      "comment_id": "69",
+      "text": "un alimento muy nutritivo solo para los que sabemos comer calidad",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "charito.asc",
+        "username": "Roxi",
+        "display_name": "Roxi",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 70,
+      "comment_id": "70",
+      "text": "Un super alimento que debemos consumir más. Lo pondremos en vitrina para el mundo.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220312,
+      "user": {
+        "id": "rafael_lopez_aliaga",
+        "username": "Rafael López Aliaga",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 71,
+      "comment_id": "71",
+      "text": "exacto los que crecimos comiendo el tarwi un súper alimento sólo para conocedores de nutrición saludable",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220312,
+      "user": {
+        "id": "charito.asc",
+        "username": "Roxi",
+        "display_name": "Roxi",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 72,
+      "comment_id": "72",
+      "text": "LOPEZ ALIAGA ES EL UNICO CAPAZ DE SACAR ADELANTE AL PERU",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "lucho.sanchez.aco",
+        "username": "Lucho Sanchez Acosta",
+        "display_name": "Lucho Sanchez Acosta",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 73,
+      "comment_id": "73",
+      "text": "Hola salúdame soy tu fan 🥰🥰🥰",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "maferkawaisitaonichan",
+        "username": "Wafer ᥫ᭡",
+        "display_name": "Wafer ᥫ᭡",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 74,
+      "comment_id": "74",
+      "text": "Saludos, Wafer.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220312,
+      "user": {
+        "id": "rafael_lopez_aliaga",
+        "username": "Rafael López Aliaga",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 75,
+      "comment_id": "75",
+      "text": "😁🥰",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220312,
+      "user": {
+        "id": "maferkawaisitaonichan",
+        "username": "Wafer ᥫ᭡",
+        "display_name": "Wafer ᥫ᭡",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 76,
+      "comment_id": "76",
+      "text": "presisara q te salude",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220312,
+      "user": {
+        "id": "isabel.collantes4",
+        "username": "Isabel Collantes",
+        "display_name": "Isabel Collantes",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 77,
+      "comment_id": "77",
+      "text": "será que mi futuro presidente humilde y que deja bien me sigue 😔",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "jaackcelr",
+        "username": "Ꭻᴀᴄᴋ ",
+        "display_name": "Ꭻᴀᴄᴋ ",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 78,
+      "comment_id": "78",
+      "text": "Revisa, hermano.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220312,
+      "user": {
+        "id": "rafael_lopez_aliaga",
+        "username": "Rafael López Aliaga",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 79,
+      "comment_id": "79",
+      "text": "porki estas en la cima 💪",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "y___andrade",
+        "username": "Y_Andrade",
+        "display_name": "Y_Andrade",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 80,
+      "comment_id": "80",
+      "text": "Del sillón presidencial",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220312,
+      "user": {
+        "id": "heyxjaao",
+        "username": "🗺️🇵🇪| PE🍀peru_maps",
+        "display_name": "🗺️🇵🇪| PE🍀peru_maps",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 81,
+      "comment_id": "81",
+      "text": "Sera que el futuro presi me siga👀‼️🇵🇪",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "rg4_michael",
+        "username": "michaɛl",
+        "display_name": "michaɛl",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 82,
+      "comment_id": "82",
+      "text": "será q el mejor alcalde de todo el Perú sigue??",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "alexander10piero",
+        "username": "Alex",
+        "display_name": "Alex",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 83,
+      "comment_id": "83",
+      "text": "estas en la cima",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "_joxp_7",
+        "username": "...",
+        "display_name": "...",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 84,
+      "comment_id": "84",
+      "text": "Excelente Rafael presidente Obras no palabras 😎",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "juan.carlos.muoz030",
+        "username": "Juan Carlos",
+        "display_name": "Juan Carlos",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 85,
+      "comment_id": "85",
+      "text": "Más obras siempre.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220312,
+      "user": {
+        "id": "rafael_lopez_aliaga",
+        "username": "Rafael López Aliaga",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 86,
+      "comment_id": "86",
+      "text": "Rafael eres la única Persona que se la está jugando por nuestro Perú hermanos peruanos vamos apoyarlo con mucha fe 🩵🇵🇪🩵 Marca Así",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "louisecardenas2020",
+        "username": "Louise",
+        "display_name": "Louise",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 87,
+      "comment_id": "87",
+      "text": "será que me saluda el próximo presi",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "salo_z.b",
+        "username": "Salo:)",
+        "display_name": "Salo:)",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 88,
+      "comment_id": "88",
+      "text": "Yo recuerdo que lo comí en Huaraz",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "amordulzura_",
+        "username": "Erika💋",
+        "display_name": "Erika💋",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 89,
+      "comment_id": "89",
+      "text": "será k porky me sigue?",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "_11116199_",
+        "username": "사랑해요 카오리",
+        "display_name": "사랑해요 카오리",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 90,
+      "comment_id": "90",
+      "text": "si si si, como noo!",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220312,
+      "user": {
+        "id": "perou118",
+        "username": "Pérou",
+        "display_name": "Pérou",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 91,
+      "comment_id": "91",
+      "text": "vale soñar JASJAJ",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220312,
+      "user": {
+        "id": "_11116199_",
+        "username": "사랑해요 카오리",
+        "display_name": "사랑해요 카오리",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 92,
+      "comment_id": "92",
+      "text": "Vamos chancho en primera vuelta..😂😂 tienes mi voto..😅",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "user6113329618006",
+        "username": "user6113329618006",
+        "display_name": "user6113329618006",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 93,
+      "comment_id": "93",
+      "text": "porky me sigues?",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "j.ochoa.x",
+        "username": "J⚽️🔱",
+        "display_name": "J⚽️🔱",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 94,
+      "comment_id": "94",
+      "text": "será que porky me sigue capaz y convenzo a mi familia 👀",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "adr1x_15",
+        "username": "adrian_D",
+        "display_name": "adrian_D",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 95,
+      "comment_id": "95",
+      "text": "es delicioso con su tomate limon",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "klaussmelgarejobe",
+        "username": "Klauss Oswaldo",
+        "display_name": "Klauss Oswaldo",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 96,
+      "comment_id": "96",
+      "text": "Ufff, riquísimo.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220312,
+      "user": {
+        "id": "rafael_lopez_aliaga",
+        "username": "Rafael López Aliaga",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 97,
+      "comment_id": "97",
+      "text": "si la helada o la seguia no deja producir que va a hacer por el tarwi",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "zosirequez121",
+        "username": "zosi121",
+        "display_name": "zosi121",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 98,
+      "comment_id": "98",
+      "text": "🇵🇪🩵 QUE GRAN VISIÓN. SI RAFAEL LOPEZ ALIAGA GANA LA PRESIDENCIA HABRA TRABAJO Y OPORTUNIDADES PARA TODO EL PERÚ",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "chinito.peru",
+        "username": "Chinito Perú",
+        "display_name": "Chinito Perú",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 99,
+      "comment_id": "99",
+      "text": "Por tus obras te conoceré dice Dios! Ahí está Rafael López Aliaga en Primera vuelta 🩵🇵🇪🩵",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "louisecardenas2020",
+        "username": "Louise",
+        "display_name": "Louise",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 100,
+      "comment_id": "100",
+      "text": "como es posible que sepa tanto?",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "sinmuchoslimites2030",
+        "username": "Vere 102030",
+        "display_name": "Vere 102030",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 101,
+      "comment_id": "101",
+      "text": "vamos Rafael asta la presidencia en primera vuelta mi familia ya está muy convencida por ahí dirán muchos troll",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "rubencitolino",
+        "username": "lobito",
+        "display_name": "lobito",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 102,
+      "comment_id": "102",
+      "text": "estas elecciones rafael López R presidente 2026 tod9s debemos votar hablar con sus vecinos amigos familias es una obligación moral por el bien del Perú no dejen q la izquierda les mienta les haga odiar.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "abelgallardo17",
+        "username": "Abel Gallardo",
+        "display_name": "Abel Gallardo",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 103,
+      "comment_id": "103",
+      "text": "saludos Rafael",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "dondiestra_23",
+        "username": "Dominic Diestra",
+        "display_name": "Dominic Diestra",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 104,
+      "comment_id": "104",
+      "text": "Saludos, hermano.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220312,
+      "user": {
+        "id": "rafael_lopez_aliaga",
+        "username": "Rafael López Aliaga",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 105,
+      "comment_id": "105",
+      "text": "si ba a se un gran canbio al pais",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "dani.torres190",
+        "username": "Dani yucra",
+        "display_name": "Dani yucra",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 106,
+      "comment_id": "106",
+      "text": "eso es gente que conoce, que sabe.un gran VISIONARIO",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "2204chavez",
+        "username": "Mili🦋",
+        "display_name": "Mili🦋",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 107,
+      "comment_id": "107",
+      "text": "En el único departamento con 3 regiones 👏",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "manyros",
+        "username": "ManyRos",
+        "display_name": "ManyRos",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 108,
+      "comment_id": "108",
+      "text": "tienes mi voto señor López Aliaga 👍",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "vaguito29220",
+        "username": "😎 ISMAEL PAPU😸",
+        "display_name": "😎 ISMAEL PAPU😸",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 109,
+      "comment_id": "109",
+      "text": "excelente Rafael el único candidato preparado para gobernar",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "maxtorres5607",
+        "username": "maxtorres5607",
+        "display_name": "maxtorres5607",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 110,
+      "comment_id": "110",
+      "text": "obvio q votaré por ti porki. Deseo y espero q seas el presidente q nuestro amado país necesita.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "akire518",
+        "username": "Erika",
+        "display_name": "Erika",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 111,
+      "comment_id": "111",
+      "text": "cada región tiene su potencialidades excelente, Rafael López Aliaga presidente del Perú 2026",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "anacoras0",
+        "username": "ana coras",
+        "display_name": "ana coras",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 112,
+      "comment_id": "112",
+      "text": "me alegra saber que hay esperanza para la agricultura a nivel nacional.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "ely18111",
+        "username": "ely18111",
+        "display_name": "ely18111",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 113,
+      "comment_id": "113",
+      "text": "Siempre hablaba ???🤣🤣🤣🤣, queremos un gobernante qué le cuenten? o que conozca la realidad del país",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "chrissgersinio",
+        "username": "Chriss Ger",
+        "display_name": "Chriss Ger",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 114,
+      "comment_id": "114",
+      "text": "será q porky me sigue",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "paulo.cssv",
+        "username": "paulo.cssv",
+        "display_name": "paulo.cssv",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 115,
+      "comment_id": "115",
+      "text": "Siempre con buenas propuestas, ojalá que no nos defraudes Rafael!!!",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "kentelperu",
+        "username": "kentelperu",
+        "display_name": "kentelperu",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 116,
+      "comment_id": "116",
+      "text": "que lo crean los inocentes",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "oscarpv8",
+        "username": "Oscar PV",
+        "display_name": "Oscar PV",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 117,
+      "comment_id": "117",
+      "text": "Bien sr Aliaga💪💪💪💙💙",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "santy.thaiss",
+        "username": "santy thaiss",
+        "display_name": "santy thaiss",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 118,
+      "comment_id": "118",
+      "text": "Será que porky me sigue? (Perú es clave) 🔥🔥🔥",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "spyderaleoficial2",
+        "username": "spyderaleoficial2",
+        "display_name": "spyderaleoficial2",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 119,
+      "comment_id": "119",
+      "text": "el tarwi es un producto de alta demanda en otros países, que puede suplantar muchos productos, por el alto contenido de Omega 3 y demás bondades, debería difundirse más su siembra y hacerse pruebas en la zona sur del Perú.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "mijab28",
+        "username": "Mijahel Cárdenas",
+        "display_name": "Mijahel Cárdenas",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 120,
+      "comment_id": "120",
+      "text": "Porkyyyyy corazón",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "mariarosavergararobles",
+        "username": "Maria Rosa Vergara R",
+        "display_name": "Maria Rosa Vergara R",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 121,
+      "comment_id": "121",
+      "text": "Un visionario, sería un éxito tenerte de presidente. Siempre apoyándote🇵🇪🩵",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "heyxjaao",
+        "username": "🗺️🇵🇪| PE🍀peru_maps",
+        "display_name": "🗺️🇵🇪| PE🍀peru_maps",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 122,
+      "comment_id": "122",
+      "text": "Yo ni conocía que era eso solo consumo quinua y Maca..eso se puede vender en los gimnasios y centros de alto entrenamiento deportivo",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "juanflores5305",
+        "username": "Juan Flores",
+        "display_name": "Juan Flores",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 123,
+      "comment_id": "123",
+      "text": "Saludos desde Japón tiene mi voto futuro presidente del Perú el tarwi es proteína muy buena para la alimentación 🙏",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "irumasilviaelena",
+        "username": "🇯🇵Irma Silvia Elena🇵🇪",
+        "display_name": "🇯🇵Irma Silvia Elena🇵🇪",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 124,
+      "comment_id": "124",
+      "text": "Porky es Vida...",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "terreto.q",
+        "username": "terreto q",
+        "display_name": "terreto q",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 125,
+      "comment_id": "125",
+      "text": "Se nota a lejos que Rafael sabe!! Siempre con buenas propuestas!!!",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "kentelperu",
+        "username": "kentelperu",
+        "display_name": "kentelperu",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 126,
+      "comment_id": "126",
+      "text": "no has más.... Rafael López Aliaga en primera vuelta...desde Cusco",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "roberto.alarcon.z",
+        "username": "Roger Alarcón  Rivera",
+        "display_name": "Roger Alarcón  Rivera",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 127,
+      "comment_id": "127",
+      "text": "y Mi familia y Yo. votaremos por tí sr. Rafael López Aliaga",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "podopielife",
+        "username": "Doctor Uñitas",
+        "display_name": "Doctor Uñitas",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 128,
+      "comment_id": "128",
+      "text": "Jajaja ya ganaste con eso jajaja",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "daguito.fernndezd",
+        "username": "Daguito",
+        "display_name": "Daguito",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 129,
+      "comment_id": "129",
+      "text": "porky cuando traes el algoritmo nordico?? 😔",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "user5678865678765",
+        "username": "user557778854678886788656",
+        "display_name": "user557778854678886788656",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 130,
+      "comment_id": "130",
+      "text": "Rafael López aliaga, presidente",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "carlosescobarore134",
+        "username": "carlosescobarore134",
+        "display_name": "carlosescobarore134",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 131,
+      "comment_id": "131",
+      "text": "a los 14 le obligó, de ahi jamas lo promocionó, sabe Dios si consumió.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "raulantaya",
+        "username": "A. Raul Antaya. R.",
+        "display_name": "A. Raul Antaya. R.",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 132,
+      "comment_id": "132",
+      "text": "en Puno en mi pueblo también da solo que no sembramos mucho como para vender no hay costumbre pienso que necesita poco cuidado el tarwi.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "cali21_dior",
+        "username": "cali21_dior",
+        "display_name": "cali21_dior",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 133,
+      "comment_id": "133",
+      "text": "Mi Presidente 🙏",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "lunalou71beu",
+        "username": "LUNA LOU🇵🇪🇪🇸🇨🇦🇵🇦",
+        "display_name": "LUNA LOU🇵🇪🇪🇸🇨🇦🇵🇦",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 134,
+      "comment_id": "134",
+      "text": "vamos querido porky ..tienes mi voto",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "giancarlojosehurtadoben0",
+        "username": "Giancarlo Jose Hurta",
+        "display_name": "Giancarlo Jose Hurta",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 135,
+      "comment_id": "135",
+      "text": "hermoso nuestro presidente 💙💙🥰🥰❤️❤️",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "ladymll",
+        "username": "Luz a.d",
+        "display_name": "Luz a.d",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 136,
+      "comment_id": "136",
+      "text": "vamos mi presidente",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "james86901",
+        "username": "James Ramos Paima",
+        "display_name": "James Ramos Paima",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 137,
+      "comment_id": "137",
+      "text": "jajajajajajaaa",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "tayta715",
+        "username": "Sinvergüenza7",
+        "display_name": "Sinvergüenza7",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 138,
+      "comment_id": "138",
+      "text": "ya tenemos presidente son las señales [sticker]",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "la.cucaracha600",
+        "username": "la cucaracha",
+        "display_name": "la cucaracha",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 139,
+      "comment_id": "139",
+      "text": "lo van a querer bajar .pero lo permitiremos porky presidente",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "ivantomas07",
+        "username": "Ivan Tomas",
+        "display_name": "Ivan Tomas",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 140,
+      "comment_id": "140",
+      "text": "ya ps porki no hagues llorar, recordar la pobreza, nací de una cuna humilde,pero me hice hombre de bien saque Ami familia adelante.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "edgar.snchez4580",
+        "username": "Edgar Sánchez",
+        "display_name": "Edgar Sánchez",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 141,
+      "comment_id": "141",
+      "text": "hoy estuvo en el long tennis 😉😄",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "miri2479",
+        "username": "miri",
+        "display_name": "miri",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 142,
+      "comment_id": "142",
+      "text": "excelente candidato con buenas propuesta 😎😎😎😎😎",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "samuel97322",
+        "username": "samuel97322",
+        "display_name": "samuel97322",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 143,
+      "comment_id": "143",
+      "text": "RAN VISIONARIO MI TIO PORKY💪💪💪",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "gianfrancojuniorc3",
+        "username": "G",
+        "display_name": "G",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 144,
+      "comment_id": "144",
+      "text": "totalmente cierto. la gente que sabe alimentarse. hay muchos productos. y no cuestan mucho",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "maras2134",
+        "username": "Maras",
+        "display_name": "Maras",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 145,
+      "comment_id": "145",
+      "text": "promoción de César Acuña",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "comandoflores",
+        "username": "Comando Flores",
+        "display_name": "Comando Flores",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 146,
+      "comment_id": "146",
+      "text": "Esa es la clave para la lucha contra la anemia",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "edward.yabar.guti",
+        "username": "Edward Yabar Gutierrez",
+        "display_name": "Edward Yabar Gutierrez",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 147,
+      "comment_id": "147",
+      "text": "tarwi súper bueno 👍",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "soniacch7",
+        "username": "user788843486075",
+        "display_name": "user788843486075",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 148,
+      "comment_id": "148",
+      "text": "porky siempre adelante!! 🗣️🔥🔥",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "alvarogoemz911",
+        "username": "alvaro",
+        "display_name": "alvaro",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 149,
+      "comment_id": "149",
+      "text": "Otra level porki ,pocos no te entienden el 90 % del peru te apoyamos 💪💪💪🇵🇪",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "johnnybazan2023",
+        "username": "Johnny Bazan",
+        "display_name": "Johnny Bazan",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 150,
+      "comment_id": "150",
+      "text": "un ingeniero informado con visión que aprendan los demás candidatos e incluyan en su discurso",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "carlos_blas_a",
+        "username": "carlos_b_a",
+        "display_name": "carlos_b_a",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 151,
+      "comment_id": "151",
+      "text": "será que este crack me sigue ?",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "erx_pierx_306",
+        "username": "giampiere escalante",
+        "display_name": "giampiere escalante",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 152,
+      "comment_id": "152",
+      "text": "Es muy cierto es un gran alimento",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "generala509",
+        "username": "Generala",
+        "display_name": "Generala",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 153,
+      "comment_id": "153",
+      "text": "Por un PERÚ cn progreso en todas las Regiones sin corrupción confiamos en UD .Sr. López Aliaga 💪🇵🇪",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "user704230019868733",
+        "username": "user704230019868733",
+        "display_name": "user704230019868733",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 154,
+      "comment_id": "154",
+      "text": "será q porki me sigue 😔",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "theexx_.q",
+        "username": ".",
+        "display_name": ".",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 155,
+      "comment_id": "155",
+      "text": "vaya oe",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "cashhh4852",
+        "username": "CASHHH",
+        "display_name": "CASHHH",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 156,
+      "comment_id": "156",
+      "text": "A mi me gusta es un alimento muy bueno",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "marthiya122",
+        "username": "Marthiya122",
+        "display_name": "Marthiya122",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 157,
+      "comment_id": "157",
+      "text": "Será que porky me sigue ?",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "alessandroescobed3",
+        "username": "Alessandro",
+        "display_name": "Alessandro",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 158,
+      "comment_id": "158",
+      "text": "Será que porky me siga?🗣️",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "junior66966",
+        "username": "junior",
+        "display_name": "junior",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 159,
+      "comment_id": "159",
+      "text": "castillo 2.0😂",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "pischerordoez",
+        "username": "Pichitoaventuras",
+        "display_name": "Pichitoaventuras",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 160,
+      "comment_id": "160",
+      "text": "potencia mundial jajajaja",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "adonyfueroespinoza",
+        "username": "Adony Fuero Espinoza",
+        "display_name": "Adony Fuero Espinoza",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 161,
+      "comment_id": "161",
+      "text": "asta orita estoy esperando lima que sea potencia mundial Keiko",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "javichotlv1",
+        "username": "😈😈",
+        "display_name": "😈😈",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 162,
+      "comment_id": "162",
+      "text": ":DE DONDE SALE LOS MILLONES PARA HACER CAMPAÑA , ALLI DEBE DARSE CUENTA ESO SE OAGA CON LEYES XOMO HACE CHONGRESO ADEMAS TIENE MAS CHONGRESISST Q OTROS PARTIDOS",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "userggf19220407jjycuus4",
+        "username": "us65420gttqqq8765₲€€",
+        "display_name": "us65420gttqqq8765₲€€",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 163,
+      "comment_id": "163",
+      "text": "Rafael López Aliaga presidente, es la mejor opción!",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "chiclayo51",
+        "username": "Lucky",
+        "display_name": "Lucky",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 164,
+      "comment_id": "164",
+      "text": "💙💙💙bendiciones para ti 🙏🏻🙏🏻🙏🏻 querido Porky, digan lo que digan los que no permitimos que nos manipulen estamos contigo, presidente 2026👍🏻 🙏🏻💫👍🏻",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "chioinfotech",
+        "username": "ChioInfotech",
+        "display_name": "ChioInfotech",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 165,
+      "comment_id": "165",
+      "text": "Excelente Rafael López Aliaga Junín te apoya",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "peter87370",
+        "username": "Peter8",
+        "display_name": "Peter8",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 166,
+      "comment_id": "166",
+      "text": "vamos Porky!!!! en primera vuelta!!!",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "carlito2707",
+        "username": "Carlos Alberto Ríos",
+        "display_name": "Carlos Alberto Ríos",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 167,
+      "comment_id": "167",
+      "text": "S I M P L E M E N T E",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "chimaycheromontoy",
+        "username": "Montoya producciones 📱🎻",
+        "display_name": "Montoya producciones 📱🎻",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 168,
+      "comment_id": "168",
+      "text": "PORKY ES PURO AMOR🥰🥰🥰",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "took.tiik88",
+        "username": "Took Tiik",
+        "display_name": "Took Tiik",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 169,
+      "comment_id": "169",
+      "text": "asi es porky presidente",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "mariavaswuezzucjf",
+        "username": "mariavasqurz",
+        "display_name": "mariavasqurz",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 170,
+      "comment_id": "170",
+      "text": "Populismo barato del bajo mundo #Limapotenciabrutal",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "danielgonzales2963",
+        "username": "danielgonzales2963",
+        "display_name": "danielgonzales2963",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 171,
+      "comment_id": "171",
+      "text": "ESTE CHANCHO NO PASA NADA.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "pedro.matta100",
+        "username": "Pedro Matta100",
+        "display_name": "Pedro Matta100",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 172,
+      "comment_id": "172",
+      "text": "👏👏👏👏👏👏👏👏",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "gian21tuanama",
+        "username": "Rodríguez",
+        "display_name": "Rodríguez",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 173,
+      "comment_id": "173",
+      "text": "👏👏👏👏",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "joseeluis2.0",
+        "username": "Inocencio",
+        "display_name": "Inocencio",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 174,
+      "comment_id": "174",
+      "text": "💙💙💙🇵🇪👍",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "vivianavelasquez737",
+        "username": "Viviana Velasquez Rios",
+        "display_name": "Viviana Velasquez Rios",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 175,
+      "comment_id": "175",
+      "text": "😂😂😂😂",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "whuahuasoncco1404",
+        "username": "Whuahuasoncco",
+        "display_name": "Whuahuasoncco",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 176,
+      "comment_id": "176",
+      "text": "💙💙💙",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "angelbc29",
+        "username": "Miguel Angel",
+        "display_name": "Miguel Angel",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 177,
+      "comment_id": "177",
+      "text": "🗿🗿🗿",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "rla_clips",
+        "username": "RLA CLIPS",
+        "display_name": "RLA CLIPS",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 178,
+      "comment_id": "178",
+      "text": "💙💙💙",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "rla_clips",
+        "username": "RLA CLIPS",
+        "display_name": "RLA CLIPS",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 179,
+      "comment_id": "179",
+      "text": "👏👏👏",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "denistpac",
+        "username": "denistpac1234",
+        "display_name": "denistpac1234",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 180,
+      "comment_id": "180",
+      "text": "👌👌👌👌",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "cheito3002",
+        "username": "cheito",
+        "display_name": "cheito",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 181,
+      "comment_id": "181",
+      "text": "👏👏👏",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "officedatasrlperu",
+        "username": "office data SRL Perú",
+        "display_name": "office data SRL Perú",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 182,
+      "comment_id": "182",
+      "text": "😎😎😎",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "dioses.y.titanes",
+        "username": "Dioses y titanes 😈",
+        "display_name": "Dioses y titanes 😈",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 183,
+      "comment_id": "183",
+      "text": "😁😁😁",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "paul.laguna3",
+        "username": "paul laguna",
+        "display_name": "paul laguna",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 184,
+      "comment_id": "184",
+      "text": "😏😏",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "k.kuchaev",
+        "username": "Паляўнічыя за прывідамі",
+        "display_name": "Паляўнічыя за прывідамі",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 185,
+      "comment_id": "185",
+      "text": "❤❤❤",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "peru.tndes",
+        "username": "Peru Tndes",
+        "display_name": "Peru Tndes",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 186,
+      "comment_id": "186",
+      "text": "😂😂😂😂😂😂😂",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "jimnew1",
+        "username": "Jhandrey",
+        "display_name": "Jhandrey",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 187,
+      "comment_id": "187",
+      "text": "💙💙💙",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "mishell.barja",
+        "username": "Mishell 💖",
+        "display_name": "Mishell 💖",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 188,
+      "comment_id": "188",
+      "text": "❤❤❤",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "culquitoflower",
+        "username": "Maclaso cf",
+        "display_name": "Maclaso cf",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 189,
+      "comment_id": "189",
+      "text": "💪",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "rulo.sasa",
+        "username": "rulo.sasa",
+        "display_name": "rulo.sasa",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 190,
+      "comment_id": "190",
+      "text": "🥰🥰🥰",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "tony_infinito",
+        "username": "sierra mike",
+        "display_name": "sierra mike",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 191,
+      "comment_id": "191",
+      "text": "@Rolo Ch @Elodia",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "jhon28diaz",
+        "username": "👷🏽‍♂️Jhonatan 💣3,2,1,0..💥",
+        "display_name": "👷🏽‍♂️Jhonatan 💣3,2,1,0..💥",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 192,
+      "comment_id": "192",
+      "text": "😁😁😁",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "rafaelpresidente1",
+        "username": "TEAM🩵PORKY",
+        "display_name": "TEAM🩵PORKY",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 193,
+      "comment_id": "193",
+      "text": "La voz de @Anita Fajardo",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "jem1087",
+        "username": "Jem De La Cruz",
+        "display_name": "Jem De La Cruz",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 194,
+      "comment_id": "194",
+      "text": "☺️☺️☺️",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "rous.mucha",
+        "username": "Rous Mucha",
+        "display_name": "Rous Mucha",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 195,
+      "comment_id": "195",
+      "text": "👏👏👏👏💙💙💙💙",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "fnix25905",
+        "username": "Fénix",
+        "display_name": "Fénix",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 196,
+      "comment_id": "196",
+      "text": "👏👏👏👏💯💯💯💯",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "dasuba16",
+        "username": "Killa",
+        "display_name": "Killa",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 197,
+      "comment_id": "197",
+      "text": "🤣🤣🤣",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "rolandotv1",
+        "username": "Rolandotv",
+        "display_name": "Rolandotv",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 198,
+      "comment_id": "198",
+      "text": "🥰🥰🥰",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "alfredo.mximo4",
+        "username": "MAXIMUS",
+        "display_name": "MAXIMUS",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 199,
+      "comment_id": "199",
+      "text": "👏🏻👏🏻👏🏻👏🏻",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "crissweetdreamerxd",
+        "username": "꒰⑅ᵕ༚ᵕ꒱˖♡Cristty♡˖꒰ᵕ༚ᵕ⑅꒱",
+        "display_name": "꒰⑅ᵕ༚ᵕ꒱˖♡Cristty♡˖꒰ᵕ༚ᵕ⑅꒱",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 200,
+      "comment_id": "200",
+      "text": "La japonesa debe ser presidente en Santa Mónica, Porky presidente en Larco Herrera",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "xempazuchil",
+        "username": "Xempazuchil",
+        "display_name": "Xempazuchil",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 201,
+      "comment_id": "201",
+      "text": "Con la ayuda de Dios, el 2026 Rafael Lopez Aliaga, sera Presidente en primera vuelta. No perdamos esta gran oportunidad.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "c.ramos.gonza",
+        "username": "C Ramos Gonza",
+        "display_name": "C Ramos Gonza",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 202,
+      "comment_id": "202",
+      "text": "mi madrecita que en paz descanse preparaba un rico picante de chocho muy delicioso, nutritivo y rápido de hacer, lo acompañabamos con papa sancochada uff que rico. Como te extraño mamita, gracias por haberme engreído con tus comidas 🥺😢",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "crislandor",
+        "username": "Crislandor",
+        "display_name": "Crislandor",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 203,
+      "comment_id": "203",
+      "text": "buena visión el chocho, kinua y el achis són productos altamente nutritivos 👏✌️Rafael presente y Absalón Vasquez todo se podrá en la agricultura 🚜🚜💪💪👏✌️🇵🇪❤️‍🩹🇵🇪💙💙💙💙",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "terezalopez35",
+        "username": "teresa L",
+        "display_name": "teresa L",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 204,
+      "comment_id": "204",
+      "text": "Rafael López Aliaga presidente en primera vuelta",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "maritzaparedes35",
+        "username": "Maritza Paredes",
+        "display_name": "Maritza Paredes",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 205,
+      "comment_id": "205",
+      "text": "a cuidar los votos Rafael López Aliaga Presidente 💯",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "charlielgato",
+        "username": "nelsonenriquecd",
+        "display_name": "nelsonenriquecd",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 206,
+      "comment_id": "206",
+      "text": "💙💙🇵🇪RAFAEL LOPPEZ ALIAGA PRESIDENTE EN PRIMERA VUELTA, PARA EL CONGRESO RENOVACION POPULAR🇵🇪💙",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "luisfhm4",
+        "username": "felipe",
+        "display_name": "felipe",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 207,
+      "comment_id": "207",
+      "text": "ING Rafael López Aliaga presidente del Perú en Primera vuelta",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "josesabinodurandl",
+        "username": "Jose sabino Durand l",
+        "display_name": "Jose sabino Durand l",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 208,
+      "comment_id": "208",
+      "text": "ahorita el kg de chocho está 10 soles.. aquí en casa lo comemos licuado en guisito muy rico . crecí de niña y ahora les doy. mi hijo.. un gran alimento..",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "dlaila645",
+        "username": "dlaila",
+        "display_name": "dlaila",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 209,
+      "comment_id": "209",
+      "text": "despegue, al Futuro con Porcky en Prima",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "luisalbertoaricav",
+        "username": "luisalbertoaricav",
+        "display_name": "luisalbertoaricav",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 210,
+      "comment_id": "210",
+      "text": "un pure de chocho es buenazao comp la gente de huaraz sabe",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "user108187056528",
+        "username": "nani",
+        "display_name": "nani",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 211,
+      "comment_id": "211",
+      "text": "POR UN PERÚ MEJOR RAFAEL LÓPEZ ALIAGA PRESIDENTE",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "carlitosrobles1960",
+        "username": "Carlitosrobles1960",
+        "display_name": "Carlitosrobles1960",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 212,
+      "comment_id": "212",
+      "text": "Rafael Lopez Aliaga Presidente en primera vuelta en 2026",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "welaerop",
+        "username": "Welae Rop",
+        "display_name": "Welae Rop",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 213,
+      "comment_id": "213",
+      "text": "Rafael López Aliaga Cazorla Porki presidente en primera vuelta por un Perú meritocratico ❤",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "ruben.meza.chutas",
+        "username": "Ruben Meza Chutas",
+        "display_name": "Ruben Meza Chutas",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 214,
+      "comment_id": "214",
+      "text": "Rafael presidente 2026 .. Peter alcalde SMP .. renovación popular",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "edith.valverde89",
+        "username": "Edith Valverde",
+        "display_name": "Edith Valverde",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 215,
+      "comment_id": "215",
+      "text": "El chocho es delicioso!!! En guiso es riquísimo ❤️",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "milagrosmb92",
+        "username": "Milagros",
+        "display_name": "Milagros",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 216,
+      "comment_id": "216",
+      "text": "el chocho = tarwi",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "tucholitofuifui",
+        "username": "Lucho LG",
+        "display_name": "Lucho LG",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 217,
+      "comment_id": "217",
+      "text": "tiene mi voto Lord Porky 🩵🐽",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "troxi9993",
+        "username": "troxi999",
+        "display_name": "troxi999",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 218,
+      "comment_id": "218",
+      "text": "Vas con todo 🔥🔥🔥🔥",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "taquitodesal124",
+        "username": "pamela",
+        "display_name": "pamela",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 219,
+      "comment_id": "219",
+      "text": "Quien dijo chochox [sticker]",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "speedwaifuxe",
+        "username": "Aron",
+        "display_name": "Aron",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 220,
+      "comment_id": "220",
+      "text": "el chocho es riquísimo, que rico con queso y papas",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "carlos.pajares.to4",
+        "username": "Carlos Pajares Torres",
+        "display_name": "Carlos Pajares Torres",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 221,
+      "comment_id": "221",
+      "text": "yo me compro mi chocho , buenazo. la primera vez que lo probé estaba con una bajadaza , estaba en la playa, y pasa mi tío chocho decía, aver tío le digo dame, buenazo",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "chamofi_",
+        "username": "😎chamofi😎",
+        "display_name": "😎chamofi😎",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 222,
+      "comment_id": "222",
+      "text": "ceviche de choco que ricoo!!! soy de ancash👌porky es clave 🐷 🩵",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "adolfocordova14",
+        "username": "adolfocordova",
+        "display_name": "adolfocordova",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 223,
+      "comment_id": "223",
+      "text": "chucho",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "llevando_sonrisas07",
+        "username": "flecha❤️🗝️",
+        "display_name": "flecha❤️🗝️",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 224,
+      "comment_id": "224",
+      "text": "mi profe de gym recomendaba el chocho por la proteína, pero en Lima es difícil de conseguir",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "jieun.16",
+        "username": "Rosario 728",
+        "display_name": "Rosario 728",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 225,
+      "comment_id": "225",
+      "text": "RAFAEL LOPEZ ALIAGA 2026 EN PRIMERA VUELTA",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "carita0614",
+        "username": "carita",
+        "display_name": "carita",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 226,
+      "comment_id": "226",
+      "text": "cer",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "chelo_mqz",
+        "username": "chelo🧜🏽‍♂️",
+        "display_name": "chelo🧜🏽‍♂️",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 227,
+      "comment_id": "227",
+      "text": "su pare",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "arturopacho960",
+        "username": "arturopacho960",
+        "display_name": "arturopacho960",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 228,
+      "comment_id": "228",
+      "text": "zvamos Rafa",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "ivan.sul",
+        "username": "Ivan Sul",
+        "display_name": "Ivan Sul",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 229,
+      "comment_id": "229",
+      "text": "pucha Porky es uno más de nosotros así se vive en la sierra",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "hannahelemnanis",
+        "username": "Chinkilover",
+        "display_name": "Chinkilover",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 230,
+      "comment_id": "230",
+      "text": "ES HORA DE PONER EN VALOR LO NUESTRO, EXPORTACIÓN DE TARWI AL MUNDO... PERÚ ES CLAVE, TRABAJO PARA MÁS HERMANOS!! 💪💙",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "alexanderdiegoandiaguti0",
+        "username": "Alexander Diego Andi",
+        "display_name": "Alexander Diego Andi",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 231,
+      "comment_id": "231",
+      "text": "No a porki 🔥🔥",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "miau.nasa",
+        "username": "Nasa",
+        "display_name": "Nasa",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 232,
+      "comment_id": "232",
+      "text": "q vergüenza ..",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "wilyccoropuna",
+        "username": "wil cc..",
+        "display_name": "wil cc..",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 233,
+      "comment_id": "233",
+      "text": "es increíble que un candidato mencione al chocho en una campaña presidencial, fue un alimento muy marginado por tanto tiempo y ahora ya se está cotizando bien en los mercados, mi viejita cuando prepara ceviche lo acompaña con chocho",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "joelios27_11",
+        "username": "Joel",
+        "display_name": "Joel",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 234,
+      "comment_id": "234",
+      "text": "vamos chanchito",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "nilcaja",
+        "username": "Nilcaja",
+        "display_name": "Nilcaja",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 235,
+      "comment_id": "235",
+      "text": "simploneria",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "kasique174",
+        "username": "Kasique",
+        "display_name": "Kasique",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 236,
+      "comment_id": "236",
+      "text": "Porky quiero ser tu personerooooo!!!!",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "wiccats",
+        "username": "veronica",
+        "display_name": "veronica",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 237,
+      "comment_id": "237",
+      "text": "en el municipio de Lima todos los días comía caviar.... jajajaja",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "altherego3000",
+        "username": "Altherego Universita",
+        "display_name": "Altherego Universita",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 238,
+      "comment_id": "238",
+      "text": "Lleno total.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "l.miguel815",
+        "username": "Dios,mi Familia y mi Patria.",
+        "display_name": "Dios,mi Familia y mi Patria.",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 239,
+      "comment_id": "239",
+      "text": "Que Delicia...",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "perou118",
+        "username": "Pérou",
+        "display_name": "Pérou",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 240,
+      "comment_id": "240",
+      "text": "Nutritivo y Delicioso 😋",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "lina.gutierrez84",
+        "username": "Lina Gutierrez",
+        "display_name": "Lina Gutierrez",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 241,
+      "comment_id": "241",
+      "text": "estas en la cima porki",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "caritolito_io3000",
+        "username": ".",
+        "display_name": ".",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 242,
+      "comment_id": "242",
+      "text": "Pozo pozo y más pozo brutal",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "f.gomez871",
+        "username": "Gómez",
+        "display_name": "Gómez",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 243,
+      "comment_id": "243",
+      "text": "RICARDO BELMONT LUZ DE ESPERANZA PARA CAMBIAR EL PAIS 💪🏾 😎👌🏽💚💚💚💚❤️CORRE EL BOCA A BOCA ESPARTANO",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "edgarseet",
+        "username": "edgaresett",
+        "display_name": "edgaresett",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 244,
+      "comment_id": "244",
+      "text": "chatarras nunca más",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220312,
+      "user": {
+        "id": "rolyrojas4",
+        "username": "rolyrojasmayta",
+        "display_name": "rolyrojasmayta",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    }
+  ],
+  "comments_count": 244,
+  "scrape_duration_seconds": 39.659297704696655,
+  "error": null
+}

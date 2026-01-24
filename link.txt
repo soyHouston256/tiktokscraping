@@ -1,4 +1,5 @@
-python -m scripts.facebook.scraper "https://www.facebook.com/share/p/1Dv7dfHgkG/"
+python -m scripts.facebook.scraper "https://www.facebook.com/share/v/17vkLqAGp9/"
+python -m scripts.tiktok.scraper "https://www.tiktok.com/@rafael_lopez_aliaga/video/7596397149210840340"
 
 Rafael López:
 - tiktok

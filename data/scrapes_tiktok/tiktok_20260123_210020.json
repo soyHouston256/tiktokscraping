@@ -1,0 +1,6829 @@
+{
+  "platform": "tiktok",
+  "source_url": "https://www.tiktok.com/@rafael_lopez_aliaga/video/7596577944181460245",
+  "extracted_at": "2026-01-23T20:59:25.370202",
+  "post": {
+    "post_id": "7596577944181460245",
+    "text": "@Bad Bunny\n\n \n\n#badbunny\n\n \n\n#debitirarmasfotos\n\n \n\n#benito\n\n \n\n#viral\n\n \n\n#parati\n\n ",
+    "author": {
+      "id": "",
+      "name": "",
+      "username": "",
+      "profile_url": "",
+      "profile_picture": "",
+      "verified": false
+    },
+    "likes": 37000,
+    "comments_total": 1024,
+    "shares": 7735,
+    "views": 0,
+    "created_at": 0,
+    "attachments": [],
+    "extra_metrics": {}
+  },
+  "comments": [
+    {
+      "index": 1,
+      "comment_id": "1",
+      "text": "Hermanos, no desperdicien el tiempo en cosas negativas, haciéndole caso a personas negativas que ni te conocen…",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "rafael_lopez_aliaga",
+        "username": "Rafael López Aliaga",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 2,
+      "comment_id": "2",
+      "text": "tu tampoco nos conoces xD",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "ismaelatias",
+        "username": "Ismael 😈🇱🇷",
+        "display_name": "Ismael 😈🇱🇷",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 3,
+      "comment_id": "3",
+      "text": "Hablas como germa",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "votoperuano",
+        "username": "Voto Perú 2026",
+        "display_name": "Voto Perú 2026",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 4,
+      "comment_id": "4",
+      "text": "ya lápiz.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "sandreluc",
+        "username": "Jian Bo 建博",
+        "display_name": "Jian Bo 建博",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 5,
+      "comment_id": "5",
+      "text": "Tio porky sigueme pe 🗿💚 tas en la cimaaa",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "icon_danx2",
+        "username": "INTERBANK",
+        "display_name": "INTERBANK",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 6,
+      "comment_id": "6",
+      "text": "Solo si bajas tus tasas de interés…",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "rafael_lopez_aliaga",
+        "username": "Rafael López Aliaga",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 7,
+      "comment_id": "7",
+      "text": "jajajaja",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "jhossmarbrenispis",
+        "username": "Jhossmar Brenis Pisc",
+        "display_name": "Jhossmar Brenis Pisc",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 8,
+      "comment_id": "8",
+      "text": "😂😂😂😂",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "user038952641",
+        "username": "Fernando",
+        "display_name": "Fernando",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 9,
+      "comment_id": "9",
+      "text": "🤣🤣🤣",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "_vizzious",
+        "username": "Vizzious",
+        "display_name": "Vizzious",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 10,
+      "comment_id": "10",
+      "text": "Rafael, Los jóvenes Renovadores de Santa Anita estamos disponibles para esas actividades! 🙌🏻🩵😎",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "maryorit0105",
+        "username": "Mar",
+        "display_name": "Mar",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 11,
+      "comment_id": "11",
+      "text": "@Emerson",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "sunbamjk",
+        "username": "Sun 🐰",
+        "display_name": "Sun 🐰",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 12,
+      "comment_id": "12",
+      "text": "Soy del agustino ✌",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "emersonantoniojul",
+        "username": "Emerson",
+        "display_name": "Emerson",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 13,
+      "comment_id": "13",
+      "text": "Tío Porky, estás dando la hora en cada camino. 💚",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "indrive.pe",
+        "username": "inDrive Perú",
+        "display_name": "inDrive Perú",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 14,
+      "comment_id": "14",
+      "text": "Seguimos en la ruta para hacer grande al Perú. 🇵🇪",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "rafael_lopez_aliaga",
+        "username": "Rafael López Aliaga",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 15,
+      "comment_id": "15",
+      "text": "y seguirás en ruta porque no vas a ganar aunque no lo creas la mayoría de los peruanos te detesta 😉🌐",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "nam_myoho_renge_kyo333",
+        "username": "🌐 ED ⚛️",
+        "display_name": "🌐 ED ⚛️",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 16,
+      "comment_id": "16",
+      "text": "El Perú con Porky tendria mucha inversion publica y privada. por fin tendriamos un presidente respetado en Sudamerica desde Alan Garcia. 😁",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "developers2026",
+        "username": "Elecciones2026",
+        "display_name": "Elecciones2026",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 17,
+      "comment_id": "17",
+      "text": "Es hora de usar Uber",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "jocdanb28",
+        "username": "Dan66785",
+        "display_name": "Dan66785",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 18,
+      "comment_id": "18",
+      "text": "El está analizando repotenciar los conciertos en Perú, por eso debe verlo de cerca. Un crack mi chancho.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "karlonchaponcha",
+        "username": "KARLA",
+        "display_name": "KARLA",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 19,
+      "comment_id": "19",
+      "text": "Hay megaeventos que no miran al Perú como un mercado atractivo, por eso tenemos que potenciar esta industria que tiene mucho potencial, este evento es una clara muestra",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "rafael_lopez_aliaga",
+        "username": "Rafael López Aliaga",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 20,
+      "comment_id": "20",
+      "text": "muy bien mi presi.2026.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "elisacoqui",
+        "username": "Elinote",
+        "display_name": "Elinote",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 21,
+      "comment_id": "21",
+      "text": "Queremos una infraestructura tipo como en el que se hace en Villa del Mar, Porkyy",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "elhalcondorado9",
+        "username": "Leóncito 🦁🤩 🇵🇪",
+        "display_name": "Leóncito 🦁🤩 🇵🇪",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 22,
+      "comment_id": "22",
+      "text": "eres un capo Rafael creo en ti y votaremos por ti",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "angelmariola2566",
+        "username": "💙𝐎𝐉𝐎𝐒 𝐃𝐄 𝐀𝐍𝐆𝐄𝐋",
+        "display_name": "💙𝐎𝐉𝐎𝐒 𝐃𝐄 𝐀𝐍𝐆𝐄𝐋",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 23,
+      "comment_id": "23",
+      "text": "Tendre que votar por el chancho no hay otra. sino Keiko y la izquierda llegaran a 2da vuelta otra vez.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "developers2026",
+        "username": "Elecciones2026",
+        "display_name": "Elecciones2026",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 24,
+      "comment_id": "24",
+      "text": "Buen análisis, hermano… No hay que esperar a que llegue la segunda vuelta para reflexionar.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "rafael_lopez_aliaga",
+        "username": "Rafael López Aliaga",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 25,
+      "comment_id": "25",
+      "text": "hay que apoyar para que gane en la primera vuelta, así el Perú ahorra 600 millones que costaría organizar la segunda vuelta y que ahora sabemos que Rafael le dará un buen uso",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "claritapo21",
+        "username": "claritapo22",
+        "display_name": "claritapo22",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 26,
+      "comment_id": "26",
+      "text": "🥰🥰🥰así es vamos por lo seguro",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "anaisgianina24",
+        "username": "AnaisGianina",
+        "display_name": "AnaisGianina",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 27,
+      "comment_id": "27",
+      "text": "pero si Keiko y Aliaga son lo mismo xdD",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "elpibe_peruanoxd",
+        "username": "Sebas",
+        "display_name": "Sebas",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 28,
+      "comment_id": "28",
+      "text": "Cree que así votaremos por él [sticker]",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "loricriss22",
+        "username": "Lori Cristina✨",
+        "display_name": "Lori Cristina✨",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 29,
+      "comment_id": "29",
+      "text": "Quiero que voten por mí, por el trabajo que he logrado y por lo que sé que puedo lograr, porque amo a mi país y quiero verlo triunfar. 🇵🇪",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "rafael_lopez_aliaga",
+        "username": "Rafael López Aliaga",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 30,
+      "comment_id": "30",
+      "text": "Claro por la megaobra de la vía expresa sur que ha dejado botada, deben poner separadores tipo la panamericana para evitar más muertes.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "antonyterronesp",
+        "username": "Antony Terrones",
+        "display_name": "Antony Terrones",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 31,
+      "comment_id": "31",
+      "text": "son etapas inge [sticker]",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "franco.j.f",
+        "username": "FRANCO M♥️",
+        "display_name": "FRANCO M♥️",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 32,
+      "comment_id": "32",
+      "text": "¿Cual trabajo logrado, señor López? Las pistas en Lima están hechas un desastre. ¿Y ahora está postulando a la presidencia? Increíble.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "abiespinoza17",
+        "username": "Bibi O. Espinoza 🤍",
+        "display_name": "Bibi O. Espinoza 🤍",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 33,
+      "comment_id": "33",
+      "text": "Porky va al concierto a analizar los conciertos para potenciar, definitivamente debe ser presidente del Perú.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "luisotero684",
+        "username": "luisotero684",
+        "display_name": "luisotero684",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 34,
+      "comment_id": "34",
+      "text": "Los eventos más grandes del mundo verán a Perú. Nos encargaremos de eso.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "rafael_lopez_aliaga",
+        "username": "Rafael López Aliaga",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 35,
+      "comment_id": "35",
+      "text": "Tomorrowland dices tio porky😳",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "jcma0710",
+        "username": "Jurgen Cóndor",
+        "display_name": "Jurgen Cóndor",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 36,
+      "comment_id": "36",
+      "text": "Eres o te ases, 🫴😎",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "hizaiazrt",
+        "username": "Hizaiaz RT",
+        "display_name": "Hizaiaz RT",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 37,
+      "comment_id": "37",
+      "text": "le gusta porque ambos balbucean",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "jjustovig",
+        "username": "Jaime Justo",
+        "display_name": "Jaime Justo",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 38,
+      "comment_id": "38",
+      "text": "tío Porky analiza bien los mega conciertos, para que venga ACDC por favor 😩😩😫😫😭 por cierto tienes mi voto para presidente",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "xx35251",
+        "username": "xx",
+        "display_name": "xx",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 39,
+      "comment_id": "39",
+      "text": "Muy de acuerdo 👍",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "robertofiestas",
+        "username": "Roberto Fiestas",
+        "display_name": "Roberto Fiestas",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 40,
+      "comment_id": "40",
+      "text": "BLACKPINK🙏",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "quinva.snack.bar",
+        "username": "Quinva Snack Bar",
+        "display_name": "Quinva Snack Bar",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 41,
+      "comment_id": "41",
+      "text": "no pasa nada",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "xx35251",
+        "username": "xx",
+        "display_name": "xx",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 42,
+      "comment_id": "42",
+      "text": "Bad Bunny no votaría por RLA todo su álbum va en contra de lo que porky representa",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "diegob.jpg",
+        "username": "DiegoB",
+        "display_name": "DiegoB",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 43,
+      "comment_id": "43",
+      "text": "jajajaja me estas diciendo que apoyaria a Evo Morales, Hugo Chavez que mataron de hambre a su gente. hoy en dia los bolivianos pagan consecuencias. eso apoya ?",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "developers2026",
+        "username": "Elecciones2026",
+        "display_name": "Elecciones2026",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 44,
+      "comment_id": "44",
+      "text": "Bueno, supongo que eso sería algo bueno, no crees? con más razón votaría por Porky 😆",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "dariolw50",
+        "username": "Daizen LR",
+        "display_name": "Daizen LR",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 45,
+      "comment_id": "45",
+      "text": "Todo lo q uno hace para engañar a los jóvenes. Jajajaja y lo curioso es q le creen.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "roberto.durand.es",
+        "username": "Roberto",
+        "display_name": "Roberto",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 46,
+      "comment_id": "46",
+      "text": "los que te engañaron jajaja",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "rickarbost",
+        "username": "Rickarbost",
+        "display_name": "Rickarbost",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 47,
+      "comment_id": "47",
+      "text": "🤭",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "silvia.n.s30",
+        "username": "silvia ❤",
+        "display_name": "silvia ❤",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 48,
+      "comment_id": "48",
+      "text": "Está bien pues Rogelio Rojas, así como a ti te engañó López Chau… rojazo",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "melicris10",
+        "username": "Melissa Salas",
+        "display_name": "Melissa Salas",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 49,
+      "comment_id": "49",
+      "text": "Porky mi familia botara por ti cuando seas presidente construye una arena de eventos para que más artistas vengan a peru",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "cosmopolis2422",
+        "username": "BRϟAN=Sᴋʏʟɪɴᴇ=𝑳𝑰𝑴𝑨",
+        "display_name": "BRϟAN=Sᴋʏʟɪɴᴇ=𝑳𝑰𝑴𝑨",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 50,
+      "comment_id": "50",
+      "text": "Haremos eso y mucho más, los eventos más importantes del mundo vendrán a Perú. 🇵🇪",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "rafael_lopez_aliaga",
+        "username": "Rafael López Aliaga",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 51,
+      "comment_id": "51",
+      "text": "de verdad Porky? hazlo realidad!!",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "jonathn.fer",
+        "username": "Jonathan Fer",
+        "display_name": "Jonathan Fer",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 52,
+      "comment_id": "52",
+      "text": "Porky tiene muchas ideas buenas para nuestro amado Perú 🥰",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "any.muoz35",
+        "username": "Any Muñoz",
+        "display_name": "Any Muñoz",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 53,
+      "comment_id": "53",
+      "text": "Así es eso da mucho dinero !!!! Y progreso a la ciudad",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "danika.caceres",
+        "username": "danika caceres",
+        "display_name": "danika caceres",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 54,
+      "comment_id": "54",
+      "text": "tienes mi voto porki",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "_ammmmmyy",
+        "username": "𝓒𝓪𝓶𝓲𝓵𝓪 🧸🤍",
+        "display_name": "𝓒𝓪𝓶𝓲𝓵𝓪 🧸🤍",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 55,
+      "comment_id": "55",
+      "text": "Gracias, hermana.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "rafael_lopez_aliaga",
+        "username": "Rafael López Aliaga",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 56,
+      "comment_id": "56",
+      "text": "Mi porky trae a Rosalia",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "gisselasanchezq",
+        "username": "Gissela9 Sanchez",
+        "display_name": "Gissela9 Sanchez",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 57,
+      "comment_id": "57",
+      "text": "estrategia política 👍",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "juanpalopez97",
+        "username": "juanpablolopez",
+        "display_name": "juanpablolopez",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 58,
+      "comment_id": "58",
+      "text": "no, iguak voto por él",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "mili14596",
+        "username": "mili-145",
+        "display_name": "mili-145",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 59,
+      "comment_id": "59",
+      "text": "Es verdad, Fujimori se equivocó, no eran t3rruk0$, son enfermos mentales.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "marbellms",
+        "username": "Marbell",
+        "display_name": "Marbell",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 60,
+      "comment_id": "60",
+      "text": "exactamente castillo, Lopez chau, Carlos Espa....",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "_sebax23",
+        "username": "Team  ᴹc Seba",
+        "display_name": "Team  ᴹc Seba",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 61,
+      "comment_id": "61",
+      "text": "Tío Porky trae a ACDC te creo",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "grocksav",
+        "username": "grocksav",
+        "display_name": "grocksav",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 62,
+      "comment_id": "62",
+      "text": "Muchas cosas están por venir, prepárense.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "rafael_lopez_aliaga",
+        "username": "Rafael López Aliaga",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 63,
+      "comment_id": "63",
+      "text": "Hombre de cultura",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "jeff.gt",
+        "username": "Jeff Steven Gil Tori",
+        "display_name": "Jeff Steven Gil Tori",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 64,
+      "comment_id": "64",
+      "text": "Ya no van a venir xd",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "marioooo5003",
+        "username": "Mario",
+        "display_name": "Mario",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 65,
+      "comment_id": "65",
+      "text": "¿Que ha hecho por Lima? 😏",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "jazc254",
+        "username": "️",
+        "display_name": "️",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 66,
+      "comment_id": "66",
+      "text": "Todavía preguntas ?? O no vives en Lima ? Y si vives en Lima no sales ?",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "srr_jn1.2",
+        "username": "Sarria✝️",
+        "display_name": "Sarria✝️",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 67,
+      "comment_id": "67",
+      "text": "Es una ignorante votante de lápiz",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "sebastianlacasa123074",
+        "username": "sebastianlacasa123074",
+        "display_name": "sebastianlacasa123074",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 68,
+      "comment_id": "68",
+      "text": "El futuro presi es fan de Bad Bunny ahora sí me cae bien.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "causa9839",
+        "username": "Causa",
+        "display_name": "Causa",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 69,
+      "comment_id": "69",
+      "text": "Esta proyectando el futuro ahi Porky",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "elhalcondorado9",
+        "username": "Leóncito 🦁🤩 🇵🇪",
+        "display_name": "Leóncito 🦁🤩 🇵🇪",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 70,
+      "comment_id": "70",
+      "text": "Futuro presi de su celda será 😂",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "yanickf13",
+        "username": "yannick 15",
+        "display_name": "yannick 15",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 71,
+      "comment_id": "71",
+      "text": "fue para ver el estado del estadio, no por el artista sano",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "noseque951",
+        "username": "noseque",
+        "display_name": "noseque",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 72,
+      "comment_id": "72",
+      "text": "Rafael te tengo una Fe unica! No desperdicies el tiempo en responderles a los NEGATIVOS..",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "closet.men",
+        "username": "J.Closet",
+        "display_name": "J.Closet",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 73,
+      "comment_id": "73",
+      "text": "👏",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "dannyale_1604",
+        "username": "Danny LC",
+        "display_name": "Danny LC",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 74,
+      "comment_id": "74",
+      "text": "lo que la gente normal ve es pura diversión , Rafael ve oportunidad de inversión y mejora en la industria musical, que atraiga inversión y mejora al pais.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": ".franz05",
+        "username": "Franz",
+        "display_name": "Franz",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 75,
+      "comment_id": "75",
+      "text": "UN CRACK NUESTRO CHANCHO 🥰",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "milenypucuhuarang",
+        "username": "Mileny",
+        "display_name": "Mileny",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 76,
+      "comment_id": "76",
+      "text": "🤣",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "aracelyrodri27",
+        "username": "Maritza R🪷🖤",
+        "display_name": "Maritza R🪷🖤",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 77,
+      "comment_id": "77",
+      "text": "Porki hay muchos licenciados de las fuerzas armadas que estamos olvidados por el estado , as algo por nosotros",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "francisco.villare5",
+        "username": "francisco villareal sanchez",
+        "display_name": "francisco villareal sanchez",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 78,
+      "comment_id": "78",
+      "text": "Lo tengo anotado, hermano.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "rafael_lopez_aliaga",
+        "username": "Rafael López Aliaga",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 79,
+      "comment_id": "79",
+      "text": "ya dijo lo que va hacer por nosotros los licenciados ....",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "garcia123.54",
+        "username": "Teo guerrero 🪖",
+        "display_name": "Teo guerrero 🪖",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 80,
+      "comment_id": "80",
+      "text": "Y tú le crees? la palabra de tu alcalde el puerco no vale nada,así como dijo que no postularía y míralo ahora 😂 encima nunca hizo nd por Lima en su gestión",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "yanickf13",
+        "username": "yannick 15",
+        "display_name": "yannick 15",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 81,
+      "comment_id": "81",
+      "text": "@Rafael López Aliaga",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "chewbacca608",
+        "username": "chewbacca608",
+        "display_name": "chewbacca608",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 82,
+      "comment_id": "82",
+      "text": "que decepción 😞",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "manuel_floresrof",
+        "username": "Manu Flores R.",
+        "display_name": "Manu Flores R.",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 83,
+      "comment_id": "83",
+      "text": "XK?? porky todo loke hace lo hace pensando en el Perú alguna idea debe tener",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "any.muoz35",
+        "username": "Any Muñoz",
+        "display_name": "Any Muñoz",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 84,
+      "comment_id": "84",
+      "text": "Buen análisis, hermana. Esta industria crecerá, nos encargaremos de eso. 🇵🇪",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "rafael_lopez_aliaga",
+        "username": "Rafael López Aliaga",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 85,
+      "comment_id": "85",
+      "text": "Puede que no te guste la música de bad bunny, pero debo decirte que el tipo es un profesional con su show.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "iar2roo",
+        "username": "Arturo Enrique",
+        "display_name": "Arturo Enrique",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 86,
+      "comment_id": "86",
+      "text": "Que decepción que ?",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "bastaperu",
+        "username": "BastaPerú",
+        "display_name": "BastaPerú",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 87,
+      "comment_id": "87",
+      "text": "QUE HACEN CON SATÁNICOS?????",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "mialucianarojas",
+        "username": "LUCIANA",
+        "display_name": "LUCIANA",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 88,
+      "comment_id": "88",
+      "text": "Aunque no lo crean, también estamos trabajando.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "rafael_lopez_aliaga",
+        "username": "Rafael López Aliaga",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 89,
+      "comment_id": "89",
+      "text": "Solo está viendo que mejorar para traer más conciertos al Perú 😪",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "ulises.vs",
+        "username": "UlisesVS",
+        "display_name": "UlisesVS",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 90,
+      "comment_id": "90",
+      "text": "😂",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "josxx.xvl",
+        "username": "josee",
+        "display_name": "josee",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 91,
+      "comment_id": "91",
+      "text": "@achaes2:He leído gente que dice que Porky es hipócrita por ir al concierto de Bad Bunny ya que él es cristiano … y lo que no se dan cuenta que fue para poder analizar cómo en un futuro se puede repotenciar estos mega eventos y vean al Perú como un atractivo para la industria musical eligiendo al país para realizar conciertos enormes con una gran inversión que al final ayudará al crecimiento económico. Es así como piensa un empresario.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "gruuuu.20",
+        "username": "Esther",
+        "display_name": "Esther",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 92,
+      "comment_id": "92",
+      "text": "Que chévere que hayas ido al concierto, igual votaré por Keiko 🧡",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "christian6_d",
+        "username": "Christian",
+        "display_name": "Christian",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 93,
+      "comment_id": "93",
+      "text": "Te me caiste",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "csardavid69",
+        "username": "César",
+        "display_name": "César",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 94,
+      "comment_id": "94",
+      "text": "ya mañana te compro tu caramelo",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "tm050325",
+        "username": "tm",
+        "display_name": "tm",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 95,
+      "comment_id": "95",
+      "text": "pero el que tenía que venderlos eres tu 😂😂😂",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "csardavid69",
+        "username": "César",
+        "display_name": "César",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 96,
+      "comment_id": "96",
+      "text": "Con esa foto que tienes ?? 🥑",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "yojhan_2",
+        "username": "Yojhan",
+        "display_name": "Yojhan",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 97,
+      "comment_id": "97",
+      "text": "jaja♥️",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "bryan_glu",
+        "username": "Bryan",
+        "display_name": "Bryan",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 98,
+      "comment_id": "98",
+      "text": "El tío porky tenía que estar en la casita",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "valentinatorr23",
+        "username": "valuu",
+        "display_name": "valuu",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 99,
+      "comment_id": "99",
+      "text": "y decir acho pr es otra cosa",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "cristhian.calixto.x",
+        "username": "cristhian.calixto.x",
+        "display_name": "cristhian.calixto.x",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 100,
+      "comment_id": "100",
+      "text": "Si quería hubiera estado 💀",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "sergirmrz",
+        "username": "Sergio Ramírez327",
+        "display_name": "Sergio Ramírez327",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 101,
+      "comment_id": "101",
+      "text": "@Lu",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "yaritzamera18",
+        "username": "yaritzamera",
+        "display_name": "yaritzamera",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 102,
+      "comment_id": "102",
+      "text": "a votar por Porky y vendrán Madonna u2 ACDC grupos que nos chotean",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "juliomont08",
+        "username": "juliomont",
+        "display_name": "juliomont",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 103,
+      "comment_id": "103",
+      "text": "Tengan por seguro que haremos crecer esta industria en Perú. 🇵🇪",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "rafael_lopez_aliaga",
+        "username": "Rafael López Aliaga",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 104,
+      "comment_id": "104",
+      "text": "No dijiste que Lima sería potencia mundial también?",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "ximeherrera0501",
+        "username": "ximeherrera0501",
+        "display_name": "ximeherrera0501",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 105,
+      "comment_id": "105",
+      "text": "ya sentó las bases, pero no estás preparado para conocer lo que es eso",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "claritapo21",
+        "username": "claritapo22",
+        "display_name": "claritapo22",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 106,
+      "comment_id": "106",
+      "text": "He leído gente que dice que Porky es hipócrita por ir al concierto de Bad Bunny ya que él es cristiano … y lo que no se dan cuenta que fue para poder analizar cómo en un futuro se puede repotenciar estos mega eventos y vean al Perú como un atractivo para la industria musical eligiendo al país para realizar conciertos enormes con una gran inversión que al final ayudará al crecimiento económico. Es así como piensa un empresario.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "achaes2",
+        "username": "achaes2",
+        "display_name": "achaes2",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 107,
+      "comment_id": "107",
+      "text": "así es hermano rasfel esta viendo y proyectando en el futuro como mejorar la calidad de eventos musicales para q a Perú lleguen artistas grandes eso genera inversión ,rafael López no fue por q le gusta ese artista fue a ver como mejorar la infraestructura de eventos.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "abelgallardo17",
+        "username": "Abel Gallardo",
+        "display_name": "Abel Gallardo",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 108,
+      "comment_id": "108",
+      "text": "Que tiene que ver el ser cristiano con ir a un concierto? Nada tiene que ver tu religión con lo que escuchas, mientras prediques, sirvas y mantengas tu fé; así escuches lo que escuches no te hundirá",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "ari_without_ana",
+        "username": "ari_without_ana",
+        "display_name": "ari_without_ana",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 109,
+      "comment_id": "109",
+      "text": "Es lo que te quiere hacer creer 😑😑😑😑😑",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "mirella_al",
+        "username": "🌻*•.¸♡ мเＲ𝒆𝕝ⓛα ♡¸.•*🌻",
+        "display_name": "🌻*•.¸♡ мเＲ𝒆𝕝ⓛα ♡¸.•*🌻",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 110,
+      "comment_id": "110",
+      "text": "Tío trae a wisin y yandel y voto por ti",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "o5daniel",
+        "username": "D A N I E L",
+        "display_name": "D A N I E L",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 111,
+      "comment_id": "111",
+      "text": "Está pensando en negocio dalo x seguro",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "gato1816",
+        "username": "Gato",
+        "display_name": "Gato",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 112,
+      "comment_id": "112",
+      "text": "Me conocen.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "rafael_lopez_aliaga",
+        "username": "Rafael López Aliaga",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 113,
+      "comment_id": "113",
+      "text": "Soy su Hincha,",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "gato1816",
+        "username": "Gato",
+        "display_name": "Gato",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 114,
+      "comment_id": "114",
+      "text": "pero si esas canciones no son cristianas 🙄🙄🙄",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "user5678865678765",
+        "username": "user557778854678886788656",
+        "display_name": "user557778854678886788656",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 115,
+      "comment_id": "115",
+      "text": "kobfue al concierto por q le gusta esa música ha lo dijo mil veces q fue a ver que cantidad de gente entra y como se puede mejorar la infraestructura de eventos musicales para el futuro osea van a llegar a Perú artistas grandes del mundo y se necesita recibirlo en un lugar q sea más grande para capacidad e personas mayor a lo q esta ahora entiendes?",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "abelgallardo17",
+        "username": "Abel Gallardo",
+        "display_name": "Abel Gallardo",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 116,
+      "comment_id": "116",
+      "text": "Porkyman viendo como impulsar la industria de los conciertos en Lima, quizás hacer otro estadio nacional pero para 100 mil espectadores.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "josepier18",
+        "username": "José García",
+        "display_name": "José García",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 117,
+      "comment_id": "117",
+      "text": "O traer eventos mundialmente conocidos a Perú…",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "rafael_lopez_aliaga",
+        "username": "Rafael López Aliaga",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 118,
+      "comment_id": "118",
+      "text": "Traete el edc tio porky",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "marioooo5003",
+        "username": "Mario",
+        "display_name": "Mario",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 119,
+      "comment_id": "119",
+      "text": "Rafael López traerlo a goldplay música d inglés son buenas musicas.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "abelgallardo17",
+        "username": "Abel Gallardo",
+        "display_name": "Abel Gallardo",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 120,
+      "comment_id": "120",
+      "text": "Migre para España soy camionero profesional. Pero sin dudarlo mi familia votará por ti mi chanchito 💪💪",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "locura.yrr",
+        "username": "locura YRR",
+        "display_name": "locura YRR",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 121,
+      "comment_id": "121",
+      "text": "Gracias por el apoyo, te esperaremos para tu retorno…",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "rafael_lopez_aliaga",
+        "username": "Rafael López Aliaga",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 122,
+      "comment_id": "122",
+      "text": "Nadie",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "alvaro.arturo",
+        "username": "Alvaro Arturo Vicente",
+        "display_name": "Alvaro Arturo Vicente",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 123,
+      "comment_id": "123",
+      "text": "Porky ni sabe que hace ahí 🤣",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "jairjoshue",
+        "username": "Jair",
+        "display_name": "Jair",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 124,
+      "comment_id": "124",
+      "text": "Taradini, Tu vez un concierto, Porky observa cómo mejorar la industria de entretenimiento en el País. Tu vez un árbol, el ve un bosque.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "josepier18",
+        "username": "José García",
+        "display_name": "José García",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 125,
+      "comment_id": "125",
+      "text": "escucha el mensaje 😏",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "claritapo21",
+        "username": "claritapo22",
+        "display_name": "claritapo22",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 126,
+      "comment_id": "126",
+      "text": "QUE GRANDE ERES MI PRESIIII",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "noleolasflores",
+        "username": "Leonardo",
+        "display_name": "Leonardo",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 127,
+      "comment_id": "127",
+      "text": "No hay forma Leonardo",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "xiomaraolazabal",
+        "username": "Xiomara Olazabal",
+        "display_name": "Xiomara Olazabal",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 128,
+      "comment_id": "128",
+      "text": "respeta a mi próximo presi",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "noleolasflores",
+        "username": "Leonardo",
+        "display_name": "Leonardo",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 129,
+      "comment_id": "129",
+      "text": "q hacia porky ahí JAJAJAJAJAJ",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "kindezil",
+        "username": "ᴋɪɴᴅᴇᴢɪʟ",
+        "display_name": "ᴋɪɴᴅᴇᴢɪʟ",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 130,
+      "comment_id": "130",
+      "text": "supervisando el concierto",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "hankdf2019",
+        "username": "bbb.nb12381",
+        "display_name": "bbb.nb12381",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 131,
+      "comment_id": "131",
+      "text": "Visitando a su causa bugs bunny 🥕",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "renzbarrenechea",
+        "username": "RENZ B",
+        "display_name": "RENZ B",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 132,
+      "comment_id": "132",
+      "text": "viendo la industria de los mega eventos👍",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "claritapo21",
+        "username": "claritapo22",
+        "display_name": "claritapo22",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 133,
+      "comment_id": "133",
+      "text": "Como todo gestor de primer nivel, sabemos que debe detectando alguna oportunidad de mejora en el sector musical o considerando la mejora del estadio",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "dl.dayane",
+        "username": "Dayane 🌸",
+        "display_name": "Dayane 🌸",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 134,
+      "comment_id": "134",
+      "text": "La industria de megaeventos tiene un gran potencial y mucha demanda y este evento es una muestra de ello, vamos a competir con otros países que lideran esta industria",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "rafael_lopez_aliaga",
+        "username": "Rafael López Aliaga",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 135,
+      "comment_id": "135",
+      "text": "Mejoren todo para cuándo llegue BTS 😭",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "efetrrlla",
+        "username": "Stella.",
+        "display_name": "Stella.",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 136,
+      "comment_id": "136",
+      "text": "un lugar más grande que el monumental y que tenga alta tecnología para grandes shows",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "zaorylima",
+        "username": "zaory❤️‍🔥🇵🇪",
+        "display_name": "zaory❤️‍🔥🇵🇪",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 137,
+      "comment_id": "137",
+      "text": "💯💯💯💯💯👍👍👍",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "edwinbautista3393",
+        "username": "Aguila69",
+        "display_name": "Aguila69",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 138,
+      "comment_id": "138",
+      "text": "porky trae a AC/DC 🙏",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "kof9898",
+        "username": "kof9898",
+        "display_name": "kof9898",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 139,
+      "comment_id": "139",
+      "text": "Anotado, hermano.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "rafael_lopez_aliaga",
+        "username": "Rafael López Aliaga",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 140,
+      "comment_id": "140",
+      "text": "Porky tiene espíritu de joven 🩵🩵🩵",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "jack.franklinyz",
+        "username": "Jack 💛🩵🌽🌾📈",
+        "display_name": "Jack 💛🩵🌽🌾📈",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 141,
+      "comment_id": "141",
+      "text": "De un chanchito joven jaja 😅",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "johanamirandaeventos",
+        "username": "Johana Miranda Eventos",
+        "display_name": "Johana Miranda Eventos",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 142,
+      "comment_id": "142",
+      "text": "Mi presi ya está trabajando , siempre adelantándose a todo! Algo ya tiene en mente de seguro para mejorar la industria musical en nuestro Peru 👏👏",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "marialuisagarciar32",
+        "username": "mary",
+        "display_name": "mary",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 143,
+      "comment_id": "143",
+      "text": "exactamente.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "abelgallardo17",
+        "username": "Abel Gallardo",
+        "display_name": "Abel Gallardo",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 144,
+      "comment_id": "144",
+      "text": "Tienes mi voto porki💙🐷Te amamos",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "alanisvictoria01",
+        "username": "Victoria Reyes",
+        "display_name": "Victoria Reyes",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 145,
+      "comment_id": "145",
+      "text": "Porky es clave, él sabe como repotenciar los eventos de entretenimiento en Perú",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "patriota8465",
+        "username": "patriota",
+        "display_name": "patriota",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 146,
+      "comment_id": "146",
+      "text": "Lo lograremos. Con nosotros Perú siempre será clave. 🇵🇪",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "rafael_lopez_aliaga",
+        "username": "Rafael López Aliaga",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 147,
+      "comment_id": "147",
+      "text": "La gente ni idea porque PORKY asistió a ese concierto!!!",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "leondelsur333",
+        "username": "leondelsur3",
+        "display_name": "leondelsur3",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 148,
+      "comment_id": "148",
+      "text": "Para engañar al pueblo joven haciéndole creer que le preocupa la industria musical 😂😂 y que nos llevará a ser potencia Brutal",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "yanickf13",
+        "username": "yannick 15",
+        "display_name": "yannick 15",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 149,
+      "comment_id": "149",
+      "text": "El fue porque el Perú es un súper mercado para eventos de este tipo, viva mi Porki presidente!!!!!! analizando cómo sacar más provecho de estos conciertos",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "karinacalderon444",
+        "username": "Karina Calderon",
+        "display_name": "Karina Calderon",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 150,
+      "comment_id": "150",
+      "text": "mi presi",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "jhayrorz",
+        "username": "jhayrorz",
+        "display_name": "jhayrorz",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 151,
+      "comment_id": "151",
+      "text": "PORKY ES CLAVE 🗿🔥FALTA SPEED Y EL ZEIN",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "cliperoedit",
+        "username": "clipero",
+        "display_name": "clipero",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 152,
+      "comment_id": "152",
+      "text": "Con Porky se los aseguro que U2 viene a Lima. Lo decreto",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "iar2roo",
+        "username": "Arturo Enrique",
+        "display_name": "Arturo Enrique",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 153,
+      "comment_id": "153",
+      "text": "Artistas y eventos mundialmente conocidos llegarán a Perú, nos encargaremos de eso… prepárense.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "rafael_lopez_aliaga",
+        "username": "Rafael López Aliaga",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 154,
+      "comment_id": "154",
+      "text": "ahora es predicador ese especial",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "diosesmirocasiempre1221n",
+        "username": "Dios es mi fortaleza",
+        "display_name": "Dios es mi fortaleza",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 155,
+      "comment_id": "155",
+      "text": "valora cada segundo q la vida te regala .. escucha",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "user5306171800855",
+        "username": "Mariella",
+        "display_name": "Mariella",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 156,
+      "comment_id": "156",
+      "text": "escucha ..no desperdicies el tiempo en odiar a los que no conoces ..recuerda que también puedes ser feliz en esta vida 🧬🧬",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "salserito123",
+        "username": "George",
+        "display_name": "George",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 157,
+      "comment_id": "157",
+      "text": "a un Cristiano le cae bien estas cosas?",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "fernandezhalire.ricardo8",
+        "username": "RicardiÑO🥸",
+        "display_name": "RicardiÑO🥸",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 158,
+      "comment_id": "158",
+      "text": "pecado no es, pues no le veo en excesos 😌",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "camilamia.pe",
+        "username": "Camilamia",
+        "display_name": "Camilamia",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 159,
+      "comment_id": "159",
+      "text": "Muchas letras de Bad Bunny sí chocan frontalmente con los valores cristianos, porque normalizan el sexo sin compromiso, la infidelidad, el hedonismo, el consumo de drogas y una visión bastante superficial de las relaciones humanas; todo eso va en sentido contrario a principios como la templanza, la fidelidad, el respeto y la dignidad de la persona.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "robbie_hook",
+        "username": "Robbie Hook",
+        "display_name": "Robbie Hook",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 160,
+      "comment_id": "160",
+      "text": "Tienes toda la razón. pero Porky está al parecer analizando el potencial de los conciertos que puede tener Lima. Pero pienso que no debió asistir a ese concierto porque Bad Bunny es progre y engendro del mal.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "cocinasaludableyvive",
+        "username": "Cocina Saludable y Vive",
+        "display_name": "Cocina Saludable y Vive",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 161,
+      "comment_id": "161",
+      "text": "concuerdo con usted, pero estoy casi segura que, la presencia de RLA en el concierto, tiene otro propósito, ojalá puedas escuchar o leer su plan de gobierno y los proyectos que tiene para nuestro país.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "camilamia.pe",
+        "username": "Camilamia",
+        "display_name": "Camilamia",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 162,
+      "comment_id": "162",
+      "text": "🥰Tenías que estar en el concierto mi presidente ❤️es un gran momento para ver toda la inversión y el dinero que se mueve cuando hay eventos eso no ven algunos usted como hombre de negocios sabe lo que significa.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "anaisgianina24",
+        "username": "AnaisGianina",
+        "display_name": "AnaisGianina",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 163,
+      "comment_id": "163",
+      "text": "se nota que tú sabes de negocios 😂😂😂😂",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "asta.bc2019",
+        "username": "asta",
+        "display_name": "asta",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 164,
+      "comment_id": "164",
+      "text": "cómo dice la canción 😂 no desperdicies el día en cosas negativas 😅 saluditos",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "anaisgianina24",
+        "username": "AnaisGianina",
+        "display_name": "AnaisGianina",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 165,
+      "comment_id": "165",
+      "text": "😂😂😂",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "ascheri.stv",
+        "username": "Steven Asc",
+        "display_name": "Steven Asc",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 166,
+      "comment_id": "166",
+      "text": "JAJAJAJAJAJAJA PERU ES CLAVE",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "lonelyy_fanss",
+        "username": "andreyuka🦕",
+        "display_name": "andreyuka🦕",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 167,
+      "comment_id": "167",
+      "text": "Con nosotros Perú siempre estará en la cima. 🇵🇪",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "rafael_lopez_aliaga",
+        "username": "Rafael López Aliaga",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 168,
+      "comment_id": "168",
+      "text": "asu ya no voto por ti ..",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "davidbernuyd",
+        "username": "DavidBernuy🫰🏻🪁💚🌻",
+        "display_name": "DavidBernuy🫰🏻🪁💚🌻",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 169,
+      "comment_id": "169",
+      "text": "😂osea por ser candidato no tiene derecho a divertirse?",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "franx.x.x",
+        "username": "ᶠ ʳ ᵃ ⁿ ᵏ ᵃ ⁿ ᵗ ᵒ ⁿ ᶦ ᵒ..̯ ᵕ̈",
+        "display_name": "ᶠ ʳ ᵃ ⁿ ᵏ ᵃ ⁿ ᵗ ᵒ ⁿ ᶦ ᵒ..̯ ᵕ̈",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 170,
+      "comment_id": "170",
+      "text": "no se esta divirtiendo, esta viendo la cantidad de gente que acude a este tipo de eventos, seguramente quiere optener una visión más, porque en estos eventos se mueve muchísimo dinero, y también atrae mucho turismo.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "aarnoldfq",
+        "username": "ArnoldJFQ",
+        "display_name": "ArnoldJFQ",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 171,
+      "comment_id": "171",
+      "text": "seguramente pero aún así si se estuviera divirtiendo no tiene nada de malo, RLA estuvo en una sola semana en varias ciudades mínimo quiere relajarse también es ser humano.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "franx.x.x",
+        "username": "ᶠ ʳ ᵃ ⁿ ᵏ ᵃ ⁿ ᵗ ᵒ ⁿ ᶦ ᵒ..̯ ᵕ̈",
+        "display_name": "ᶠ ʳ ᵃ ⁿ ᵏ ᵃ ⁿ ᵗ ᵒ ⁿ ᶦ ᵒ..̯ ᵕ̈",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 172,
+      "comment_id": "172",
+      "text": "pues sí, y realmente con todo su recorrido y exito de vida, debería de estar disfrutandola al máximo, pero sin embargo decidió darnos sus años de vida, para gestionar al país, y sacarlo adelante, eso es ser nacionalista, grande mi porky.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "aarnoldfq",
+        "username": "ArnoldJFQ",
+        "display_name": "ArnoldJFQ",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 173,
+      "comment_id": "173",
+      "text": "Porky me duele que AC/DC no venga haslo posible en tu gobiernoooo😇",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "elmoo896",
+        "username": "elmocapichula",
+        "display_name": "elmocapichula",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 174,
+      "comment_id": "174",
+      "text": "que artista son eso?",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "abelgallardo17",
+        "username": "Abel Gallardo",
+        "display_name": "Abel Gallardo",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 175,
+      "comment_id": "175",
+      "text": "si llegas a ser presidente espero que puedas impulsar el mantenimiento que le deben hacer al césped del estadio nacional después de los conciertos siempre el césped queda horrible y que impulses el deporte",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "francossj_06",
+        "username": "Franco Nuñez",
+        "display_name": "Franco Nuñez",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 176,
+      "comment_id": "176",
+      "text": "Nosotros sí le prestamos atención a los detalles.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "rafael_lopez_aliaga",
+        "username": "Rafael López Aliaga",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 177,
+      "comment_id": "177",
+      "text": "Debí tirar mas votos por Porky",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "miguelangelgali503",
+        "username": "migue",
+        "display_name": "migue",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 178,
+      "comment_id": "178",
+      "text": "papi, si sabes q le ponemos un piso especial que cuida 100% el grasas, no!",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "jeanciezza",
+        "username": "Jeanciezza",
+        "display_name": "Jeanciezza",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 179,
+      "comment_id": "179",
+      "text": "es que en los partidos se ve la cancha hecha un desastre y se supone que el mantenimiento debería ser inmediato después del concierto ya que está a cargo del IPD",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "francossj_06",
+        "username": "Franco Nuñez",
+        "display_name": "Franco Nuñez",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 180,
+      "comment_id": "180",
+      "text": "Porky invítame a tu palco para la otra 😔",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "diegomuro__",
+        "username": "usernotfound",
+        "display_name": "usernotfound",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 181,
+      "comment_id": "181",
+      "text": "tranquilo con mi padrino",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "javiermuro175",
+        "username": "Javi",
+        "display_name": "Javi",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 182,
+      "comment_id": "182",
+      "text": "digan lo que digan para mi RLA es un referente porque ES UN HOMBRE QUE HACE COSAS, RESUELVE!!! TIENE MAS ACIERTOS QUE TODOS, EL NO NECESITA ROBAR, EL QUIERE SER PRESIDENTE POR CONVICCION, ES TRABAJADOR Y CREYENTE, BENDICIONES QUERIDO PORKY 2026!! No nos confiemos aún no se gana nada se debe continuar y apoyar con la verdad a RLA, Rafael no habla mal de ningún adversario pero ellos si no pierden el tiempo... nosotros debemos difundir las obras de Rafael...",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "chioinfotech",
+        "username": "ChioInfotech",
+        "display_name": "ChioInfotech",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 183,
+      "comment_id": "183",
+      "text": "Es increible como hay personas que creen que el está ahi porque tiene como finalidad alguna visión de negocio y/o que atraiga la inversión al Perú",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "alegrapp",
+        "username": "Fabrizio Espgra",
+        "display_name": "Fabrizio Espgra",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 184,
+      "comment_id": "184",
+      "text": "😂😂😂😂 Está ahí xq tiene dinero y un palco. 😂😂😂",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "margaraflow",
+        "username": "Margarita love 😻☺️",
+        "display_name": "Margarita love 😻☺️",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 185,
+      "comment_id": "185",
+      "text": "y tu por qué crees que ha ido 🤔 , el sabrá porque quiere estar ahí 😏",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "claritapo21",
+        "username": "claritapo22",
+        "display_name": "claritapo22",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 186,
+      "comment_id": "186",
+      "text": "O sea, la correlación es mínima, lo único que hace ahí es para subir este video y atraer voto joven , que por más tonto que suene; le será efectivo",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "alegrapp",
+        "username": "Fabrizio Espgra",
+        "display_name": "Fabrizio Espgra",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 187,
+      "comment_id": "187",
+      "text": "Hahaha Oe si fue al concierto xddd, ese es mi presi 🤣",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "iameduardosanchez",
+        "username": "iameduardosanchez",
+        "display_name": "iameduardosanchez",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 188,
+      "comment_id": "188",
+      "text": "Porky ya ahora si estás en la cima",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "zpadso007",
+        "username": "Zpadso",
+        "display_name": "Zpadso",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 189,
+      "comment_id": "189",
+      "text": "de mi gampi",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "red.son_",
+        "username": "╋━",
+        "display_name": "╋━",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 190,
+      "comment_id": "190",
+      "text": "Tienes todos el apoyo de la selva tío Porky 🩵💪🏻",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "chamberitoalaclde2026",
+        "username": "Chamberito Alcalde 2026",
+        "display_name": "Chamberito Alcalde 2026",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 191,
+      "comment_id": "191",
+      "text": "En todas mi presi ❤️",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "diegomiranda520",
+        "username": "Diego Miranda",
+        "display_name": "Diego Miranda",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 192,
+      "comment_id": "192",
+      "text": "Rafael López Aliaga presidente del Perú.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "mara.luzbelinda.c",
+        "username": "María Luzbelinda Cabrer Saaved",
+        "display_name": "María Luzbelinda Cabrer Saaved",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 193,
+      "comment_id": "193",
+      "text": "EL MEJOR FUTURO PRESIDENTE DEL PERÚ 🇵🇪 !!!!!!!!!!!!!",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "javier.villanueva702",
+        "username": "Javier Villanueva",
+        "display_name": "Javier Villanueva",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 194,
+      "comment_id": "194",
+      "text": "🤣What",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "chrisc.i18",
+        "username": "Chris_castillo01",
+        "display_name": "Chris_castillo01",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 195,
+      "comment_id": "195",
+      "text": "porky estas en la cima🔥",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "anthonyv.c3",
+        "username": "Anthony",
+        "display_name": "Anthony",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 196,
+      "comment_id": "196",
+      "text": "Hola a quien le apoy0?😭💜",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "teyapeobb",
+        "username": "YAPECITOS GRATIS 💜🇵🇪💸🫶🏻",
+        "display_name": "YAPECITOS GRATIS 💜🇵🇪💸🫶🏻",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 197,
+      "comment_id": "197",
+      "text": "Rafita sígueme porfa [sticker]",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "lolaa.271",
+        "username": "Alu★",
+        "display_name": "Alu★",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 198,
+      "comment_id": "198",
+      "text": "ya me dio ternurita el porky. ir a este concierto con su carácter y personalidad... noble",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "gm8sc",
+        "username": "GM8",
+        "display_name": "GM8",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 199,
+      "comment_id": "199",
+      "text": "Es el mejor por mucho!!!",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "felixwildba",
+        "username": "Felíx ML",
+        "display_name": "Felíx ML",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 200,
+      "comment_id": "200",
+      "text": "y todavía está trabajando para mejorar la industria de la música",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "claritapo21",
+        "username": "claritapo22",
+        "display_name": "claritapo22",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 201,
+      "comment_id": "201",
+      "text": "y se dió un bailesito 🤗🤗",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "arcoirisga",
+        "username": "🌼GA🌼",
+        "display_name": "🌼GA🌼",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 202,
+      "comment_id": "202",
+      "text": "😁",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "any.muoz35",
+        "username": "Any Muñoz",
+        "display_name": "Any Muñoz",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 203,
+      "comment_id": "203",
+      "text": "LE FALTO VESTIRSE COMO REGUETONERO CON SUS PANTALONES ANCHOS SU GORRA VOLTEADA Y SU BLIM BLIM",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "user3360596243244",
+        "username": "CUCHI CUCHI",
+        "display_name": "CUCHI CUCHI",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 204,
+      "comment_id": "204",
+      "text": "🐷🩵😊",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "claritapo21",
+        "username": "claritapo22",
+        "display_name": "claritapo22",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 205,
+      "comment_id": "205",
+      "text": "XD",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "rrolldcanela",
+        "username": "flavia",
+        "display_name": "flavia",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 206,
+      "comment_id": "206",
+      "text": "Presi 🗳️🇵🇪 [sticker]",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "carmenpaz6738",
+        "username": "carmenpaz6738",
+        "display_name": "carmenpaz6738",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 207,
+      "comment_id": "207",
+      "text": "si me traes a blackpink, voto por ti.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "tor0mbolo_25",
+        "username": "arian",
+        "display_name": "arian",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 208,
+      "comment_id": "208",
+      "text": "Xdddd",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "marioooo5003",
+        "username": "Mario",
+        "display_name": "Mario",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 209,
+      "comment_id": "209",
+      "text": "Somos 2 jajaj",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "leonorogamer",
+        "username": "亗Leonoro亗",
+        "display_name": "亗Leonoro亗",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 210,
+      "comment_id": "210",
+      "text": "Será que me sigue el futuro presidente del Peru",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "vkot21s5",
+        "username": "vdukf07",
+        "display_name": "vdukf07",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 211,
+      "comment_id": "211",
+      "text": "cllaro 🥰",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "user5306171800855",
+        "username": "Mariella",
+        "display_name": "Mariella",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 212,
+      "comment_id": "212",
+      "text": "Perú se va para cosas grandes con Rafael López Aliaga",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "renebenitezpalomares",
+        "username": "Rene Benítez Palomares",
+        "display_name": "Rene Benítez Palomares",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 213,
+      "comment_id": "213",
+      "text": "buena yo votaré por Lopez Aliga bendiciones",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "florenciasm55",
+        "username": "florenciasm55",
+        "display_name": "florenciasm55",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 214,
+      "comment_id": "214",
+      "text": "desde Cajamarca todos con Rafael López Aliaga presidente convencido porque eres un genio de bien",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "lalo31428",
+        "username": "lalo",
+        "display_name": "lalo",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 215,
+      "comment_id": "215",
+      "text": "por favor Porky haz que los conciertos sean numerados con asientos como en otros países (Asia por ejemplo) las ventas de colas y el acampar deben desaparecer , mucha gente arriesga su vida por estar apretados como sardinas 🙏🙏🙏",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "sandy7884",
+        "username": "Sandy",
+        "display_name": "Sandy",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 216,
+      "comment_id": "216",
+      "text": "Tio porki de esos eventos queremos! Eres un crack",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "jaimeruiz230",
+        "username": "jaimeRuiz23",
+        "display_name": "jaimeRuiz23",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 217,
+      "comment_id": "217",
+      "text": "XD",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "fernando.litt",
+        "username": "fernando_hb",
+        "display_name": "fernando_hb",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 218,
+      "comment_id": "218",
+      "text": "bad Bunny no es mi ejemplo",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "finchjord",
+        "username": "FinchJord",
+        "display_name": "FinchJord",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 219,
+      "comment_id": "219",
+      "text": "escucha sus palabras .no desperdicia el tiempo no hacerle caso a gente negativa .. escucha",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "user5306171800855",
+        "username": "Mariella",
+        "display_name": "Mariella",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 220,
+      "comment_id": "220",
+      "text": "ya",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "nech7077",
+        "username": "yuri  cha L",
+        "display_name": "yuri  cha L",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 221,
+      "comment_id": "221",
+      "text": "bien.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "candysilvia",
+        "username": "CandySilvia",
+        "display_name": "CandySilvia",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 222,
+      "comment_id": "222",
+      "text": "rafael el próximo presidente del Perú 😁",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "nilthon_king",
+        "username": "nilthon_king🦁",
+        "display_name": "nilthon_king🦁",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 223,
+      "comment_id": "223",
+      "text": "en serio que a mí presidente Rafael López Aliaga le gusta Bad Bunny yo pensé que sus gustos musicales eran más refinados jaaaa",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "user3665378739618",
+        "username": "salvador",
+        "display_name": "salvador",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 224,
+      "comment_id": "224",
+      "text": "A mi no me gusta Bad Bunny pero su último álbum no es malo, obviamente nadie le gana a MJ, Madona,Frank Sinatra, etc",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "tm050325",
+        "username": "tm",
+        "display_name": "tm",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 225,
+      "comment_id": "225",
+      "text": "@pau: Muy bien dicho mi presi lee lo que te escribí te quiero mucho🥰🙏🇵🇪🙌🤍🤗",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "pau57198",
+        "username": "pau",
+        "display_name": "pau",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 226,
+      "comment_id": "226",
+      "text": "HAJJAJAJAJAJAJAA",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "wendyaccm",
+        "username": "Wendy",
+        "display_name": "Wendy",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 227,
+      "comment_id": "227",
+      "text": "Porkis ! Para cuando un mega estadio? En el nacional ya no entran😭",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "fernanda_shisu",
+        "username": "🎵 FERNANDA 💅",
+        "display_name": "🎵 FERNANDA 💅",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 228,
+      "comment_id": "228",
+      "text": "👏👏 De todos los candidatos a Presidente , es el único x el que voto",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "anasofia19820",
+        "username": "user9585507664227",
+        "display_name": "user9585507664227",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 229,
+      "comment_id": "229",
+      "text": "da muy buenos consejos de hecho no hay duda apoyo a la moción",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "execdp",
+        "username": "El chico del parlante 🎙️",
+        "display_name": "El chico del parlante 🎙️",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 230,
+      "comment_id": "230",
+      "text": "Moción",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "elhalcondorado9",
+        "username": "Leóncito 🦁🤩 🇵🇪",
+        "display_name": "Leóncito 🦁🤩 🇵🇪",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 231,
+      "comment_id": "231",
+      "text": "Eres el mejor Rafael👏👏👏",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "patricia.villanueva77",
+        "username": "Patricia",
+        "display_name": "Patricia",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 232,
+      "comment_id": "232",
+      "text": "Porky hubieras avisado que ibas al concierto yo te acompañaba 😂😂",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "evelynpache0",
+        "username": "evelyn Pacherrez 💅",
+        "display_name": "evelyn Pacherrez 💅",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 233,
+      "comment_id": "233",
+      "text": "Excelente Rafael presidente Obras no palabras 😎👏👏👏👏",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "juan.carlos.muoz030",
+        "username": "Juan Carlos",
+        "display_name": "Juan Carlos",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 234,
+      "comment_id": "234",
+      "text": "JAJAJAJA, esto es tan surreal",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "mangoagrio_",
+        "username": "mateo🥭",
+        "display_name": "mateo🥭",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 235,
+      "comment_id": "235",
+      "text": "se ganó mi voto",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "shannita_rs",
+        "username": "Shannafitness",
+        "display_name": "Shannafitness",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 236,
+      "comment_id": "236",
+      "text": "Yo voy a votar por ti Porky solo no hagas la cagada",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "limagdlc",
+        "username": "musicworld",
+        "display_name": "musicworld",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 237,
+      "comment_id": "237",
+      "text": "Estas en la cima 😆",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "cassette842",
+        "username": "cassette842",
+        "display_name": "cassette842",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 238,
+      "comment_id": "238",
+      "text": "Crack 👑👑👑👍",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "lincolalbertogara",
+        "username": "Lincol Alberto Garay Peche",
+        "display_name": "Lincol Alberto Garay Peche",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 239,
+      "comment_id": "239",
+      "text": "Tío Porky estuviste al lado de Bad Bunny o es IA",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "jaimerv30",
+        "username": "Jaime Ramirez",
+        "display_name": "Jaime Ramirez",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 240,
+      "comment_id": "240",
+      "text": "digan lo que digan para mi RLA es un referente porque ES UN HOMBRE QUE HACE COSAS, RESUELVE!!! TIENE MAS ACIERTOS QUE TODOS, EL NO NECESITA ROBAR, EL QUIERE SER PRESIDENTE POR CONVICCION, ES TRABAJADOR Y CREYENTE, BENDICIONES QUERIDO PORKY 2026!! No nos confiemos aún no se gana nada se debe continuar y apoyar con la verdad a RLA, Rafael no habla mal de ningún adversario pero ellos si no pierden el tiempo... nosotros debemos difundir las obras de Rafael...",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "chioinfotech",
+        "username": "ChioInfotech",
+        "display_name": "ChioInfotech",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 241,
+      "comment_id": "241",
+      "text": "Acho RL✌️",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "alliboho",
+        "username": "alliboho",
+        "display_name": "alliboho",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 242,
+      "comment_id": "242",
+      "text": "🥰valoren valoren ya saben hágale caso a mi Benito",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "violettaultravioleta",
+        "username": "•|Violeta★",
+        "display_name": "•|Violeta★",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 243,
+      "comment_id": "243",
+      "text": "Vamos Keiko 🧡🧡🧡🧡",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "alvaro.arturo",
+        "username": "Alvaro Arturo Vicente",
+        "display_name": "Alvaro Arturo Vicente",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 244,
+      "comment_id": "244",
+      "text": "Rafael es el único no hay otro",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "labolsadepalomas",
+        "username": "LaBolsadePalomas",
+        "display_name": "LaBolsadePalomas",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 245,
+      "comment_id": "245",
+      "text": "QUIEN DIJO QUE VAYA AL CONCIERTO(VLADY)",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "favicesto777",
+        "username": "favi777",
+        "display_name": "favi777",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 246,
+      "comment_id": "246",
+      "text": "futuro presidente 💙",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "migebenavides",
+        "username": "Migue Benavides",
+        "display_name": "Migue Benavides",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 247,
+      "comment_id": "247",
+      "text": "Aumente la capacidad del estadio monumental de Ate, Lima, se hablaba de una posible remodelación y ampliación...",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "renata.reynadelnorte.t",
+        "username": "Renata🇵🇪💋",
+        "display_name": "Renata🇵🇪💋",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 248,
+      "comment_id": "248",
+      "text": "ese mi tio porki siempre con los reales",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "eldixproxd",
+        "username": "sebastp",
+        "display_name": "sebastp",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 249,
+      "comment_id": "249",
+      "text": "DEDICADOALAGENRACIONZ",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "confexsiempre",
+        "username": "confexsiempre",
+        "display_name": "confexsiempre",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 250,
+      "comment_id": "250",
+      "text": "necesitamos algo Así como viña del mar 🤭",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "akemymargarita23",
+        "username": "AkemyArmy23",
+        "display_name": "AkemyArmy23",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 251,
+      "comment_id": "251",
+      "text": "Rafael en el palco... [sticker]",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "alessandraflucker",
+        "username": "alessandraflucker",
+        "display_name": "alessandraflucker",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 252,
+      "comment_id": "252",
+      "text": "Se niega a no ser Presi",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "matias.carmonaa",
+        "username": "matias.carmonaa",
+        "display_name": "matias.carmonaa",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 253,
+      "comment_id": "253",
+      "text": "Vamos con todo porky!!!",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "roswald_666",
+        "username": "ORSTED",
+        "display_name": "ORSTED",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 254,
+      "comment_id": "254",
+      "text": "Porky deberías hacer un estadio nacional que sea solo para conciertos y así es ingreso para el país y la municipalidad y se hacen ferias internacionales donde vengan varios artista el mismo día y veras la magia del ingreso para embellecer la ciudad",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "hugofossi2",
+        "username": "hugo fossi",
+        "display_name": "hugo fossi",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 255,
+      "comment_id": "255",
+      "text": "@Rafael López Aliaga es más te tengo el nombre feria internacional de Lima o la ciudad donde se haga",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "hugofossi2",
+        "username": "hugo fossi",
+        "display_name": "hugo fossi",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 256,
+      "comment_id": "256",
+      "text": "todo bien hasta q esté bien administrado pero si entra un zurdo la cag@",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": ".jesus190",
+        "username": "JesusM",
+        "display_name": "JesusM",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 257,
+      "comment_id": "257",
+      "text": "Ninguna negatividad tu te has ganado cada críticaaa tus pauperrimas obras hablan x ti",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "luisana6097",
+        "username": "Luisana",
+        "display_name": "Luisana",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 258,
+      "comment_id": "258",
+      "text": "Tío porky queremos a coldplay, lady gaga, taylor swift 😭😭 confío en ti ✨",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "juanda_d.22",
+        "username": "Juanda",
+        "display_name": "Juanda",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 259,
+      "comment_id": "259",
+      "text": "tío Porky desde lurin sígueme... hoy me dijo VIva Lurin",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": ".gallonegrodelsvr",
+        "username": "El Gallo Negro Del Svr...",
+        "display_name": "El Gallo Negro Del Svr...",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 260,
+      "comment_id": "260",
+      "text": "Porky tiene VICION y es un don de Dios",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "simon.lino27",
+        "username": "Simon Lino",
+        "display_name": "Simon Lino",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 261,
+      "comment_id": "261",
+      "text": "Tío Porky, envía saludos para la gente de Chiclayo, bendiciones siempre!!",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "lilyher7",
+        "username": "Lilyher7",
+        "display_name": "Lilyher7",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 262,
+      "comment_id": "262",
+      "text": "sería un golazo si se juega una Final De UEFA champions league en Perú",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "jaruko75",
+        "username": "Jaruko",
+        "display_name": "Jaruko",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 263,
+      "comment_id": "263",
+      "text": "Excelente mi coche",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "calderimay",
+        "username": "Luiz CaldeRimay✌🏾",
+        "display_name": "Luiz CaldeRimay✌🏾",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 264,
+      "comment_id": "264",
+      "text": "y seguro a Keiko la veremos en BTS jaja",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "rossyblue7",
+        "username": "Rosaly🌹",
+        "display_name": "Rosaly🌹",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 265,
+      "comment_id": "265",
+      "text": "En todas tío Porky, un crack! Bendíceme 😇",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "elestrategico17",
+        "username": "DS",
+        "display_name": "DS",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 266,
+      "comment_id": "266",
+      "text": "Porky es clave 🥰❤️🇵🇪",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "iam2393",
+        "username": "Pablito",
+        "display_name": "Pablito",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 267,
+      "comment_id": "267",
+      "text": "Porky el MVP",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "luisalbertoveraro",
+        "username": "Luis Alberto Vera Ro",
+        "display_name": "Luis Alberto Vera Ro",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 268,
+      "comment_id": "268",
+      "text": "Trae a BRUNO MARS 😭",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "florcita0712",
+        "username": "Pastelito de Canela🤎",
+        "display_name": "Pastelito de Canela🤎",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 269,
+      "comment_id": "269",
+      "text": "Votaré por Ud!!!👏",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "milredjulissabola",
+        "username": "Milred Julissa Bolaños Castro",
+        "display_name": "Milred Julissa Bolaños Castro",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 270,
+      "comment_id": "270",
+      "text": "Maravilloso!!!!😁😁😁😁",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "maferkawaisitaonichan",
+        "username": "Wafer ᥫ᭡",
+        "display_name": "Wafer ᥫ᭡",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 271,
+      "comment_id": "271",
+      "text": "si no estuviera en campaña , nunca hubiera ido a un concierto de nadie....",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "williioms",
+        "username": "Will",
+        "display_name": "Will",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 272,
+      "comment_id": "272",
+      "text": "Que genial, me encanta verlo en los conciertos ❤",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "krisftingtorres",
+        "username": "Krisfting",
+        "display_name": "Krisfting",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 273,
+      "comment_id": "273",
+      "text": "Hay mega eventos que Perú no puede hacer como los de AC/DC o Rammtein necesitamos uno",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "infiel.arrepentid",
+        "username": "Infiel Arrepentido 😭",
+        "display_name": "Infiel Arrepentido 😭",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 274,
+      "comment_id": "274",
+      "text": "Porky un lugar donde se hagan los conciertos y ya no se malogre el estadio Nacional 👍👍",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "joseym70",
+        "username": "Jose YM",
+        "display_name": "Jose YM",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 275,
+      "comment_id": "275",
+      "text": "no decepciónes ING . arriba hay un Dios y te sabrá premiar",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "yelt2",
+        "username": "yeltsinHuari",
+        "display_name": "yeltsinHuari",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 276,
+      "comment_id": "276",
+      "text": "Porki es clave para mi país ✍🏽",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "jorgitodelosreyes",
+        "username": "Jorgito berquemeyer",
+        "display_name": "Jorgito berquemeyer",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 277,
+      "comment_id": "277",
+      "text": "tío Porky sígame pe hágase una 🙌🏽 Yi voy a votar por usted tío Porky 🗿",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "cxx.lx18",
+        "username": "Matias Coila",
+        "display_name": "Matias Coila",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 278,
+      "comment_id": "278",
+      "text": "Porky pensé q escuchabas música",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "vr_fxbr",
+        "username": "VR_FXBR",
+        "display_name": "VR_FXBR",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 279,
+      "comment_id": "279",
+      "text": "Este porkys está en todas ❤️",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "raulnunez261",
+        "username": "Raul K. Nuñez",
+        "display_name": "Raul K. Nuñez",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 280,
+      "comment_id": "280",
+      "text": "Promueve los conciertos seguros y formales. Gente feliz y no destrozando bienes públicos o privados. Emprendedores generando trabajo y moviendo el país, pero formalízalos !!",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "cjcv72",
+        "username": "CCV",
+        "display_name": "CCV",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 281,
+      "comment_id": "281",
+      "text": "mi futuro presidente de lujo 😎💪🏻",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "foto_haz",
+        "username": "r",
+        "display_name": "r",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 282,
+      "comment_id": "282",
+      "text": "el mas felis es el camaraman jajaja😂😂😂 [sticker]",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "la.cucaracha600",
+        "username": "la cucaracha",
+        "display_name": "la cucaracha",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 283,
+      "comment_id": "283",
+      "text": "👍👍👍👍 Bien ahí tío porky",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "denissetravelfood",
+        "username": "Denisse travel & food",
+        "display_name": "Denisse travel & food",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 284,
+      "comment_id": "284",
+      "text": "Rafael tiene vista y mente de empresario, no desperdicien el tiempo en cosas negativas... la vida es hoy, hagamos que nuestro país sea grande",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "patita2539",
+        "username": "Patita",
+        "display_name": "Patita",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 285,
+      "comment_id": "285",
+      "text": "Porky chevere todo pero bota la a Chirinos por favor",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "carlosnavarro8314",
+        "username": "Carlos Navarro",
+        "display_name": "Carlos Navarro",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 286,
+      "comment_id": "286",
+      "text": "tío Porky estás en la Altura, solo mantén la calma y claridad para tus objetivos 😎",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "taxitrandy",
+        "username": "Taxi Trandy",
+        "display_name": "Taxi Trandy",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 287,
+      "comment_id": "287",
+      "text": "Rafael López Aliaga próximo presidente del Perú",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "elizabethcar65",
+        "username": "Kitty cat",
+        "display_name": "Kitty cat",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 288,
+      "comment_id": "288",
+      "text": "Porky, trae a Bruno Mars 😭",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "micaelamabelle",
+        "username": "Micaelamabelle",
+        "display_name": "Micaelamabelle",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 289,
+      "comment_id": "289",
+      "text": "está en la cima",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "matias.rivera.lav1",
+        "username": "𝕸𝖆𝖙í𝖆𝖘-𝖔𝖊",
+        "display_name": "𝕸𝖆𝖙í𝖆𝖘-𝖔𝖊",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 290,
+      "comment_id": "290",
+      "text": "Porky estás en la cima 🥰",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "darkblown.p",
+        "username": "Augusto",
+        "display_name": "Augusto",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 291,
+      "comment_id": "291",
+      "text": "Saludos Amigo Rafael mi voto es por el Perú, yo voy por Porky",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "katita2100",
+        "username": "Katita",
+        "display_name": "Katita",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 292,
+      "comment_id": "292",
+      "text": "El tío Porky debe tener una oportunidad. Ojalá se convierta en Presidente del Perú.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "user150100048467",
+        "username": "user150100048467",
+        "display_name": "user150100048467",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 293,
+      "comment_id": "293",
+      "text": "aparte de político, tambien es una persona 🔥, bendiciones",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "gael31rg",
+        "username": "gael31rg",
+        "display_name": "gael31rg",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 294,
+      "comment_id": "294",
+      "text": "Disfruten de las cosas sencillas de la vida , cobra hartísino 🤭🤭🤭",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "exverpaz",
+        "username": "Exver Ricardo",
+        "display_name": "Exver Ricardo",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 295,
+      "comment_id": "295",
+      "text": "Tío porky votaré por ti s, eres el mejor !!!✨✨",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "aleprivvs0",
+        "username": "aleprivvs0",
+        "display_name": "aleprivvs0",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 296,
+      "comment_id": "296",
+      "text": "porki estás en todas mi rey",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "george.picon.ambi",
+        "username": "rey causa",
+        "display_name": "rey causa",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 297,
+      "comment_id": "297",
+      "text": "los parques zonales están secos,,que pasa que no los riegan.. se están muriendo los árboles... que pasa con eso",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "edmiramos",
+        "username": "Edith Ramos",
+        "display_name": "Edith Ramos",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 298,
+      "comment_id": "298",
+      "text": "Hubieras llevado a bad bunny à la serenata con esos de los trenes",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "eltiburociin",
+        "username": "Stuardo chirinos",
+        "display_name": "Stuardo chirinos",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 299,
+      "comment_id": "299",
+      "text": "RLA PRESIDENTE",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "maria.laura.river17",
+        "username": "Maria laura Rivera",
+        "display_name": "Maria laura Rivera",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 300,
+      "comment_id": "300",
+      "text": "pense que estarias en la casita 😔",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "camiterant",
+        "username": "Cami Terán",
+        "display_name": "Cami Terán",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 301,
+      "comment_id": "301",
+      "text": "x poco y el pato Lucas estaba ahí y todo el elenco de looney tunes",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "raul_ct2008",
+        "username": "Raúl Camones",
+        "display_name": "Raúl Camones",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 302,
+      "comment_id": "302",
+      "text": "Lo máximo el Tío!! Está en todas!!!!",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "ulisesvaldivia31",
+        "username": "Ulises",
+        "display_name": "Ulises",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 303,
+      "comment_id": "303",
+      "text": "Porky presidente, la mejor opción, mejor dicho la única opción, no me decepciones tio porky🙏",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "williamdaniel86",
+        "username": "William Daniel",
+        "display_name": "William Daniel",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 304,
+      "comment_id": "304",
+      "text": "tio porky apuesto a que no puede traer a rammstein",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "eniwuan",
+        "username": "Zeif",
+        "display_name": "Zeif",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 305,
+      "comment_id": "305",
+      "text": "no Porky pensé que no eras de ese nivel..",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "77marcirexi",
+        "username": "marcita",
+        "display_name": "marcita",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 306,
+      "comment_id": "306",
+      "text": "Porky eres grande tienes un corazón de joven",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "hannahelemnanis",
+        "username": "Chinkilover",
+        "display_name": "Chinkilover",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 307,
+      "comment_id": "307",
+      "text": "Por primera vez tenemos la opción de votar por la mejor opción y no por el mal menor, mi desperdiciemos esa oportunidad y porky en primera vuelta!!!",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "enzio1990",
+        "username": "Enzio Piñateli",
+        "display_name": "Enzio Piñateli",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 308,
+      "comment_id": "308",
+      "text": "Porky visitando al camarada bugs bunny",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "gabo05xdd",
+        "username": "gabo05xdd",
+        "display_name": "gabo05xdd",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 309,
+      "comment_id": "309",
+      "text": "RAFAEL LOPEZ ALIAGA PRESIDENTE DEL PERÚ 2026, PARA MAS CONCIERTOS CON INVERSIÓN SEGURA",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "foxmolder7",
+        "username": "fox",
+        "display_name": "fox",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 310,
+      "comment_id": "310",
+      "text": "porky estas en la cima",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "carolinabarretoo1234",
+        "username": "Carolina Barreto",
+        "display_name": "Carolina Barreto",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 311,
+      "comment_id": "311",
+      "text": "buenas visión, traer mega eventos, la rompe 😎😎😎😎",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "babyagui26",
+        "username": "baby",
+        "display_name": "baby",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 312,
+      "comment_id": "312",
+      "text": "Porky, traete a ACDC, ESTA EN CHILE EN MARZOOOO, ES AHORA O NUNCA",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "jorgearandaromo",
+        "username": "Jorge 🍺",
+        "display_name": "Jorge 🍺",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 313,
+      "comment_id": "313",
+      "text": "buena tioo Porky",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "jjimmy1405",
+        "username": "Jimmy 💥",
+        "display_name": "Jimmy 💥",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 314,
+      "comment_id": "314",
+      "text": "te amo mi tío chanchito Porky bendiciones 🍀👑",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "strangehuman748",
+        "username": "FEBO'S🌧️⚡",
+        "display_name": "FEBO'S🌧️⚡",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 315,
+      "comment_id": "315",
+      "text": "Jajaja vamos mi chanchito💙💪",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "marceloluispaucca",
+        "username": "Marcelo Luis Paucca Martínez",
+        "display_name": "Marcelo Luis Paucca Martínez",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 316,
+      "comment_id": "316",
+      "text": "Votaré por ti Aliaga 💙🇵🇪🌊",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "rafaelpresidente0",
+        "username": "PERÚ",
+        "display_name": "PERÚ",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 317,
+      "comment_id": "317",
+      "text": "POTENCIA ESPECIAL",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "stanislaoccarhuasrivera",
+        "username": "🐦‍🔥Standly GZ Latam🤴🏻🇵🇪",
+        "display_name": "🐦‍🔥Standly GZ Latam🤴🏻🇵🇪",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 318,
+      "comment_id": "318",
+      "text": "Porky va a traer a las Twice",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "panconkpop",
+        "username": "Ary",
+        "display_name": "Ary",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 319,
+      "comment_id": "319",
+      "text": "con la plata de pueblo asi cualquiera .",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "katesan16",
+        "username": "Katesan",
+        "display_name": "Katesan",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 320,
+      "comment_id": "320",
+      "text": "Tío porky, estás en todas",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "anitalahuerfanita21",
+        "username": "anitalahuerfanita21",
+        "display_name": "anitalahuerfanita21",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 321,
+      "comment_id": "321",
+      "text": "este señor va traer mas modernización al perú señores Porky presidente💙",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "zonaoeste61",
+        "username": "Ronald ventura",
+        "display_name": "Ronald ventura",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 322,
+      "comment_id": "322",
+      "text": "@౨ৎ˚⟡ℋʏᴜɴɴ🐳ིྀ⟡୨୧˚ @Ale @한지성 러브💗 [sticker]",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "quienesalmendra_",
+        "username": "𐔌 𑣲 🐇민호와 한🦫 ೀ ⁺˖ ꒱",
+        "display_name": "𐔌 𑣲 🐇민호와 한🦫 ೀ ⁺˖ ꒱",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 323,
+      "comment_id": "323",
+      "text": "♡",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "alee_6292.0",
+        "username": "Ale",
+        "display_name": "Ale",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 324,
+      "comment_id": "324",
+      "text": "@Gray.Flores🪩💌 @EliLumeli ✨ 🥺",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "rosimhrrr",
+        "username": "rossss",
+        "display_name": "rossss",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 325,
+      "comment_id": "325",
+      "text": "Xd",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "_tellmegray",
+        "username": "Gray.Flores🪩💌",
+        "display_name": "Gray.Flores🪩💌",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 326,
+      "comment_id": "326",
+      "text": "@Diego 😂",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "deborareyesb",
+        "username": "Débora",
+        "display_name": "Débora",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 327,
+      "comment_id": "327",
+      "text": "Jajaja 😂",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "diego030196",
+        "username": "Diego",
+        "display_name": "Diego",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 328,
+      "comment_id": "328",
+      "text": "@Catalina 😳😂😂😂😂",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "lindacollantes200",
+        "username": "LindaCollantes2002",
+        "display_name": "LindaCollantes2002",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 329,
+      "comment_id": "329",
+      "text": "😂😂😂😂😂😂",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "catalinalagrand77",
+        "username": "Catalina",
+        "display_name": "Catalina",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 330,
+      "comment_id": "330",
+      "text": "@Caleb",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "roxanjocabet",
+        "username": "Roxan Jocabet",
+        "display_name": "Roxan Jocabet",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 331,
+      "comment_id": "331",
+      "text": "Benito",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "cb12k",
+        "username": "Caleb",
+        "display_name": "Caleb",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 332,
+      "comment_id": "332",
+      "text": "Enrique Iglesias @Rafael López Aliaga 🙈",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "josjos889",
+        "username": "Joss Joss 🦋",
+        "display_name": "Joss Joss 🦋",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 333,
+      "comment_id": "333",
+      "text": "Tienes mi voto @Rafael López Aliaga",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "josjos889",
+        "username": "Joss Joss 🦋",
+        "display_name": "Joss Joss 🦋",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 334,
+      "comment_id": "334",
+      "text": "bien ahí campeón @Rafael López Aliaga 🌎🎯🇵🇪",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "gp17vl",
+        "username": "GP17vl",
+        "display_name": "GP17vl",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 335,
+      "comment_id": "335",
+      "text": "@Arleti Prada💕 🤨🤨🤣😳",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "euniceprada",
+        "username": "euniceprada",
+        "display_name": "euniceprada",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 336,
+      "comment_id": "336",
+      "text": "@Rafael López Aliaga🥰🥰",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "duranlopez5",
+        "username": "niidea",
+        "display_name": "niidea",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 337,
+      "comment_id": "337",
+      "text": "@Rafael López Aliaga gracias por valorar y compartir este buen mensaje. Te queremos y necesitamos con urgencia como próximo presidente del Perú 🇵🇪",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "sylviabarboza38",
+        "username": "Sylvia Barboza Ortega",
+        "display_name": "Sylvia Barboza Ortega",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 338,
+      "comment_id": "338",
+      "text": "@Sbb7 TU CUÑAU",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "rodrigo.camusss",
+        "username": "Rodrigo Camus",
+        "display_name": "Rodrigo Camus",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 339,
+      "comment_id": "339",
+      "text": "😂",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "baal_.7",
+        "username": "Sbb7",
+        "display_name": "Sbb7",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 340,
+      "comment_id": "340",
+      "text": "@Diana Evelyn",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "angelica.almanza",
+        "username": "Angelica Almanza Sialer",
+        "display_name": "Angelica Almanza Sialer",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 341,
+      "comment_id": "341",
+      "text": "tío porky sigueme pe,estas en la cima de las encuestas🙏 y a mi bro que su sueño es ese @mathi...",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "l_u716",
+        "username": "...",
+        "display_name": "...",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 342,
+      "comment_id": "342",
+      "text": "👏👏👏",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "user200516125285",
+        "username": "user200516125285",
+        "display_name": "user200516125285",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 343,
+      "comment_id": "343",
+      "text": "Tienes mi voto mi chancho @Rafael López Aliaga NO ME FALLES 💪💪💪",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "carlosperezm23",
+        "username": "CarLonchitoPue",
+        "display_name": "CarLonchitoPue",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 344,
+      "comment_id": "344",
+      "text": "@Bad Bunny",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "user953899988",
+        "username": "IRENE",
+        "display_name": "IRENE",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 345,
+      "comment_id": "345",
+      "text": "𝑺𝒆𝒓𝒂 𝒆𝒍 𝒑𝒐𝒓𝒌𝒊 𝒎𝒆 𝒑𝒖𝒆𝒅𝒂 𝒔𝒆𝒈𝒖𝒊𝒓 𝒑𝒍𝒊𝒔 𝒎𝒊 𝒇𝒖𝒄𝒕𝒐𝒓𝒐 𝒑𝒓𝒆𝒔𝒊😕",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "emanuel.torres.751",
+        "username": "Emanüel👅",
+        "display_name": "Emanüel👅",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 346,
+      "comment_id": "346",
+      "text": "ERES EL MEJOR VISIONARIO RAFAEL LÓPEZ ALIAGA POR ESO PRESIDENTE DEL PERÚ 🇵🇪 EN PRIMERA VUELTA. OBRAS Y MÁS OBRAS.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "rosariotorres8",
+        "username": "rosariotorres8",
+        "display_name": "rosariotorres8",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 347,
+      "comment_id": "347",
+      "text": "el conejo malo y el chancho bueno, mi Perú es otra cosecha 😎",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "renzosky0118",
+        "username": "Renzo sky",
+        "display_name": "Renzo sky",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 348,
+      "comment_id": "348",
+      "text": "SER PERSONEROS DE RAFAEL LOPEZ ALIAGA PRESIDENTE DEL PERÚ 🥰🥰EN PRIMERA VUELTA",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "princess_ekaterina777",
+        "username": "Princess_Ekaterina",
+        "display_name": "Princess_Ekaterina",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 349,
+      "comment_id": "349",
+      "text": "a cuidar los votos Rafael López Aliaga Presidente 💯",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "charlielgato",
+        "username": "nelsonenriquecd",
+        "display_name": "nelsonenriquecd",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 350,
+      "comment_id": "350",
+      "text": "Rafael López Aliaga presidente en primera vuelta!!!",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "andreszavaleta07",
+        "username": "AndrésSavaleta07",
+        "display_name": "AndrésSavaleta07",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 351,
+      "comment_id": "351",
+      "text": "RAFAEL LOPEZ ALIAGA 2026 EN PRIMERA VUELTA",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "carita0614",
+        "username": "carita",
+        "display_name": "carita",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 352,
+      "comment_id": "352",
+      "text": "Rafael presidente 2026 .. Peter alcalde SMP .. renovación popular",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "edith.valverde89",
+        "username": "Edith Valverde",
+        "display_name": "Edith Valverde",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 353,
+      "comment_id": "353",
+      "text": "Porky estás en todas!!! Gran mensaje del conejo malo para todos!!!!🔥🥰",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "volkswagenlamolina",
+        "username": "Volkswagen La Molina",
+        "display_name": "Volkswagen La Molina",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 354,
+      "comment_id": "354",
+      "text": "Ya pero, los trenes chatarra que compraste, ya funcionan ?",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "rengifokev",
+        "username": "KEV RENGIFO",
+        "display_name": "KEV RENGIFO",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 355,
+      "comment_id": "355",
+      "text": "Claro ya funciona pero me falta un especial para que lo maneje",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "romize_scorpion",
+        "username": "romize_scorpions",
+        "display_name": "romize_scorpions",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 356,
+      "comment_id": "356",
+      "text": "ya p de una q te contraten 😂",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "angs20xd",
+        "username": "@Angs20xd",
+        "display_name": "@Angs20xd",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 357,
+      "comment_id": "357",
+      "text": "Avísale a porky",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "marisela__carrasco",
+        "username": "Marisela",
+        "display_name": "Marisela",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 358,
+      "comment_id": "358",
+      "text": "😂😂😂😂😂",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "anaisgianina24",
+        "username": "AnaisGianina",
+        "display_name": "AnaisGianina",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 359,
+      "comment_id": "359",
+      "text": "Porky se Jodio cuando metió a Chirinos a su partido Fin de la historia",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "exploradorcultural",
+        "username": "Explorador Cultural",
+        "display_name": "Explorador Cultural",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 360,
+      "comment_id": "360",
+      "text": "no votes por el número de la Chirinos y listo sigue tu vida chato",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "franco.gc29",
+        "username": "Franco G.",
+        "display_name": "Franco G.",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 361,
+      "comment_id": "361",
+      "text": "no votes por su número de la Chirinos y listo ... que tanto problema te haces",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "team_star15",
+        "username": "Segundo L. Santillan",
+        "display_name": "Segundo L. Santillan",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 362,
+      "comment_id": "362",
+      "text": "Absalón en Ancash, ((ya pero pago o no ?)) xD",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "eduard07757906",
+        "username": "ed.t.Acosta2",
+        "display_name": "ed.t.Acosta2",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 363,
+      "comment_id": "363",
+      "text": "Nooo, no Porky todo menos bad Bunny, él odia a los conservadores como tú, está en contra de la religión, en contra de Dios, es pro aborto, es pro matrimonio lgtb e ideología de género",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "jhon.r661",
+        "username": "Jhon R.",
+        "display_name": "Jhon R.",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 364,
+      "comment_id": "364",
+      "text": "fue a ver como se puede mejorar para que justamente este tipo de megaeventos haya mas en el perú genera turismo, trabajo mueve millones no le veas a lo malo",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "adrianocastrocuet",
+        "username": "💙🇵🇪Porkylover jairo2026🐽🌊",
+        "display_name": "💙🇵🇪Porkylover jairo2026🐽🌊",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 365,
+      "comment_id": "365",
+      "text": "claro, genera millones en gasto, tanto pulpin gastando dinero que no tienen, pagando entradas carísimas para apoyar a la musica basura, dime que de bueno genera a parte de grandes ganancias para ese 'artista'",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "jeff11822",
+        "username": "Jefferson",
+        "display_name": "Jefferson",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 366,
+      "comment_id": "366",
+      "text": "Tío porky siempre viendo la mermelada para todos , esa es la mentalidad de un servidor del bravo ! Abundancia para todos",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "fer.banegas2",
+        "username": "Fer.Banegas",
+        "display_name": "Fer.Banegas",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 367,
+      "comment_id": "367",
+      "text": "que bueno que era solo un ejercicio de observación pensaba que ya te habíamos perdido",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "yamileberti",
+        "username": "Yamile",
+        "display_name": "Yamile",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 368,
+      "comment_id": "368",
+      "text": "AL FIN ENCONTRÓ TIEMPO PARA RELAJARSE UN POCO, ESTIMADO INGENIERO . 🇵🇪💪",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "alfredo.mximo4",
+        "username": "MAXIMUS",
+        "display_name": "MAXIMUS",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 369,
+      "comment_id": "369",
+      "text": "Si llegas a traer a Bruno Mars me tatúo tu nombre porky",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "alvarogutierrez090",
+        "username": "alvarogutierrez090",
+        "display_name": "alvarogutierrez090",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 370,
+      "comment_id": "370",
+      "text": "Tío Porky , que los estadios mejoren su infraestructura , que se vea mejor , más limpio, más ordenado , Perú es clave , tu si puedes !!!",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "marthita_6",
+        "username": "🪷MARTHITA😁",
+        "display_name": "🪷MARTHITA😁",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 371,
+      "comment_id": "371",
+      "text": "Se flageló viendo a las mujeres perrear?",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "javiermr_5",
+        "username": "javiermr_5",
+        "display_name": "javiermr_5",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 372,
+      "comment_id": "372",
+      "text": "escucha no hacer caso a comentarios negativos ...no perdidos tu tiempo haciendo caso a gente negativa como tu",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "user5306171800855",
+        "username": "Mariella",
+        "display_name": "Mariella",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 373,
+      "comment_id": "373",
+      "text": "escucha valora tu tiempo.,no lo desperdicies odiando a personas que no conoces y recuerda también puedes ser feliz en esta vida 🧬🧬🧬🧬",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "salserito123",
+        "username": "George",
+        "display_name": "George",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 374,
+      "comment_id": "374",
+      "text": "nose, preguntale a tu viejo",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "gabri_gee",
+        "username": "gabri_gee",
+        "display_name": "gabri_gee",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 375,
+      "comment_id": "375",
+      "text": "Estás en la cima porky 🌊",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "juanjo._99",
+        "username": "JUANJOCM",
+        "display_name": "JUANJOCM",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 376,
+      "comment_id": "376",
+      "text": "De mi Gampi",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "valensinau",
+        "username": "Valentín Siña",
+        "display_name": "Valentín Siña",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 377,
+      "comment_id": "377",
+      "text": "😆",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "eduard07757906",
+        "username": "ed.t.Acosta2",
+        "display_name": "ed.t.Acosta2",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 378,
+      "comment_id": "378",
+      "text": "Estas en la cima porky",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "mr.finowobi",
+        "username": "Mr.Fino Wobi",
+        "display_name": "Mr.Fino Wobi",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 379,
+      "comment_id": "379",
+      "text": "De mi gampi",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "yanickf13",
+        "username": "yannick 15",
+        "display_name": "yannick 15",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 380,
+      "comment_id": "380",
+      "text": "Ala te me caíste porky",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "raulcalpa",
+        "username": "Raul Eduardo",
+        "display_name": "Raul Eduardo",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 381,
+      "comment_id": "381",
+      "text": "por que",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "christianorcada",
+        "username": "christianorcada",
+        "display_name": "christianorcada",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 382,
+      "comment_id": "382",
+      "text": "X?",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "as_angelm",
+        "username": "Angelm🌵",
+        "display_name": "Angelm🌵",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 383,
+      "comment_id": "383",
+      "text": "@Raul Eduardo:Ala te me caíste porky",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769220020,
+      "user": {
+        "id": "basadredpe",
+        "username": "𝑩𝒂𝒔𝒂𝒅𝒓𝒆𝒅",
+        "display_name": "𝑩𝒂𝒔𝒂𝒅𝒓𝒆𝒅",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 384,
+      "comment_id": "384",
+      "text": "HE VISTO HASTA 7 MONJITAS, QUE LOCURA 😁😁😁BIEN BIEN",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "virginia.romani.r",
+        "username": "Virginia Romani Robles",
+        "display_name": "Virginia Romani Robles",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 385,
+      "comment_id": "385",
+      "text": "Mi chanchito cada día me sorprende más su inteligencia su potencial.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "karident20",
+        "username": "LadyO'Connor",
+        "display_name": "LadyO'Connor",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 386,
+      "comment_id": "386",
+      "text": "estoy enamorada por tu inteligencia PORKY",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "angelmariola2566",
+        "username": "💙𝐎𝐉𝐎𝐒 𝐃𝐄 𝐀𝐍𝐆𝐄𝐋",
+        "display_name": "💙𝐎𝐉𝐎𝐒 𝐃𝐄 𝐀𝐍𝐆𝐄𝐋",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 387,
+      "comment_id": "387",
+      "text": "Estás en la cima Porky",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "pipistolita",
+        "username": "Pistolita",
+        "display_name": "Pistolita",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 388,
+      "comment_id": "388",
+      "text": "el chancho está analizando para que en Perú se agan mega conciertos",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "percyhl3",
+        "username": "percyhl3",
+        "display_name": "percyhl3",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 389,
+      "comment_id": "389",
+      "text": "Otro level mi chancho! También esta asao por no poder haber visto a AC/DC en Lima. Gestión con VISIÓN",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "mentalidad.retro",
+        "username": "mentalidad.retro",
+        "display_name": "mentalidad.retro",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 390,
+      "comment_id": "390",
+      "text": "MI PORKY TE CUENTO QUE AYER FUI AL PUENTE QUE HICISTE Y HAY UNA COLA HORRIBLE CERRARON EL PUENTE Y ABAJO SOLO ABRIERON PASO UN CARRIL 😔 1.5 HORAS EN LA COLA PARA SALIR DE AHI",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "patrick95713",
+        "username": "rikolazzzzz",
+        "display_name": "rikolazzzzz",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 391,
+      "comment_id": "391",
+      "text": "mi caballo ganador, vamos por el éxito.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "kayserbomb",
+        "username": "BrandonHM",
+        "display_name": "BrandonHM",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 392,
+      "comment_id": "392",
+      "text": "Mi futuro presidente @Rafael López Aliaga solo te pido un cambio para Perú 🇵🇪 y mano dura con la migración 🙏🏻",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "dieguitomz",
+        "username": "🔥💥 _D|€Gv|To_ 💥🔥",
+        "display_name": "🔥💥 _D|€Gv|To_ 💥🔥",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 393,
+      "comment_id": "393",
+      "text": "me encanta los comentarios negativos de los zurdos por que sin ellos seria todo muy aburrido , y cuando comentan los surdos nosotros despertamos [sticker]",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "la.cucaracha600",
+        "username": "la cucaracha",
+        "display_name": "la cucaracha",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 394,
+      "comment_id": "394",
+      "text": "Violaron sus 👂 oídos por tanta tiradera",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "cesvarg",
+        "username": "Cesar Vargas",
+        "display_name": "Cesar Vargas",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 395,
+      "comment_id": "395",
+      "text": "Petunia , deja la cocaaaaaa!",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "diego40dimarcio",
+        "username": "Diego Fernandez",
+        "display_name": "Diego Fernandez",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 396,
+      "comment_id": "396",
+      "text": "Jamás votaría por este SUJETO",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "principe_22_2020",
+        "username": "ℙ ℝ Í ℕ ℂ 𝕀 ℙ 𝔼",
+        "display_name": "ℙ ℝ Í ℕ ℂ 𝕀 ℙ 𝔼",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 397,
+      "comment_id": "397",
+      "text": "alguien que me pase videos?",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "nyxvila",
+        "username": "👸",
+        "display_name": "👸",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 398,
+      "comment_id": "398",
+      "text": "Te amo Porky!",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "nicolecarlson.r",
+        "username": "Nico 🩷",
+        "display_name": "Nico 🩷",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 399,
+      "comment_id": "399",
+      "text": "ojalá Venezuela tuviese políticos como este Sr. Mi admiración y respeto 🐷",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "reyessilvera",
+        "username": "reyessilvera",
+        "display_name": "reyessilvera",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 400,
+      "comment_id": "400",
+      "text": "no pasa nada con el chancho",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769220020,
+      "user": {
+        "id": "jeck_911",
+        "username": "Jeck",
+        "display_name": "Jeck",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    }
+  ],
+  "comments_count": 400,
+  "scrape_duration_seconds": 54.84755086898804,
+  "error": null
+}

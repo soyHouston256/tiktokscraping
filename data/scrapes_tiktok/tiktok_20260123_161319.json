@@ -1,0 +1,28 @@
+{
+  "platform": "tiktok",
+  "source_url": "https://www.tiktok.com/@rafael_lopez_aliaga/video/7596577944181460245",
+  "extracted_at": "2026-01-23T16:12:49.857612",
+  "post": {
+    "post_id": "7596577944181460245",
+    "text": "@Bad Bunny\n\n \n\n#badbunny\n\n \n\n#debitirarmasfotos\n\n \n\n#benito\n\n \n\n#viral\n\n \n\n#parati\n\n ",
+    "author": {
+      "id": "",
+      "name": "",
+      "username": "",
+      "profile_url": "",
+      "profile_picture": "",
+      "verified": false
+    },
+    "likes": 37000,
+    "comments_total": 1022,
+    "shares": 7730,
+    "views": 0,
+    "created_at": 0,
+    "attachments": [],
+    "extra_metrics": {}
+  },
+  "comments": [],
+  "comments_count": 0,
+  "scrape_duration_seconds": 30.070160150527954,
+  "error": null
+}

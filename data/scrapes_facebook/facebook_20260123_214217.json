@@ -1,0 +1,1999 @@
+{
+  "platform": "facebook",
+  "source_url": "https://www.facebook.com/share/v/17vkLqAGp9/",
+  "extracted_at": "2026-01-23T21:25:13.740328",
+  "post": {
+    "post_id": "",
+    "text": "#EnVivo | Entrevista exclusiva para Fuego Cruzado, conducido por la periodista Mavila Huertas, con…",
+    "author": {
+      "id": "www.facebook.com",
+      "name": "Rafael López Aliaga",
+      "username": "www.facebook.com",
+      "profile_url": "https://www.facebook.com/RafaelLopezAliagaOficial?__tn__=-]C-R",
+      "profile_picture": "https://scontent.flim28-1.fna.fbcdn.net/v/t39.30808-1/294211066_7729657717108198_7368100704045987606_n.jpg?stp=cp0_dst-jpg_s80x80_tt6&_nc_cat=106&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeGTFZhuDGRBO60joLewjhSNtrH9nTJO2v-2sf2dMk7a_6KaHAQlAr7Ud35WMeP4HOt0nN-frdGbetL71hB9f0Wb&_nc_ohc=452L1vbp82EQ7kNvwGeNQSI&_nc_oc=AdnvpuXzLfV1ZSyd8FxqUMp2L9uceRagOBInYbYf2VbUcZDMIdvEY4QKLvs47GG2iWA&_nc_zt=24&_nc_ht=scontent.flim28-1.fna&_nc_gid=xJFGRJKuUcrUtgSh2Fi1FA&oh=00_Afo7pMOBKYbTPQocp12Yl6d1lRrVXKpah5U3sla4nJnsJA&oe=6979EFBC",
+      "verified": false
+    },
+    "likes": 0,
+    "comments_total": 0,
+    "shares": 0,
+    "views": 0,
+    "created_at": 0,
+    "attachments": [
+      {
+        "type": "video",
+        "url": "",
+        "id": "",
+        "thumbnail_url": "",
+        "caption": ""
+      }
+    ],
+    "extra_metrics": {
+      "like": 0,
+      "love": 0,
+      "haha": 0,
+      "wow": 0,
+      "sad": 0,
+      "angry": 0
+    }
+  },
+  "comments": [
+    {
+      "index": 1,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE0MjM2MTc1MTkzNjY0OTA%3D",
+      "text": "Bienvenidos a una nueva entrevista, hermanos.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222525,
+      "user": {
+        "id": "RafaelLopezAliagaOficial",
+        "username": "RafaelLopezAliagaOficial",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "https://www.facebook.com/RafaelLopezAliagaOficial?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE0MjM2MTc1MTkzNjY0OTA%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 2,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3Xzg5MjU2NTU5NjQ3MTY2OQ%3D%3D",
+      "text": "Rafael López Aliaga el triunfo es de usted sr López aliaga",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222525,
+      "user": {
+        "id": "profile.php",
+        "username": "profile.php",
+        "display_name": "Mary Melendez",
+        "profile_url": "https://www.facebook.com/profile.php?id=61580715959318&comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3Xzg5MjU2NTU5NjQ3MTY2OQ%3D%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 3,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE1NjA2MTk3ODg1MDcwMzU%3D",
+      "text": "Rafael López Aliaga hermano ? Hermano Ni de mi perro",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222525,
+      "user": {
+        "id": "kenyo.yucraquispe",
+        "username": "kenyo.yucraquispe",
+        "display_name": "Yucra Kend",
+        "profile_url": "https://www.facebook.com/kenyo.yucraquispe?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE1NjA2MTk3ODg1MDcwMzU%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 4,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzEyMjM1Njc1NzYzODgxMDM%3D",
+      "text": "Rafael López Aliaga eres doble cara .. después de terruquear a los manifestantes contra la Dina asesina",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222525,
+      "user": {
+        "id": "triveno.trivenito",
+        "username": "triveno.trivenito",
+        "display_name": "Triveño Triveñito",
+        "profile_url": "https://www.facebook.com/triveno.trivenito?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzEyMjM1Njc1NzYzODgxMDM%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 5,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzI0NjUzNzQ1MjA1ODYxNjg%3D",
+      "text": "Rafael López Aliaga LÁSTIMA Q TUS PORNO TROLLS NO VAN ELIJIR SOLO SE HACEN ORESENTAN TUS TRULKSS EN REDESSS",
+      "likes": 1,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222525,
+      "user": {
+        "id": "mechailstiben.pardoquiros",
+        "username": "mechailstiben.pardoquiros",
+        "display_name": "Mechail Stiben Pardo Quiros",
+        "profile_url": "https://www.facebook.com/mechailstiben.pardoquiros?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzI0NjUzNzQ1MjA1ODYxNjg%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 6,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzIyODc4MjE0MDE3MDQ2MTc%3D",
+      "text": "Qué más quisieras ser hermano , semejante atrevido piojoso pezuñento",
+      "likes": 1,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222525,
+      "user": {
+        "id": "adelayda.perez.98499",
+        "username": "adelayda.perez.98499",
+        "display_name": "Lalita Pérez",
+        "profile_url": "https://www.facebook.com/adelayda.perez.98499?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzIyODc4MjE0MDE3MDQ2MTc%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 7,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE0NjE5NjE3MDE0Mjk1NzY%3D",
+      "text": "Lalita Pérez los pezuñentos son ustedes, que no le llegan ni ala punta de la uña del pié Barbosa.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222525,
+      "user": {
+        "id": "olga.guzmanderavina",
+        "username": "olga.guzmanderavina",
+        "display_name": "Olga Guzmán de Ravina",
+        "profile_url": "https://www.facebook.com/olga.guzmanderavina?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE0NjE5NjE3MDE0Mjk1NzY%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 8,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE2MDQwMjY0NTA2MzQ5OTY%3D",
+      "text": "Rafael López Aliaga vi la entrevista pero me daba mucha ira cuando no dejaba que te explayes más con tus excelentes propuesta…",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222525,
+      "user": {
+        "id": "edith.berrios1",
+        "username": "edith.berrios1",
+        "display_name": "Edhit Berrios",
+        "profile_url": "https://www.facebook.com/edith.berrios1?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE2MDQwMjY0NTA2MzQ5OTY%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 9,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE1MjExNzMwOTI1MTY2MjY%3D",
+      "text": "Yucra Kend Ud no debe expresarse de esa manera seguro no tienes valores formados por que una persona formada no se expresa as…",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222526,
+      "user": {
+        "id": "edith.berrios1",
+        "username": "edith.berrios1",
+        "display_name": "Edhit Berrios",
+        "profile_url": "https://www.facebook.com/edith.berrios1?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE1MjExNzMwOTI1MTY2MjY%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 10,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE2MzQ0NzgxMjEwNjg3Mjc%3D",
+      "text": "Rafael López Aliaga Agradecería que no vuelva a participar en programas conducidos por Mávila Huertas. Darle espacio y relevan…",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222526,
+      "user": {
+        "id": "jorge.gutierrezgalvez.9",
+        "username": "jorge.gutierrezgalvez.9",
+        "display_name": "Jorge Gutiérrez",
+        "profile_url": "https://www.facebook.com/jorge.gutierrezgalvez.9?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE2MzQ0NzgxMjEwNjg3Mjc%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 11,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE0MDU1MDM1ODA3NjA2ODE%3D",
+      "text": "Yucra Kend irrespetuoso dar su punto d vista no es ofender",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222526,
+      "user": {
+        "id": "esther.gomez.874479",
+        "username": "esther.gomez.874479",
+        "display_name": "Esther Gomez",
+        "profile_url": "https://www.facebook.com/esther.gomez.874479?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE0MDU1MDM1ODA3NjA2ODE%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 12,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzI0OTEyNzM0NzQ1OTk5NDU%3D",
+      "text": "Jorge Gutiérrez lo bueno de esas entrevistas es que nos hacen ver a todos el Perú, el tipo de personaje que es esta ameba/peri…",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222526,
+      "user": {
+        "id": "walop",
+        "username": "walop",
+        "display_name": "Walter Portilla",
+        "profile_url": "https://www.facebook.com/walop?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzI0OTEyNzM0NzQ1OTk5NDU%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 13,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE0MDQxNzE2NTExMTYwNzE%3D",
+      "text": "PROPUESTAS QUE TENEMOS PREPARADAS PARA EL PERÚ",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222526,
+      "user": {
+        "id": "RafaelLopezAliagaOficial",
+        "username": "RafaelLopezAliagaOficial",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "https://www.facebook.com/RafaelLopezAliagaOficial?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE0MDQxNzE2NTExMTYwNzE%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 14,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzIwNzkxNDg1MTI4NDU1NDE%3D",
+      "text": "Rafael López Aliaga quisiera que haga algo en las universidades estatales que hoy están dejado de lado el esfuerzo que hacen l…",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222526,
+      "user": {
+        "id": "josehumberto.noblecillaatoche",
+        "username": "josehumberto.noblecillaatoche",
+        "display_name": "Jose Humberto Noblecilla Atoche",
+        "profile_url": "https://www.facebook.com/josehumberto.noblecillaatoche?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzIwNzkxNDg1MTI4NDU1NDE%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 15,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzEyMzcyNzk5MzQ5ODY3Mzk%3D",
+      "text": "Rafael López Aliaga tus propuestas son inviables señor, sin sustento técnico, por ejemplo 1000 mil reservorios en Puno, dime y…",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222526,
+      "user": {
+        "id": "gilberto.cuevasilva",
+        "username": "gilberto.cuevasilva",
+        "display_name": "Gilberto Cueva Silva",
+        "profile_url": "https://www.facebook.com/gilberto.cuevasilva?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzEyMzcyNzk5MzQ5ODY3Mzk%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 16,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE4Njg0OTIwNzM3Nzk2MTQ%3D",
+      "text": "Rafael López Aliaga eres el cáncer para el Perú",
+      "likes": 1,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222526,
+      "user": {
+        "id": "cordova.onar",
+        "username": "cordova.onar",
+        "display_name": "Cordova Onar",
+        "profile_url": "https://www.facebook.com/cordova.onar?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE4Njg0OTIwNzM3Nzk2MTQ%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 17,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzIzNzczMzMxMzYwMzEzNTg%3D",
+      "text": "Jose Humberto Noblecilla Atoche jajajjaja a quien le pides , está más preocupado en ganar las elecciones y mantener la misma f…",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222526,
+      "user": {
+        "id": "severiano.tucta.robles.2025",
+        "username": "severiano.tucta.robles.2025",
+        "display_name": "Severiano Tucta Robles",
+        "profile_url": "https://www.facebook.com/severiano.tucta.robles.2025?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzIzNzczMzMxMzYwMzEzNTg%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 18,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE2MjAwMjU5MDYwNzc2NTA%3D",
+      "text": "Rafael López Aliaga",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222526,
+      "user": {
+        "id": "viviana.tapiacardenas",
+        "username": "viviana.tapiacardenas",
+        "display_name": "Viviana Tapia Cardenas",
+        "profile_url": "https://www.facebook.com/viviana.tapiacardenas?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE2MjAwMjU5MDYwNzc2NTA%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 19,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzEyMDcwODc2NjgxOTUwMTE%3D",
+      "text": "Rafael López Aliaga Señor Rafael ud tiene mi voto, le sugiero cuando vaya a entrevista aproveche la oportunidad de hablar de u…",
+      "likes": 1,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222527,
+      "user": {
+        "id": "martin.loayzaminaya",
+        "username": "martin.loayzaminaya",
+        "display_name": "Lm Jem",
+        "profile_url": "https://www.facebook.com/martin.loayzaminaya?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzEyMDcwODc2NjgxOTUwMTE%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 20,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzEyODg1MDgxMjk3MDQ3ODA%3D",
+      "text": "Porky presidente, caso cerrado.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222527,
+      "user": {
+        "id": "homar.uz",
+        "username": "homar.uz",
+        "display_name": "Homar Ushinahua Sánchez",
+        "profile_url": "https://www.facebook.com/homar.uz?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzEyODg1MDgxMjk3MDQ3ODA%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 21,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3Xzg5MDkwMDI3MDEwODA5MQ%3D%3D",
+      "text": "Homar Ushinahua Sánchez Lima potencia mundial de chatarras Fujizombie",
+      "likes": 1,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222527,
+      "user": {
+        "id": "profile.php",
+        "username": "profile.php",
+        "display_name": "Mariano Enrique Mario Palacios Vegas",
+        "profile_url": "https://www.facebook.com/profile.php?id=100061116947380&comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3Xzg5MDkwMDI3MDEwODA5MQ%3D%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 22,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzEzNDg5NzY1OTAyNDUzOTU%3D",
+      "text": "No más pobres en un país de ricos dices",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222527,
+      "user": {
+        "id": "anthony.morigabriel",
+        "username": "anthony.morigabriel",
+        "display_name": "Anthony Mori Gabriel",
+        "profile_url": "https://www.facebook.com/anthony.morigabriel?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzEzNDg5NzY1OTAyNDUzOTU%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 23,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE3MjU2MTYxNzUwNjcxOTc%3D",
+      "text": "Anthony Mori Gabriel te lo voy a explicar con manzanitas, Pedro Castillo dijo que un país rico como Perú en gastronomía, turis…",
+      "likes": 1,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222527,
+      "user": {
+        "id": "profile.php",
+        "username": "profile.php",
+        "display_name": "Mariano Enrique Mario Palacios Vegas",
+        "profile_url": "https://www.facebook.com/profile.php?id=100061116947380&comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE3MjU2MTYxNzUwNjcxOTc%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 24,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE1OTk2MjAxMjEyNzY3Mjg%3D",
+      "text": "PORKY PRESIDENTE EN PRIMERA VUELTA",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222527,
+      "user": {
+        "id": "rommel.arbildo.sandoval.farronan",
+        "username": "rommel.arbildo.sandoval.farronan",
+        "display_name": "Rommel Arbildo Sandoval Farroñan",
+        "profile_url": "https://www.facebook.com/rommel.arbildo.sandoval.farronan?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE1OTk2MjAxMjEyNzY3Mjg%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 25,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzMyMjUyMzQ3MzA5ODg0MjM%3D",
+      "text": "RLA.. ES EL UNICO QUE TIENE PROPUESTAS CLARAS",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222527,
+      "user": {
+        "id": "elmerraul.lopezccanto",
+        "username": "elmerraul.lopezccanto",
+        "display_name": "Elmer Raul Lopez Ccanto",
+        "profile_url": "https://www.facebook.com/elmerraul.lopezccanto?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzMyMjUyMzQ3MzA5ODg0MjM%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 26,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE0MzY4Mjk2MTEyODU2Mjk%3D",
+      "text": "…Y viables, tenemos un gran plan.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222527,
+      "user": {
+        "id": "RafaelLopezAliagaOficial",
+        "username": "RafaelLopezAliagaOficial",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "https://www.facebook.com/RafaelLopezAliagaOficial?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE0MzY4Mjk2MTEyODU2Mjk%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 27,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzIwMDQ3ODcwMDM2MzU3NDA%3D",
+      "text": "Porky en primera vuelta crjo !!!!!",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222527,
+      "user": {
+        "id": "gianmarco.ramirezcubas",
+        "username": "gianmarco.ramirezcubas",
+        "display_name": "Gianmarco Ramirez Cubas",
+        "profile_url": "https://www.facebook.com/gianmarco.ramirezcubas?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzIwMDQ3ODcwMDM2MzU3NDA%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 28,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE1Mzk0MDY5OTA2MDQzODc%3D",
+      "text": "Por mi Perú Rafael López Aliaga",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222527,
+      "user": {
+        "id": "helgamarianela.obandoarrieta",
+        "username": "helgamarianela.obandoarrieta",
+        "display_name": "Helga Marianela Obando Arrieta",
+        "profile_url": "https://www.facebook.com/helgamarianela.obandoarrieta?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE1Mzk0MDY5OTA2MDQzODc%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 29,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzEyMTg1ODA3NzAyNDE4Mjg%3D",
+      "text": "Helga Marianela Obando Arrieta Lima potencia mundial y botón de hambre Fujizombie",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222527,
+      "user": {
+        "id": "profile.php",
+        "username": "profile.php",
+        "display_name": "Mariano Enrique Mario Palacios Vegas",
+        "profile_url": "https://www.facebook.com/profile.php?id=100061116947380&comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzEyMTg1ODA3NzAyNDE4Mjg%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 30,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzEyMTgyNDkyMTA0NjE0ODA%3D",
+      "text": "Rafael López Aliaga Presidente de Perú en primera vuelta",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222528,
+      "user": {
+        "id": "profile.php",
+        "username": "profile.php",
+        "display_name": "Bruce Waynne",
+        "profile_url": "https://www.facebook.com/profile.php?id=61577743157713&comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzEyMTgyNDkyMTA0NjE0ODA%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 31,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzM0MzY3OTg4NTg5NDY3MTAy",
+      "text": "Porki Renovación Popular Pdte.del Perú .",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222528,
+      "user": {
+        "id": "pedro.leon.582454",
+        "username": "pedro.leon.582454",
+        "display_name": "Pedro Leon",
+        "profile_url": "https://www.facebook.com/pedro.leon.582454?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzM0MzY3OTg4NTg5NDY3MTAy&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 32,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzY1OTMzMDQ3NzIwNTc5MA%3D%3D",
+      "text": "Mávila tiene invitado o cree que es un monólogo?. Rafael López Aliaga presidente 2026",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222528,
+      "user": {
+        "id": "jacqueline.neyradeyra",
+        "username": "jacqueline.neyradeyra",
+        "display_name": "Jacqueline Neyra",
+        "profile_url": "https://www.facebook.com/jacqueline.neyradeyra?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzY1OTMzMDQ3NzIwNTc5MA%3D%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 33,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3Xzc0ODUxODQzMTE4MzUzNw%3D%3D",
+      "text": "Porkito presidente del Perú duela a quien la duela",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222528,
+      "user": {
+        "id": "profile.php",
+        "username": "profile.php",
+        "display_name": "Lita Arevalo",
+        "profile_url": "https://www.facebook.com/profile.php?id=100010030849002&comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3Xzc0ODUxODQzMTE4MzUzNw%3D%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 34,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzI1NjU1NDc2Njc0MTA5NDAw",
+      "text": "Su mirada lo dice todo ...debe ir a",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222528,
+      "user": {
+        "id": "anibalrafaels",
+        "username": "anibalrafaels",
+        "display_name": "Anibal Rafael Santisteban Amable",
+        "profile_url": "https://www.facebook.com/anibalrafaels?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzI1NjU1NDc2Njc0MTA5NDAw&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 35,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzExNzI4MjA1ODgzNDYwMDc%3D",
+      "text": "los hospitales Essalud y Minsa estan saturados en varias especialidades",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222528,
+      "user": {
+        "id": "quiero.ser.residente.2025",
+        "username": "quiero.ser.residente.2025",
+        "display_name": "Quiero Ser Residente",
+        "profile_url": "https://www.facebook.com/quiero.ser.residente.2025?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzExNzI4MjA1ODgzNDYwMDc%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 36,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3Xzg2MDI0NjQ2NjY0MzQzNg%3D%3D",
+      "text": "Debemos realizar una reforma total del Minsa y EsSalud, está en nuestro plan de gobierno.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222528,
+      "user": {
+        "id": "RafaelLopezAliagaOficial",
+        "username": "RafaelLopezAliagaOficial",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "https://www.facebook.com/RafaelLopezAliagaOficial?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3Xzg2MDI0NjQ2NjY0MzQzNg%3D%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 37,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzI1MzQxMDY1MDQ4OTI2ODg0",
+      "text": "Vamos porky yo te apoyo",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222528,
+      "user": {
+        "id": "ansil.villaltapaucar",
+        "username": "ansil.villaltapaucar",
+        "display_name": "Ansil Villalta Paucar",
+        "profile_url": "https://www.facebook.com/ansil.villaltapaucar?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzI1MzQxMDY1MDQ4OTI2ODg0&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 38,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3Xzg5NzM1Mjg1MzE1MTgxOQ%3D%3D",
+      "text": "Porky presidente",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222529,
+      "user": {
+        "id": "ReneChampi7",
+        "username": "ReneChampi7",
+        "display_name": "René Champi Huarca",
+        "profile_url": "https://www.facebook.com/ReneChampi7?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3Xzg5NzM1Mjg1MzE1MTgxOQ%3D%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 39,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3Xzg1MDg0MTE4Nzc2NDgzNg%3D%3D",
+      "text": "René Champi Huarca con las justas habla tres palabras seguidas y después tartamudear igual que acuña",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222529,
+      "user": {
+        "id": "profile.php",
+        "username": "profile.php",
+        "display_name": "Ronal Díaz Huamán",
+        "profile_url": "https://www.facebook.com/profile.php?id=61580646070129&comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3Xzg1MDg0MTE4Nzc2NDgzNg%3D%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 40,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzEzODIzMzM0NjI4OTg3OTk%3D",
+      "text": "René Champi Huarca serrno ignorante.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222529,
+      "user": {
+        "id": "jorgecolofox",
+        "username": "jorgecolofox",
+        "display_name": "Aqp Gonzales",
+        "profile_url": "https://www.facebook.com/jorgecolofox?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzEzODIzMzM0NjI4OTg3OTk%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 41,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzEyNTU4MjQ3NDMyNjI4OTQ%3D",
+      "text": "Párese que Mavila está en contra del candidato para cortando las propuestas",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222529,
+      "user": {
+        "id": "gladysyna.mv",
+        "username": "gladysyna.mv",
+        "display_name": "Gladys Mv",
+        "profile_url": "https://www.facebook.com/gladysyna.mv?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzEyNTU4MjQ3NDMyNjI4OTQ%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 42,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzkwMzY5MzU3NTM3MjA4OQ%3D%3D",
+      "text": "Mávila siempre estuvo en contra. Ella es caviar",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222529,
+      "user": {
+        "id": "jose.vela.ortega.2025",
+        "username": "jose.vela.ortega.2025",
+        "display_name": "Jose Vela Ortega",
+        "profile_url": "https://www.facebook.com/jose.vela.ortega.2025?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzkwMzY5MzU3NTM3MjA4OQ%3D%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 43,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE0MTIxMjc4MzM2NzA0Mzg%3D",
+      "text": "Rafael es Coherencia.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222529,
+      "user": {
+        "id": "nova.poezl",
+        "username": "nova.poezl",
+        "display_name": "Nova Poezl",
+        "profile_url": "https://www.facebook.com/nova.poezl?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE0MTIxMjc4MzM2NzA0Mzg%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 44,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE4MzE2NzYxNTA4MzA1MzU%3D",
+      "text": "Porky presidente 2026",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222529,
+      "user": {
+        "id": "profile.php",
+        "username": "profile.php",
+        "display_name": "Santiago Vasquez",
+        "profile_url": "https://www.facebook.com/profile.php?id=100009079477865&comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE4MzE2NzYxNTA4MzA1MzU%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 45,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzEwODE2NDE0MDczOTc5MDk%3D",
+      "text": "Porky cumple por favor!!",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222529,
+      "user": {
+        "id": "samuelmisiones",
+        "username": "samuelmisiones",
+        "display_name": "Samuel Mario Barreto Serrano",
+        "profile_url": "https://www.facebook.com/samuelmisiones?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzEwODE2NDE0MDczOTc5MDk%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 46,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzIzNDM0MjI3NTI4NDM4Nzc%3D",
+      "text": "Cumpliremos con todo lo propuesto, no los defraudaré.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222529,
+      "user": {
+        "id": "RafaelLopezAliagaOficial",
+        "username": "RafaelLopezAliagaOficial",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "https://www.facebook.com/RafaelLopezAliagaOficial?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzIzNDM0MjI3NTI4NDM4Nzc%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 47,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzkyMTAxMDY3MDQzNzUxOQ%3D%3D",
+      "text": "Porky presidente",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222530,
+      "user": {
+        "id": "dannyt4d",
+        "username": "dannyt4d",
+        "display_name": "Dan Cahu",
+        "profile_url": "https://www.facebook.com/dannyt4d?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzkyMTAxMDY3MDQzNzUxOQ%3D%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 48,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzI3ODMwMTUyNDUyMzM3NDk%3D",
+      "text": "Porky presidente",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222530,
+      "user": {
+        "id": "osoriojimenez.leonisa",
+        "username": "osoriojimenez.leonisa",
+        "display_name": "Osorio Jimènez Leonisa",
+        "profile_url": "https://www.facebook.com/osoriojimenez.leonisa?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzI3ODMwMTUyNDUyMzM3NDk%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 49,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE5OTI1NzYzNDEyOTA4MjE%3D",
+      "text": "Ancash esta contigo Porky",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222530,
+      "user": {
+        "id": "avilaalcalde",
+        "username": "avilaalcalde",
+        "display_name": "Rafael Avila Alcalde",
+        "profile_url": "https://www.facebook.com/avilaalcalde?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE5OTI1NzYzNDEyOTA4MjE%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 50,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3Xzg5OTM3NjI3OTIxNjUzMA%3D%3D",
+      "text": "Gracias Áncash, regresaré pronto.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222530,
+      "user": {
+        "id": "RafaelLopezAliagaOficial",
+        "username": "RafaelLopezAliagaOficial",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "https://www.facebook.com/RafaelLopezAliagaOficial?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3Xzg5OTM3NjI3OTIxNjUzMA%3D%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 51,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE0MTI2NDA4NjM3ODQwNjI%3D",
+      "text": "Rafael López Aliaga",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222530,
+      "user": {
+        "id": "mariateresa.saavedraacosta",
+        "username": "mariateresa.saavedraacosta",
+        "display_name": "Maria Teresa Saavedra Acosta",
+        "profile_url": "https://www.facebook.com/mariateresa.saavedraacosta?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE0MTI2NDA4NjM3ODQwNjI%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 52,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3Xzg3MTIzODc2MjQ1OTYyOA%3D%3D",
+      "text": "En primera .presidente",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222530,
+      "user": {
+        "id": "clara.arizola",
+        "username": "clara.arizola",
+        "display_name": "Clara Arizola",
+        "profile_url": "https://www.facebook.com/clara.arizola?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3Xzg3MTIzODc2MjQ1OTYyOA%3D%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 53,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzEyMDgzMzA5MzQ3NzE2OTY%3D",
+      "text": "El.mejor candidato",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222530,
+      "user": {
+        "id": "SofiiaLoren27",
+        "username": "SofiiaLoren27",
+        "display_name": "Sofi Lorenzo",
+        "profile_url": "https://www.facebook.com/SofiiaLoren27?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzEyMDgzMzA5MzQ3NzE2OTY%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 54,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE2MjA0NDIyMzU5Nzk1OTM%3D",
+      "text": "RLA presidente",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222530,
+      "user": {
+        "id": "eduardo.vicunatorres",
+        "username": "eduardo.vicunatorres",
+        "display_name": "Eduardo Vicuña Torres",
+        "profile_url": "https://www.facebook.com/eduardo.vicunatorres?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE2MjA0NDIyMzU5Nzk1OTM%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 55,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzEyMjQ5MTM2NzYyMzUxMDc%3D",
+      "text": "EL MEJOR CANDIDATO",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222531,
+      "user": {
+        "id": "SofiiaLoren27",
+        "username": "SofiiaLoren27",
+        "display_name": "Sofi Lorenzo",
+        "profile_url": "https://www.facebook.com/SofiiaLoren27?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzEyMjQ5MTM2NzYyMzUxMDc%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 56,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE4MDM4NTg2MzM1NjMyNTg%3D",
+      "text": "Porky presidente",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222531,
+      "user": {
+        "id": "edu.ventura.921100",
+        "username": "edu.ventura.921100",
+        "display_name": "Edu Ventura",
+        "profile_url": "https://www.facebook.com/edu.ventura.921100?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE4MDM4NTg2MzM1NjMyNTg%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 57,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE1MTA5MzkzOTMzMTEzODA%3D",
+      "text": "Todos estos proyectos se realizarán con Rafael López Aliaga.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222531,
+      "user": {
+        "id": "melixzamaribel.serranourbina",
+        "username": "melixzamaribel.serranourbina",
+        "display_name": "Melixza Maribel Serrano Urbina",
+        "profile_url": "https://www.facebook.com/melixzamaribel.serranourbina?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE1MTA5MzkzOTMzMTEzODA%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 58,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3Xzc1NzE1NzUwMDc3NDAyOA%3D%3D",
+      "text": "Por supuesto que sí.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222531,
+      "user": {
+        "id": "RafaelLopezAliagaOficial",
+        "username": "RafaelLopezAliagaOficial",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "https://www.facebook.com/RafaelLopezAliagaOficial?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3Xzc1NzE1NzUwMDc3NDAyOA%3D%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 59,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzkwMzY1MzM4MjE2NzY1Mw%3D%3D",
+      "text": "PORKY PRESIDENTE",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222531,
+      "user": {
+        "id": "josealfredo.leonjara.7",
+        "username": "josealfredo.leonjara.7",
+        "display_name": "Alfredo LJ",
+        "profile_url": "https://www.facebook.com/josealfredo.leonjara.7?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzkwMzY1MzM4MjE2NzY1Mw%3D%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 60,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzExNTAzNDEyNTY5NzEwNjc%3D",
+      "text": "Poyky presidente.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222531,
+      "user": {
+        "id": "renso.lovachepsky",
+        "username": "renso.lovachepsky",
+        "display_name": "Renso Lovachepsky",
+        "profile_url": "https://www.facebook.com/renso.lovachepsky?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzExNTAzNDEyNTY5NzEwNjc%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 61,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3Xzg2NjE2NDk3OTU1OTg4Mw%3D%3D",
+      "text": "A seguir avanzando",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222531,
+      "user": {
+        "id": "jackeline.barrientos.2025",
+        "username": "jackeline.barrientos.2025",
+        "display_name": "Jackeline Barrientos",
+        "profile_url": "https://www.facebook.com/jackeline.barrientos.2025?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3Xzg2NjE2NDk3OTU1OTg4Mw%3D%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 62,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE5MzE4MjYwNDc1NDE1OTQ%3D",
+      "text": "Porky presidente",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222531,
+      "user": {
+        "id": "juan.sanchezgonzales.716",
+        "username": "juan.sanchezgonzales.716",
+        "display_name": "Juan Sanchez Gonzales",
+        "profile_url": "https://www.facebook.com/juan.sanchezgonzales.716?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE5MzE4MjYwNDc1NDE1OTQ%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 63,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE0MjAyNDI1MjMwNjIxMzc%3D",
+      "text": "Excelente Rafael",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222531,
+      "user": {
+        "id": "richard.mp.7",
+        "username": "richard.mp.7",
+        "display_name": "Richards Anthony MP",
+        "profile_url": "https://www.facebook.com/richard.mp.7?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE0MjAyNDI1MjMwNjIxMzc%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 64,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE1OTgxMzkxNzQ1NDg5ODI%3D",
+      "text": "PORkY un Sr presidente",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222532,
+      "user": {
+        "id": "elisa.sarmiento.73",
+        "username": "elisa.sarmiento.73",
+        "display_name": "Elisa Sarmiento Ciccia",
+        "profile_url": "https://www.facebook.com/elisa.sarmiento.73?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE1OTgxMzkxNzQ1NDg5ODI%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 65,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzcyNzQ2NDgxMzQ5MTE5MQ%3D%3D",
+      "text": "Excelente !!!!!!",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222532,
+      "user": {
+        "id": "gianmarco.ramirezcubas",
+        "username": "gianmarco.ramirezcubas",
+        "display_name": "Gianmarco Ramirez Cubas",
+        "profile_url": "https://www.facebook.com/gianmarco.ramirezcubas?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzcyNzQ2NDgxMzQ5MTE5MQ%3D%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 66,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE0OTQzOTg1NjgzMjAzMjU%3D",
+      "text": "Buenas propuestas",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222532,
+      "user": {
+        "id": "reina.mejia.58958",
+        "username": "reina.mejia.58958",
+        "display_name": "Reina Mejia",
+        "profile_url": "https://www.facebook.com/reina.mejia.58958?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE0OTQzOTg1NjgzMjAzMjU%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 67,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3Xzg2MTE3NDY3MzI5Mjg2OQ%3D%3D",
+      "text": "El mejor candidato!!!",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222532,
+      "user": {
+        "id": "consuelo.laborianojulca",
+        "username": "consuelo.laborianojulca",
+        "display_name": "Consuelo Laboriano Julca",
+        "profile_url": "https://www.facebook.com/consuelo.laborianojulca?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3Xzg2MTE3NDY3MzI5Mjg2OQ%3D%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 68,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzEyMjQ5ODQ0ODMwNjcxMTg%3D",
+      "text": "Estoy contigo PORKY desde EEUU!!!",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222532,
+      "user": {
+        "id": "maria.urbizagastegui",
+        "username": "maria.urbizagastegui",
+        "display_name": "Maria Urbizagástegui Briones",
+        "profile_url": "https://www.facebook.com/maria.urbizagastegui?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzEyMjQ5ODQ0ODMwNjcxMTg%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 69,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzIwNDA1MDQ1MDMyNTAzMTY%3D",
+      "text": "Vamos Porkyyyyyy",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222532,
+      "user": {
+        "id": "SofiiaLoren27",
+        "username": "SofiiaLoren27",
+        "display_name": "Sofi Lorenzo",
+        "profile_url": "https://www.facebook.com/SofiiaLoren27?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzIwNDA1MDQ1MDMyNTAzMTY%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 70,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3Xzg4OTQ0OTgwNzE4NjEwNQ%3D%3D",
+      "text": "Rafael López Aliaga president 2026",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222532,
+      "user": {
+        "id": "Mary.costeniuc",
+        "username": "Mary.costeniuc",
+        "display_name": "Ldm Kenzie",
+        "profile_url": "https://www.facebook.com/Mary.costeniuc?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3Xzg4OTQ0OTgwNzE4NjEwNQ%3D%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 71,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzEyNDI0MDM1Nzc3NDA2Mjc%3D",
+      "text": "Ni una obra terminada en lima",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222533,
+      "user": {
+        "id": "profile.php",
+        "username": "profile.php",
+        "display_name": "Rogelio Machaca Amani",
+        "profile_url": "https://www.facebook.com/profile.php?id=61560640182836&comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzEyNDI0MDM1Nzc3NDA2Mjc%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 72,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE0NzQ5MDA2Njc5Nzc0MzQ%3D",
+      "text": "No te dejes desinformar, te invito a que también te informes por aquí.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222533,
+      "user": {
+        "id": "RafaelLopezAliagaOficial",
+        "username": "RafaelLopezAliagaOficial",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "https://www.facebook.com/RafaelLopezAliagaOficial?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE0NzQ5MDA2Njc5Nzc0MzQ%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 73,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE0NTg4MjY4OTI2MjgxMzA%3D",
+      "text": "Si gana ezquierda ignorante,el…",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222533,
+      "user": {
+        "id": "julio.herrera.561423",
+        "username": "julio.herrera.561423",
+        "display_name": "Julio Herrera",
+        "profile_url": "https://www.facebook.com/julio.herrera.561423?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE0NTg4MjY4OTI2MjgxMzA%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 74,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE0MDI0NTU0NzQ2NTI1MTE%3D",
+      "text": "Con razón tú nombre es Rogelio",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222533,
+      "user": {
+        "id": "samuel.lopez.0118",
+        "username": "samuel.lopez.0118",
+        "display_name": "Samuel Lopez",
+        "profile_url": "https://www.facebook.com/samuel.lopez.0118?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE0MDI0NTU0NzQ2NTI1MTE%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 75,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE4OTExMTgyMTUxMjY2NTc%3D",
+      "text": "Rogelio Machaca Amani como q no, investiga hermano",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222533,
+      "user": {
+        "id": "wilder.fernandezflores",
+        "username": "wilder.fernandezflores",
+        "display_name": "Wilder Fernandez Flores",
+        "profile_url": "https://www.facebook.com/wilder.fernandezflores?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE4OTExMTgyMTUxMjY2NTc%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 76,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzEyMTU2OTg4MzczNDAwNzk%3D",
+      "text": "Rogelio Machaca Amani y tus alcaldes rojitos q obras hicieron aparte de robar",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222533,
+      "user": {
+        "id": "wilder.fernandezflores",
+        "username": "wilder.fernandezflores",
+        "display_name": "Wilder Fernandez Flores",
+        "profile_url": "https://www.facebook.com/wilder.fernandezflores?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzEyMTU2OTg4MzczNDAwNzk%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 77,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE1MDIzNzE3NTc0OTU4Nzk%3D",
+      "text": "Infórmate un poquito más Rogelio",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222533,
+      "user": {
+        "id": "anabel.chavarria98284",
+        "username": "anabel.chavarria98284",
+        "display_name": "Anabela Chavarria",
+        "profile_url": "https://www.facebook.com/anabel.chavarria98284?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE1MDIzNzE3NTc0OTU4Nzk%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 78,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzExNjQyNDY4Njg4NDQzNDQ%3D",
+      "text": "Rogelio Machaca Amani estás ciego o no haz pasado por los lugares en dónde empezó las obras,debes de ir a ver amigo y no hable…",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222533,
+      "user": {
+        "id": "elsa.r.roldan.denegri",
+        "username": "elsa.r.roldan.denegri",
+        "display_name": "Elsa R. Roldan Denegri",
+        "profile_url": "https://www.facebook.com/elsa.r.roldan.denegri?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzExNjQyNDY4Njg4NDQzNDQ%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 79,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzY2NTE5MDYwNjYwNTgyNA%3D%3D",
+      "text": "Ahí está la respuesta y el odio de esa rosa María palacios corrupta",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222533,
+      "user": {
+        "id": "gino.gardin",
+        "username": "gino.gardin",
+        "display_name": "Gino Alexander Zamora Gardin",
+        "profile_url": "https://www.facebook.com/gino.gardin?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzY2NTE5MDYwNjYwNTgyNA%3D%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 80,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzEyMTgyNTU0NzI5OTQ0MTA%3D",
+      "text": "Porki no serás jamás presidente no cumples la talla",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222534,
+      "user": {
+        "id": "indiohuamani",
+        "username": "indiohuamani",
+        "display_name": "Roger Juarez Huamani",
+        "profile_url": "https://www.facebook.com/indiohuamani?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzEyMTgyNTU0NzI5OTQ0MTA%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 81,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzIwNjczNjY3MTczODQ5OTc%3D",
+      "text": "Para ti, felizmente tu no decides por todo el país",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222534,
+      "user": {
+        "id": "silvi.laimeparizaca",
+        "username": "silvi.laimeparizaca",
+        "display_name": "Haydee Silvia",
+        "profile_url": "https://www.facebook.com/silvi.laimeparizaca?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzIwNjczNjY3MTczODQ5OTc%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 82,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE0MDUxMTU5OTExMDE0NzI%3D",
+      "text": "Ya veremos, hermano. Porque hasta donde veo somos los únicos que tenemos propuestas coherentes, no populistas.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222534,
+      "user": {
+        "id": "RafaelLopezAliagaOficial",
+        "username": "RafaelLopezAliagaOficial",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "https://www.facebook.com/RafaelLopezAliagaOficial?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE0MDUxMTU5OTExMDE0NzI%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 83,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3Xzg3NTAxNDIxNTE3MDE5NQ%3D%3D",
+      "text": "Rafael López Aliaga",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222534,
+      "user": {
+        "id": "titoarcadio.humpiremamani",
+        "username": "titoarcadio.humpiremamani",
+        "display_name": "Tito Humpire",
+        "profile_url": "https://www.facebook.com/titoarcadio.humpiremamani?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3Xzg3NTAxNDIxNTE3MDE5NQ%3D%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 84,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzkwNDU1MDczNTQ3Nzg3Mg%3D%3D",
+      "text": "Roger Juarez Huamani tu maduro si ,,,jaja o tu cuba",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222534,
+      "user": {
+        "id": "mariella.sealiterrones.1",
+        "username": "mariella.sealiterrones.1",
+        "display_name": "Mariella Seali Terrones",
+        "profile_url": "https://www.facebook.com/mariella.sealiterrones.1?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzkwNDU1MDczNTQ3Nzg3Mg%3D%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 85,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzY3ODIxNDY4MTk0ODcxNQ%3D%3D",
+      "text": "Roger Juarez Huamani porky presidente",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222534,
+      "user": {
+        "id": "rg.falcon.716",
+        "username": "rg.falcon.716",
+        "display_name": "RG Falcon",
+        "profile_url": "https://www.facebook.com/rg.falcon.716?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzY3ODIxNDY4MTk0ODcxNQ%3D%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 86,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzEzMDg5ODIxODEyNjk1NDA%3D",
+      "text": "Roger Juarez Huamani según tu Quin cumple la talla",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222534,
+      "user": {
+        "id": "hilda.vargas.9022662",
+        "username": "hilda.vargas.9022662",
+        "display_name": "Hilda Vargas",
+        "profile_url": "https://www.facebook.com/hilda.vargas.9022662?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzEzMDg5ODIxODEyNjk1NDA%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 87,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzI1MjgyNjcyNTA4MDk5MDk5",
+      "text": "Lo sentimos, Porky será nuestro Presidente del Perú",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222534,
+      "user": {
+        "id": "anabel.chavarria98284",
+        "username": "anabel.chavarria98284",
+        "display_name": "Anabela Chavarria",
+        "profile_url": "https://www.facebook.com/anabel.chavarria98284?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzI1MjgyNjcyNTA4MDk5MDk5&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 88,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzExOTc1NDQ5Njg2NzYwNzU%3D",
+      "text": "Rafael en primera vuelta el más capacitado de todos. De lejos el mejor",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222534,
+      "user": {
+        "id": "jenny.m.giron",
+        "username": "jenny.m.giron",
+        "display_name": "Jen Fer",
+        "profile_url": "https://www.facebook.com/jenny.m.giron?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzExOTc1NDQ5Njg2NzYwNzU%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 89,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE2NzIxOTg2Mjc0NDcwNzg%3D",
+      "text": "Roger Juarez Huamani vives en el pasado mano. Te gusta sufrir. Piensa analiza tu resentimiento no ayuda. Cambia el foco",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222534,
+      "user": {
+        "id": "jorge.cortijoalfaro",
+        "username": "jorge.cortijoalfaro",
+        "display_name": "Giorgio Cortijo Alfaro",
+        "profile_url": "https://www.facebook.com/jorge.cortijoalfaro?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE2NzIxOTg2Mjc0NDcwNzg%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 90,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE0MjA1NTg1Mzk3MTU1ODU%3D",
+      "text": "Porky ganador",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222535,
+      "user": {
+        "id": "jose.miranda.33865854",
+        "username": "jose.miranda.33865854",
+        "display_name": "Pepe Miranda",
+        "profile_url": "https://www.facebook.com/jose.miranda.33865854?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE0MjA1NTg1Mzk3MTU1ODU%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 91,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzIwNTMyMzAwNDU1MDEyODk%3D",
+      "text": "Rafael es lo maximo",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222535,
+      "user": {
+        "id": "esteban.loyola1",
+        "username": "esteban.loyola1",
+        "display_name": "Beto De Comas - La Mar",
+        "profile_url": "https://www.facebook.com/esteban.loyola1?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzIwNTMyMzAwNDU1MDEyODk%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 92,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE1NDk5MjM1ODI3NDc5NjI%3D",
+      "text": "Señor presidente…!!!",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222535,
+      "user": {
+        "id": "willy.teves.3",
+        "username": "willy.teves.3",
+        "display_name": "Willy Teves",
+        "profile_url": "https://www.facebook.com/willy.teves.3?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE1NDk5MjM1ODI3NDc5NjI%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 93,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE1MjY4MjQ5Nzg0MzA4NzE%3D",
+      "text": "PORKY SI CUNPLE",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222535,
+      "user": {
+        "id": "emperatriz.turismoyviajes",
+        "username": "emperatriz.turismoyviajes",
+        "display_name": "Emperatriz Moreno",
+        "profile_url": "https://www.facebook.com/emperatriz.turismoyviajes?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE1MjY4MjQ5Nzg0MzA4NzE%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 94,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3Xzg3OTk4MDE1ODIxMjU1Mg%3D%3D",
+      "text": "Borrachito feliz",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222535,
+      "user": {
+        "id": "carlos.poma.923171",
+        "username": "carlos.poma.923171",
+        "display_name": "Carlos Poma",
+        "profile_url": "https://www.facebook.com/carlos.poma.923171?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3Xzg3OTk4MDE1ODIxMjU1Mg%3D%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 95,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzkxODg1MDg1NzIzNzAzMQ%3D%3D",
+      "text": "Feliz de trabajar por mi país sí, lo otro no, no te dejes desinformar mi hermano.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222535,
+      "user": {
+        "id": "RafaelLopezAliagaOficial",
+        "username": "RafaelLopezAliagaOficial",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "https://www.facebook.com/RafaelLopezAliagaOficial?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzkxODg1MDg1NzIzNzAzMQ%3D%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 96,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzgwNTYwNTcxMTkzODU0Mw%3D%3D",
+      "text": "Denuncialo Rafael por difamación",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222535,
+      "user": {
+        "id": "daysi.garay",
+        "username": "daysi.garay",
+        "display_name": "Daysi Garay",
+        "profile_url": "https://www.facebook.com/daysi.garay?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzgwNTYwNTcxMTkzODU0Mw%3D%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 97,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzgzMTE4NDIyOTk2NjIzOA%3D%3D",
+      "text": "Los políticos de ahora son la tribulación que habla en la biblia , estamos en lo peores tiempos",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222535,
+      "user": {
+        "id": "dany.ramirezcarhuapoma",
+        "username": "dany.ramirezcarhuapoma",
+        "display_name": "Dany Ramirez",
+        "profile_url": "https://www.facebook.com/dany.ramirezcarhuapoma?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzgzMTE4NDIyOTk2NjIzOA%3D%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 98,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3Xzc3Mzg4OTQwNTA1OTQ5MA%3D%3D",
+      "text": "¿Estas diciendo que los cristianos no podemos ser políticos? No tiene sentido, hermano.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222535,
+      "user": {
+        "id": "RafaelLopezAliagaOficial",
+        "username": "RafaelLopezAliagaOficial",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "https://www.facebook.com/RafaelLopezAliagaOficial?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3Xzc3Mzg4OTQwNTA1OTQ5MA%3D%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 99,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzkwOTAyMDk1NDc5ODEyNg%3D%3D",
+      "text": "Está drogo",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222536,
+      "user": {
+        "id": "eder.leonardocarrillo",
+        "username": "eder.leonardocarrillo",
+        "display_name": "Leo Eder",
+        "profile_url": "https://www.facebook.com/eder.leonardocarrillo?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzkwOTAyMDk1NDc5ODEyNg%3D%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 100,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzEyMDQxMTQyODEyODk2ODA%3D",
+      "text": "Calla especial",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222536,
+      "user": {
+        "id": "paul.tello.lavado",
+        "username": "paul.tello.lavado",
+        "display_name": "Paul Tello Lavado",
+        "profile_url": "https://www.facebook.com/paul.tello.lavado?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzEyMDQxMTQyODEyODk2ODA%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 101,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzM0NzIwOTEzOTYyNzg2ODY%3D",
+      "text": "Leo Eder deja de escribir tonterías rojo",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222536,
+      "user": {
+        "id": "chriss.santos.94214",
+        "username": "chriss.santos.94214",
+        "display_name": "Ana Chriss Santos",
+        "profile_url": "https://www.facebook.com/chriss.santos.94214?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzM0NzIwOTEzOTYyNzg2ODY%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 102,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3Xzg3NjM1MzIzMTY3MDA5OQ%3D%3D",
+      "text": "Leo Eder ella está con tremendo supositorio",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222536,
+      "user": {
+        "id": "walop",
+        "username": "walop",
+        "display_name": "Walter Portilla",
+        "profile_url": "https://www.facebook.com/walop?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3Xzg3NjM1MzIzMTY3MDA5OQ%3D%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 103,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzI1NzQwNjA4ODQyMjkyMTcy",
+      "text": "Gracias a Dios no tengo esos hábitos, hermano.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222536,
+      "user": {
+        "id": "RafaelLopezAliagaOficial",
+        "username": "RafaelLopezAliagaOficial",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "https://www.facebook.com/RafaelLopezAliagaOficial?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzI1NzQwNjA4ODQyMjkyMTcy&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 104,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzExODkyOTE4NzMzMjAyMjM%3D",
+      "text": "No le hagas caso. Da pena",
+      "likes": 1,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222536,
+      "user": {
+        "id": "MAJHONE182",
+        "username": "MAJHONE182",
+        "display_name": "Majhone Majhone",
+        "profile_url": "https://www.facebook.com/MAJHONE182?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzExODkyOTE4NzMzMjAyMjM%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 105,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzEzMjc2NTYwNjkxNjc4MDc%3D",
+      "text": "Tu papá cuando te fabricó",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222536,
+      "user": {
+        "id": "cristian.flores.98434997",
+        "username": "cristian.flores.98434997",
+        "display_name": "Cristian Flores",
+        "profile_url": "https://www.facebook.com/cristian.flores.98434997?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzEzMjc2NTYwNjkxNjc4MDc%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 106,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3Xzg2OTU1MDIxOTE2NTQ3Mw%3D%3D",
+      "text": "Todos son bla,bla",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222536,
+      "user": {
+        "id": "thais.carrillo.961",
+        "username": "thais.carrillo.961",
+        "display_name": "Carillo Carrillo",
+        "profile_url": "https://www.facebook.com/thais.carrillo.961?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3Xzg2OTU1MDIxOTE2NTQ3Mw%3D%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 107,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzIxNjIxMDE1MDQ1MzQ4MzA%3D",
+      "text": "Nosotros no, más que solo palabras, nosotros ejecutamos.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222536,
+      "user": {
+        "id": "RafaelLopezAliagaOficial",
+        "username": "RafaelLopezAliagaOficial",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "https://www.facebook.com/RafaelLopezAliagaOficial?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzIxNjIxMDE1MDQ1MzQ4MzA%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 108,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzIyODMzMzEzODIxODYyNDM%3D",
+      "text": "Rafael López Aliaga tu eres un chatarrero. Cómplice de corrupción.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222536,
+      "user": {
+        "id": "freddy.ugarte.714",
+        "username": "freddy.ugarte.714",
+        "display_name": "Freddy Ugarte Reyes",
+        "profile_url": "https://www.facebook.com/freddy.ugarte.714?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzIyODMzMzEzODIxODYyNDM%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 109,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzczMDAzMTA0MzIwMTAwMQ%3D%3D",
+      "text": "Carillo Carrillo Rafael no sólo habla, también produce obras .informate",
+      "likes": 1,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222536,
+      "user": {
+        "id": "BrenGuiReyna",
+        "username": "BrenGuiReyna",
+        "display_name": "Brenda Guinet",
+        "profile_url": "https://www.facebook.com/BrenGuiReyna?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzczMDAzMTA0MzIwMTAwMQ%3D%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 110,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE0MDM1Mzg1NTQ1NDU5OTE%3D",
+      "text": "buen floro de Porky",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222537,
+      "user": {
+        "id": "carlos.hv.903751",
+        "username": "carlos.hv.903751",
+        "display_name": "Carlos HV",
+        "profile_url": "https://www.facebook.com/carlos.hv.903751?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE0MDM1Mzg1NTQ1NDU5OTE%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 111,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3Xzg1NTQ1MTE0NzMyNzQ0MA%3D%3D",
+      "text": "Aquí no solo somos palabritas, aquí ejecutamos. ¡No más vagos y vividores en el Estado!",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222537,
+      "user": {
+        "id": "RafaelLopezAliagaOficial",
+        "username": "RafaelLopezAliagaOficial",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "https://www.facebook.com/RafaelLopezAliagaOficial?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3Xzg1NTQ1MTE0NzMyNzQ0MA%3D%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 112,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3Xzc1MjM4MzczMTI1NDk1NQ%3D%3D",
+      "text": "No más pobres en un país rico!",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222537,
+      "user": {
+        "id": "juliocesar.a.ortiz.7",
+        "username": "juliocesar.a.ortiz.7",
+        "display_name": "Ortiz Cesar",
+        "profile_url": "https://www.facebook.com/juliocesar.a.ortiz.7?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3Xzc1MjM4MzczMTI1NDk1NQ%3D%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 113,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE2MDIzNzg0NDA3OTYyNjY%3D",
+      "text": "Carlos HV",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222537,
+      "user": {
+        "id": "BrenGuiReyna",
+        "username": "BrenGuiReyna",
+        "display_name": "Brenda Guinet",
+        "profile_url": "https://www.facebook.com/BrenGuiReyna?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE2MDIzNzg0NDA3OTYyNjY%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 114,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE5MDEwNTgwMjA0OTc4MjU%3D",
+      "text": "a que hora las ideas , chat gtp tiene mejor criterio e ideas",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222537,
+      "user": {
+        "id": "tokyo.ghoul.568475",
+        "username": "tokyo.ghoul.568475",
+        "display_name": "Tokyo Ghoul",
+        "profile_url": "https://www.facebook.com/tokyo.ghoul.568475?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE5MDEwNTgwMjA0OTc4MjU%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 115,
+      "comment_id": "Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE2NTA1NTIzMzYzMTMzNTQ%3D",
+      "text": "Te invito a descargar mis propuestas, hermano.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769222537,
+      "user": {
+        "id": "RafaelLopezAliagaOficial",
+        "username": "RafaelLopezAliagaOficial",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "https://www.facebook.com/RafaelLopezAliagaOficial?comment_id=Y29tbWVudDoxMzYyNDQ4MDU4NTQxMzU3XzE2NTA1NTIzMzYzMTMzNTQ%3D&__tn__=R-R",
+        "verified": false
+      },
+      "parent_comment_id": null
+    }
+  ],
+  "comments_count": 115,
+  "scrape_duration_seconds": 1024.055230140686,
+  "error": null
+}

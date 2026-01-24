@@ -178,13 +178,31 @@ class TikTokScraper(BaseScraper):
                 # Load cookies only for new browser
                 await self._load_cookies(context)
 
-            page = await context.new_page()
+            # Use existing page if available (better session state), or create new one
+            if using_cdp and context.pages:
+                page = context.pages[0]
+                print("   Usando pestaña existente")
+            else:
+                page = await context.new_page()
+
             self.page = page
             self.context = context
 
             try:
                 print(f"🔗 Navegando a: {url}")
-                await page.goto(url, wait_until="domcontentloaded", timeout=60000)
+                try:
+                    await page.goto(url, wait_until="domcontentloaded", timeout=60000)
+                except Exception as nav_error:
+                    # If navigation fails, try with networkidle or just wait
+                    if "ERR_HTTP_RESPONSE_CODE_FAILURE" in str(nav_error):
+                        print("   ⚠️ Error HTTP - reintentando con diferente estrategia...")
+                        await page.wait_for_timeout(2000)
+                        # Try going to TikTok home first, then to the video
+                        await page.goto("https://www.tiktok.com", wait_until="domcontentloaded", timeout=30000)
+                        await page.wait_for_timeout(2000)
+                        await page.goto(url, wait_until="commit", timeout=60000)
+                    else:
+                        raise nav_error
 
                 # Wait longer for page to fully load
                 print("⏳ Esperando que la página cargue...")

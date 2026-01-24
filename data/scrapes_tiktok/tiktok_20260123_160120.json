@@ -1,0 +1,1066 @@
+{
+  "platform": "tiktok",
+  "source_url": "https://www.tiktok.com/@rafael_lopez_aliaga/video/7597210961434414356",
+  "extracted_at": "2026-01-23T16:00:47.502480",
+  "post": {
+    "post_id": "7597210961434414356",
+    "text": "evapartis coca cola de vidrio ",
+    "author": {
+      "id": "",
+      "name": "",
+      "username": "",
+      "profile_url": "",
+      "profile_picture": "",
+      "verified": false
+    },
+    "likes": 5198,
+    "comments_total": 296,
+    "shares": 202,
+    "views": 0,
+    "created_at": 0,
+    "attachments": [],
+    "extra_metrics": {}
+  },
+  "comments": [
+    {
+      "index": 1,
+      "comment_id": "1",
+      "text": "SIIIIII SACARON A PATRICIA CHIRINOS, AHORA SI PORKY TIENES MI VOTO",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769202080,
+      "user": {
+        "id": "jorgetest98",
+        "username": "Jorgetest",
+        "display_name": "Jorgetest",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 2,
+      "comment_id": "2",
+      "text": "Para eso sí son rápidos, ¿no?",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769202080,
+      "user": {
+        "id": "rafael_lopez_aliaga",
+        "username": "Rafael López Aliaga",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 3,
+      "comment_id": "3",
+      "text": "imagínense a Rafael López Aliaga dando mensaje a la nación solo imagínense...😅😅😅😅😅.........una verguenza",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769202080,
+      "user": {
+        "id": "user345345127",
+        "username": "user34534512",
+        "display_name": "user34534512",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 4,
+      "comment_id": "4",
+      "text": "Eliminarás a los miserables del ATU?",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769202080,
+      "user": {
+        "id": "josealva26",
+        "username": "Jose alva 🪐",
+        "display_name": "Jose alva 🪐",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 5,
+      "comment_id": "5",
+      "text": "Vamos con paso firme!!! Aliaga Presidente!!",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769202080,
+      "user": {
+        "id": "joel59760",
+        "username": "Joel Huanca Juarez",
+        "display_name": "Joel Huanca Juarez",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 6,
+      "comment_id": "6",
+      "text": "mi querido Ancash 💙💙💙💙",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769202080,
+      "user": {
+        "id": "zule.zisa",
+        "username": "Zule",
+        "display_name": "Zule",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 7,
+      "comment_id": "7",
+      "text": "Siempre es lindo volverlos a ver.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769202080,
+      "user": {
+        "id": "rafael_lopez_aliaga",
+        "username": "Rafael López Aliaga",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 8,
+      "comment_id": "8",
+      "text": "La ciudad pagando su incompetencia!!",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769202080,
+      "user": {
+        "id": "eduardo.lizarzabu",
+        "username": "Eduardo Lizarzaburu",
+        "display_name": "Eduardo Lizarzaburu",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 9,
+      "comment_id": "9",
+      "text": "Mi voto es para ti porky 🩵🇵🇪👏",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769202080,
+      "user": {
+        "id": "rosario.ramirez249",
+        "username": "Patricia A. Ramirez🦋",
+        "display_name": "Patricia A. Ramirez🦋",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 10,
+      "comment_id": "10",
+      "text": "Rafael tu serás el próximo presidente.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769202080,
+      "user": {
+        "id": "miriamportal0",
+        "username": "miriamportal0",
+        "display_name": "miriamportal0",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 11,
+      "comment_id": "11",
+      "text": "futuro presidente del Perú 😄",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769202080,
+      "user": {
+        "id": "rjeniffer7",
+        "username": "rjeniffer",
+        "display_name": "rjeniffer",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 12,
+      "comment_id": "12",
+      "text": "Que se sentirá que te salude porky :v",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769202080,
+      "user": {
+        "id": "yupox88",
+        "username": "Ö(a2)📸",
+        "display_name": "Ö(a2)📸",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 13,
+      "comment_id": "13",
+      "text": "Saludos, hermano.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769202080,
+      "user": {
+        "id": "rafael_lopez_aliaga",
+        "username": "Rafael López Aliaga",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 14,
+      "comment_id": "14",
+      "text": "🌊🌊🌊🫰🏻 [sticker]",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769202080,
+      "user": {
+        "id": "bel.mateo",
+        "username": "Bel",
+        "display_name": "Bel",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 15,
+      "comment_id": "15",
+      "text": "[sticker]",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769202080,
+      "user": {
+        "id": "sawita804",
+        "username": "sawita804",
+        "display_name": "sawita804",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 16,
+      "comment_id": "16",
+      "text": "[sticker]",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769202080,
+      "user": {
+        "id": "yelkon.ch.f",
+        "username": "YELKON.CH",
+        "display_name": "YELKON.CH",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 17,
+      "comment_id": "17",
+      "text": "[sticker]",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769202080,
+      "user": {
+        "id": "vip_nctzen",
+        "username": "VIP_my.NCTzen",
+        "display_name": "VIP_my.NCTzen",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 18,
+      "comment_id": "18",
+      "text": "💙💙💙💪🏻 [sticker]",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769202080,
+      "user": {
+        "id": "kesi2266",
+        "username": "KESI🌼🤠",
+        "display_name": "KESI🌼🤠",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 19,
+      "comment_id": "19",
+      "text": "Mi Ancash querido, siempre con su Banda y sus fiestas patronales mi voto y de mi familia por Rafael Lopeza Aliga Futuro presidente del Perú🇵🇪🇵🇪🇵🇪 y los amigos de PRONAMACHCS estamos con usted y el Ing Absalon Vasquez Senador Nacional #5",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769202080,
+      "user": {
+        "id": "viquirojas0",
+        "username": "Vicky Rojas",
+        "display_name": "Vicky Rojas",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 20,
+      "comment_id": "20",
+      "text": "Con el favor de Dios serás el presidente del PERÚ 🇵🇪 👏👏👏👏",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769202080,
+      "user": {
+        "id": "shem.israel6",
+        "username": "Shemá Israel",
+        "display_name": "Shemá Israel",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 21,
+      "comment_id": "21",
+      "text": "vamos R por nuestros adultos pensión digna",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769202080,
+      "user": {
+        "id": "abel.lqabel.leon",
+        "username": "Abel.LQAbel Leon",
+        "display_name": "Abel.LQAbel Leon",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 22,
+      "comment_id": "22",
+      "text": "Cómo es el finjimientoo Estás para actor oee",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769202080,
+      "user": {
+        "id": "debatespodemosperu",
+        "username": "Cómodus_PP",
+        "display_name": "Cómodus_PP",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 23,
+      "comment_id": "23",
+      "text": "De la selva, yo y mis familia votaré por ti , próximo presidente porky vamosss👏",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769202080,
+      "user": {
+        "id": "elmarce42",
+        "username": "MANUEL LANCHA 🧃",
+        "display_name": "MANUEL LANCHA 🧃",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 24,
+      "comment_id": "24",
+      "text": "¡Gracias, que siga creciendo nuestra ola celeste!",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769202080,
+      "user": {
+        "id": "rafael_lopez_aliaga",
+        "username": "Rafael López Aliaga",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 25,
+      "comment_id": "25",
+      "text": "he no he visto a ningún candidato que ha llegado a provincia de Junín hasta el momento",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769202080,
+      "user": {
+        "id": "brayham07",
+        "username": "brayham",
+        "display_name": "brayham",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 26,
+      "comment_id": "26",
+      "text": "señor Rafael voté por usted para que seas mi alcalde de Lima y no me arrepiento y ojalá tampoco me arrepienta de votar por usted como nuestro presidente que Dios te bendiga que Dios te guarde que Dios te ayude",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769202080,
+      "user": {
+        "id": "lamesaredonda",
+        "username": "Dina Romero",
+        "display_name": "Dina Romero",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 27,
+      "comment_id": "27",
+      "text": "Tenías mi voto 🥺 Pero lo que pasa con la vía expresa, no puedo ignorarlo 😥",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769202080,
+      "user": {
+        "id": "cecilia.castle",
+        "username": "Cecilia",
+        "display_name": "Cecilia",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 28,
+      "comment_id": "28",
+      "text": "Vamos Rafael, si se puede 💪",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769202080,
+      "user": {
+        "id": "carloscelisaa",
+        "username": "Carlos Andrés",
+        "display_name": "Carlos Andrés",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 29,
+      "comment_id": "29",
+      "text": "cuando por Apurímac",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769202080,
+      "user": {
+        "id": "antonio_vargas_diaz",
+        "username": "antonio_vargas_diaz",
+        "display_name": "antonio_vargas_diaz",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 30,
+      "comment_id": "30",
+      "text": "Muy pronto, hermano.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769202080,
+      "user": {
+        "id": "rafael_lopez_aliaga",
+        "username": "Rafael López Aliaga",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 31,
+      "comment_id": "31",
+      "text": "Ya fueron no pasa nada . Lopes Chau presidente",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769202080,
+      "user": {
+        "id": "ciroquezada",
+        "username": "Ciroquezada",
+        "display_name": "Ciroquezada",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 32,
+      "comment_id": "32",
+      "text": "¡Protejamos nuestras reservas!",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769202080,
+      "user": {
+        "id": "rafael_lopez_aliaga",
+        "username": "Rafael López Aliaga",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 33,
+      "comment_id": "33",
+      "text": "soy pallasquino y estamos contigo porki en primera vuelta ganaremos",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769202080,
+      "user": {
+        "id": "diotf26",
+        "username": "flaco",
+        "display_name": "flaco",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 34,
+      "comment_id": "34",
+      "text": "Gracias por el apoyo, hermano.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769202080,
+      "user": {
+        "id": "rafael_lopez_aliaga",
+        "username": "Rafael López Aliaga",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 35,
+      "comment_id": "35",
+      "text": "Cuando vienes a sur de Perú Cusco y Puno te espera",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769202080,
+      "user": {
+        "id": "patrickcondori330",
+        "username": "patrick",
+        "display_name": "patrick",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 36,
+      "comment_id": "36",
+      "text": "Espero reencontrarnos el próximo mes en una gira por todo el Sur del Perú.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769202080,
+      "user": {
+        "id": "rafael_lopez_aliaga",
+        "username": "Rafael López Aliaga",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 37,
+      "comment_id": "37",
+      "text": "Porky un saludo tienes mi voto",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769202080,
+      "user": {
+        "id": ".royen12",
+        "username": "rivaldo,🥹♥️🙈",
+        "display_name": "rivaldo,🥹♥️🙈",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 38,
+      "comment_id": "38",
+      "text": "Saludos, hermano Rivaldo.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769202080,
+      "user": {
+        "id": "rafael_lopez_aliaga",
+        "username": "Rafael López Aliaga",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 39,
+      "comment_id": "39",
+      "text": "Se siente buena vibra de la gente abrazos sinceros, sonrisas contagiosa y el chanchito marrón muy bonito.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769202080,
+      "user": {
+        "id": "jj951178",
+        "username": "JJ",
+        "display_name": "JJ",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 40,
+      "comment_id": "40",
+      "text": "Es el cariño real de la gente.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769202080,
+      "user": {
+        "id": "rafael_lopez_aliaga",
+        "username": "Rafael López Aliaga",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 41,
+      "comment_id": "41",
+      "text": "Esta vez si serás nuestro Presidente Rafael López Aliaga! El pueblo está abriendo los ojos, por fin!🦾🦾🩵",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769202080,
+      "user": {
+        "id": "dely2821",
+        "username": "Dely Juro",
+        "display_name": "Dely Juro",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 42,
+      "comment_id": "42",
+      "text": "Gracias a todos mis hermanos de cada rincón del Áncash por su recibimiento.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769202080,
+      "user": {
+        "id": "rafael_lopez_aliaga",
+        "username": "Rafael López Aliaga",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 43,
+      "comment_id": "43",
+      "text": "Que Dios lo proteja 🙏 siempre y que llegue al Palacio de Gobierno.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769202080,
+      "user": {
+        "id": "angieviana2446",
+        "username": "AngieViana2446",
+        "display_name": "AngieViana2446",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 44,
+      "comment_id": "44",
+      "text": "Con Dios todo.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769202080,
+      "user": {
+        "id": "rafael_lopez_aliaga",
+        "username": "Rafael López Aliaga",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 45,
+      "comment_id": "45",
+      "text": "Rafael...estoy buscando contactarme con usted...para promocionar su campaña presidencial!...le escribí al interno...",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769202080,
+      "user": {
+        "id": "miguel_la_rosa_m",
+        "username": "Miguel La Rosa M",
+        "display_name": "Miguel La Rosa M",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 46,
+      "comment_id": "46",
+      "text": "🤗😎🤗En primera vuelta tío Porki",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769202080,
+      "user": {
+        "id": "geremias445",
+        "username": "𝐆𝐄𝐑𝐄𝐌𝐈𝐀𝐒 🏆🔟🍺",
+        "display_name": "𝐆𝐄𝐑𝐄𝐌𝐈𝐀𝐒 🏆🔟🍺",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 47,
+      "comment_id": "47",
+      "text": "podemos elegir",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769202080,
+      "user": {
+        "id": "yoncitolxtlv",
+        "username": "yoncitolxtlv",
+        "display_name": "yoncitolxtlv",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 48,
+      "comment_id": "48",
+      "text": "ahora sí tienes mi voto vamos porki",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769202080,
+      "user": {
+        "id": "harveysandovalrod",
+        "username": "Harvey san",
+        "display_name": "Harvey san",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 49,
+      "comment_id": "49",
+      "text": "Ya quiero decir que eres mi presidente",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769202080,
+      "user": {
+        "id": "darth_mishi",
+        "username": "Darth Mishi",
+        "display_name": "Darth Mishi",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 50,
+      "comment_id": "50",
+      "text": "Se corre de las preguntas 😂",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769202080,
+      "user": {
+        "id": "jorge_246",
+        "username": "Jorge♡",
+        "display_name": "Jorge♡",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 51,
+      "comment_id": "51",
+      "text": "pobre abuelito!",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769202080,
+      "user": {
+        "id": "jorge.arnes.de.vi",
+        "username": "JAV",
+        "display_name": "JAV",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 52,
+      "comment_id": "52",
+      "text": "fiesta del chivo en Áncash 😃😃😃",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769202080,
+      "user": {
+        "id": "user3600706594663",
+        "username": "Edber José Raymundo Soto",
+        "display_name": "Edber José Raymundo Soto",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 53,
+      "comment_id": "53",
+      "text": "Dios te Bendiga siempre Rafa 👍",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769202080,
+      "user": {
+        "id": "buhotupapi",
+        "username": "🦉𝙀𝙇 𝘽𝙐𝙃𝙊🦉🌽💜🐷",
+        "display_name": "🦉𝙀𝙇 𝘽𝙐𝙃𝙊🦉🌽💜🐷",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 54,
+      "comment_id": "54",
+      "text": "vamos porkyy",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769202080,
+      "user": {
+        "id": "ideas.del.multive",
+        "username": "Ideas del Multiverso",
+        "display_name": "Ideas del Multiverso",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 55,
+      "comment_id": "55",
+      "text": "ya pero cuando saca absalon Vasquez de sus líneas",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769202080,
+      "user": {
+        "id": "mvpuppyland",
+        "username": "M.v PuppyLand",
+        "display_name": "M.v PuppyLand",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 56,
+      "comment_id": "56",
+      "text": "que lindo eres porky tu corazon es bello",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769202080,
+      "user": {
+        "id": "manuelquispe87",
+        "username": "Manuel Quispe",
+        "display_name": "Manuel Quispe",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 57,
+      "comment_id": "57",
+      "text": "Papi porki, mínimo harás q los bts sean alcaldes unos minutos 😔",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769202080,
+      "user": {
+        "id": "fx.marita_1",
+        "username": "Mara",
+        "display_name": "Mara",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 58,
+      "comment_id": "58",
+      "text": "Ya no está la chirinos ahora si con ganas votamos por ti Rafaelito. 👍🏻👍🏻👍🏻👍🏻👍🏻",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769202080,
+      "user": {
+        "id": "aldoh.1",
+        "username": "Aldo H.",
+        "display_name": "Aldo H.",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 59,
+      "comment_id": "59",
+      "text": "muchas bendiciones 🙏🏻🙏🏻🙏🏻 querido Porky deseamos que Dios siempre lo proteja y bendiga física, emocional y espiritualmente, y nosotros seremos ternas asi cuidaremos a nuestro querido RLA, amen. 💙💫🙏🏻",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769202080,
+      "user": {
+        "id": "chioinfotech",
+        "username": "ChioInfotech",
+        "display_name": "ChioInfotech",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 60,
+      "comment_id": "60",
+      "text": "Gracias, solo les pido primero defender cada voto en las urnas.",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": true,
+      "created_at": 1769202080,
+      "user": {
+        "id": "rafael_lopez_aliaga",
+        "username": "Rafael López Aliaga",
+        "display_name": "Rafael López Aliaga",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    },
+    {
+      "index": 61,
+      "comment_id": "61",
+      "text": "En primera vuelta Rafael López Aliaga Presidente del Perú 2026!!!",
+      "likes": 0,
+      "reply_count": 0,
+      "is_reply": false,
+      "created_at": 1769202080,
+      "user": {
+        "id": "alondra_happiness2025",
+        "username": "LIBERTARIO",
+        "display_name": "LIBERTARIO",
+        "profile_url": "",
+        "verified": false
+      },
+      "parent_comment_id": null
+    }
+  ],
+  "comments_count": 61,
+  "scrape_duration_seconds": 32.8676438331604,
+  "error": null
+}
